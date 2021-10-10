@@ -8,12 +8,9 @@ author_profile: true
 ## Organizing Committee
 
 * Special session co-chair, 25th International ITG Workshop on Smart Antennas (WSA 2021), French Riviera, France, Nov. 2021
-
 * Special session co-chair, 2021 International Conference on Advanced Technologies For Communications (ATC), HCM City, Vietnam, Oct. 2021
-
-* 1st Junior Conference on Wireless and Optical Communications, Paris-Saclay Univ., France, 19, Feb. 2019.
-
-* 1st Young Engineers and Scientists Forum, Honda Foundation, Japan, 18 Nov. 2015.
+* 1st Junior Conference on Wireless and Optical Communications, Paris-Saclay Univ., France, 19, Feb. 2019
+* 1st Young Engineers and Scientists Forum, Honda Foundation, Japan, 18 Nov. 2015
 
 ## Membership
 
@@ -54,11 +51,8 @@ author_profile: true
 ## Talks
 
 * “Massive Uncoordinated Random Access for the Internet of Things,” *Advanced Institute of Engineering and Technology (AVITECH)*, UET, VNU, Vietnam, 11 May 2021.
-
 * “Constellation Design for Noncoherent Communications in SIMO Block-Fading Channel,” *Advanced Institute of Engineering and Technology (AVITECH)*, UET, VNU, Vietnam, 27 Aug. 2019.
-
 * “Noncoherent Wireless Communications: Theoretical Limits and Signal Design,” *Faculty of Electronics and Telecommunications, UET, VNU*, Vietnam, 11 Nov. 2017.
-
 * “An Achievable DoF Region for the Two-User Noncoherent MIMO Broadcast Channel with Statistical CSI,” *Technical University of Munich*, Germany, 22 Sept. 2017
 
 ## Events

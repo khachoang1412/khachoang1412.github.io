@@ -24,7 +24,6 @@ author_profile: true
 ## Funding
 
 * “LANTERN: Low-latency and private edge computing in random-access networks”, *Marie Skłodowska-Curie Individual Fellowship*, 192 000 Euros, 2021-2022, responsibility: **Fellow** 
-
 * “Connecting the Unconnected: A Tool for Digital Inclusion”, *AlumNode Funding*, 5000 Euros, 2021-2022, responsibility: **co-investigator**
 
 ## Selected Honors and Awards
@@ -38,7 +37,6 @@ author_profile: true
 * *Excellent Undergraduate Thesis Award*, UET, VNU, 2014
 * *Third Prize*, Undergraduate Scientific Research Contest, UET, VNU, April 2014
 * [*Honda Young Engineers and Scientists Award*](https://www.hondafoundation.jp/yes/index_en/119), Honda Foundation, Japan, Nov. 2013 (Awarded to 10 selected students from top 6 Vietnamese universities in natural science, engineering and technology)
-
 * *Undergraduate Research Attachment Programme Grant*, National University of Singapore, 2012
 * *Shinnyo scholarship*, Shinnyo-en Organization, Japan 2010–2014 (annually)
 * *Vallet scholarship*, Rencontres du Vietnam, 2011

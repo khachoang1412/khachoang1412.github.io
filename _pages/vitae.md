@@ -21,19 +21,23 @@ author_profile: true
 * *Intern*, [VNPT Technology](https://www.vnpt-technology.vn/en), Vietnam Posts and Telecommunications Group, Vietnam, (Dec. 2013–Mar. 2014) 
 * *Intern*, [Dept. of Electrical and Computer Engineering](https://www.ece.nus.edu.sg/), National University of Singapore, Singapore (July 2012 – Aug. 2012)
 
+## Funding
+
+* “LANTERN: Low-latency and private edge computing in random-access networks”, *Marie Skłodowska-Curie Individual Fellowship*, 192 000 Euros, 2021-2022, responsibility: **Fellow** 
+
+* “Connecting the Unconnected: A Tool for Digital Inclusion”, *AlumNode Funding*, 5000 Euros, 2021-2022, responsibility: **co-investigator**
+
 ## Selected Honors and Awards
 
-* *Signal, Image & Vision Ph.D. Thesis Prize* by EEA, GRETSI and GdR-ISIS, France, 2021
-* *Marie Skłodowska-Curie Actions Individual Fellowship*, 2021
+* [*Signal, Image & Vision Ph.D. Thesis Prize*](http://gretsi.fr/prix-de-these2021/resultats.php) by EEA, GRETSI and GdR-ISIS, France, 2021
+* [*Marie Skłodowska-Curie Actions Individual Fellowship*](https://cordis.europa.eu/project/id/101022113), 2021
 * *Romberg Grant* for selected participants of the 7th Heidelberg Laureate Forum, Germany, Sept. 2019
 * *Graduate with first-class honors (Master level)*, CentraleSupélec, 2016
 * *Université Paris-Saclay scholarship*, University of Paris-Saclay, 2015–2016
 * *Graduate with first-class honors (Bachelor level)*, UET, VNU, 2014
 * *Excellent Undergraduate Thesis Award*, UET, VNU, 2014
 * *Third Prize*, Undergraduate Scientific Research Contest, UET, VNU, April 2014
-* [*Honda Young Engineers and Scientists Award*](https://www.hondafoundation.jp/yes/index_en/119), Honda Foundation, Japan, Nov. 2013
-
-Awarded to 10 selected students from top 6 Vietnamese universities in natural science, engineering and technology.
+* [*Honda Young Engineers and Scientists Award*](https://www.hondafoundation.jp/yes/index_en/119), Honda Foundation, Japan, Nov. 2013 (Awarded to 10 selected students from top 6 Vietnamese universities in natural science, engineering and technology)
 
 * *Undergraduate Research Attachment Programme Grant*, National University of Singapore, 2012
 * *Shinnyo scholarship*, Shinnyo-en Organization, Japan 2010–2014 (annually)

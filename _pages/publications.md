@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. G. Gur, P. Porambage, P. Porambage, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, and M. Liyanage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *Elsevier Computer Science Review*, July 2021, **invited paper**.
+1. G. Gur, P. Porambage, P. Porambage, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, and M. Liyanage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *Elsevier Computer Science Review*, July 2021.
 
 1. **Khac-Hoang Ngo**, S. Yang, M. Guillaud, and A. Decurninge, "Joint constellation design for the non-coherent MIMO multiple-access channel," submitted to *IEEE Trans. Inf. Theory*, 2020.
 
@@ -23,7 +23,7 @@ author_profile: true
 
 ## Conference papers
 
-1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021.
+1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**.
 
 1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, "Massive uncoordinated access with random user activity," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[arXiv]](https://arxiv.org/pdf/2103.09721.pdf)
 

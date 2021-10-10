@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Khac-Hoang Ngo (Ngô Khắc Hoàng)"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Khac-Hoang Ngo"
+name                     : &name "Khac-Hoang Ngo (Ngô Khắc Hoàng)"
 description              : &description "Ph.D. in Wireless Communications and Information Theory"
 url                      : https://khachoang1412.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

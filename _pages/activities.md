@@ -51,12 +51,6 @@ author_profile: true
 * 2020: IEEE ISIT
 * 2021: ISWCS, IEEE ITW, ATC, WSA
 
-## Funding
-
-* “LANTERN: Low-latency and private edge computing in random-access networks”, *Marie Skłodowska-Curie Individual Fellowship*, 192 000 Euros, 2021-2022, responsibility: **Fellow** 
-
-* “Connecting the Unconnected: A Tool for Digital Inclusion”, *AlumNode Funding*, 5000 Euros, 2021-2022, responsibility: **co-investigator**
-
 ## Talks
 
 * “Massive Uncoordinated Random Access for the Internet of Things,” *Advanced Institute of Engineering and Technology (AVITECH)*, UET, VNU, Vietnam, 11 May 2021.

@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Education & Experiences"
-    url: /experiences/   
+  - title: "Vitae"
+    url: /vitae/   
     
   - title: "Publications"
     url: /publications/
@@ -13,5 +13,5 @@ main:
   - title: "Activities"
     url: /activities/
         
-  - title: "Honors & Awards"
-    url: /awards/
+  - title: "misc"
+    url: /misc/

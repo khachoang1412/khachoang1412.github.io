@@ -72,3 +72,6 @@ author_profile: true
 * 7th Heidelberg Laureate Forum, Germany, Sept. 2019. [Get interviewed in the 10-out-of-200 list of participants](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
 * Young Engineers and Scientists Tokyo Meeting, Tokyo, Japan, Nov. 2014.
 * Volunteer for conferences: IEEE ICC 2017, IEEE ISIT 2019
+
+## Other
+* **Administrator** of [telecom-vn](https://www.facebook.com/groups/telecomvn) -- a Facebook group for Vietnamese researchers in telecommunications. Organize regular seminars.

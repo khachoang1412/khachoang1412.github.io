@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Researcher at the [Communication Systems Group](https://www.chalmers.se/en/staff/Pages/ngok.aspx)
-[Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx)
+Postdoctoral Researcher at the [Communication Systems Group](https://www.chalmers.se/en/staff/Pages/ngok.aspx)\
+[Chalmers University of Technology](https://www.chalmers.se/sv/Sidor/default.aspx)\
 Gothenburg, Sweden
 
 Bio

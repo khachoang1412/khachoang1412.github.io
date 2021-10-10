@@ -28,3 +28,6 @@ Chalmers University of Technology \
 Hörsalsvägen 11, EDIT trappa C, D och H, Floor 6,\
 SE-412 96 Gothenburg, Sweden 
 * Emails: ngok [at] chalmers [dot] se (working); khachoang1412 [at] gmail [dot] com (personal)
+
+News
+======

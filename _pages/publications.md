@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Journal Papers
+======
 
 1. G. Gur, P. Porambage, P. Porambage, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, and M. Liyanage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *Elsevier Computer Science Review*, July 2021, **invited paper**.
 
@@ -22,6 +23,7 @@ author_profile: true
 1. **Khac-Hoang Ngo**, S. Yang and M. Kobayashi, "Scalable Content Delivery With Coded Caching in Multi-Antenna Fading Channels," in *IEEE Trans. Wireless Commun.*, vol. 17, no. 1, pp. 548-562, Jan. 2018. [[arXiv]](https://arxiv.org/pdf/1703.06538.pdf)
 
 ## Conference papers
+======
 
 1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021.
 
@@ -63,6 +65,7 @@ author_profile: true
 
 
 ## Conference posters
+======
 
 1. **Khac-Hoang Ngo**, S. Yang, and M. Guillaud, “Generalized Gaussian model for data-driven learning in communications,” in *International Zurich Seminar on Information and Communication (IZS)*, Zurich, Switzerland, Feb. 2020.
 
@@ -70,17 +73,17 @@ author_profile: true
 
 
 ## Technical reports
-
+======
 1. **Khac-Hoang Ngo**, “Solar panel charge controller,” Dept. of Electrical and Computer Engineering, National University of Singapore, Singapore, Internship report, Aug. 2012.
 
 
 ## Patents
-
+======
 1. **Khac-Hoang Ngo**, A. Decurninge, M. Guillaud, and S. Yang, "Transmitter and receiver communication apparatus for non-coherent communication." *U.S. Patent Application 17/243,679*, filed August 19, 2021.
 
 
 ## These
-
+======
 * [Ph.D.] Khac-Hoang Ngo, "Noncoherent Wireless Communications: Fundamental Limits and System Design", CentraleSupélec, University of Paris-Saclay, France, Sep. 2016. [**(2021 "Signal, Image & Vision Ph.D. Thesis Prize" by Club EEA, GRETSI and GdR-ISIS, France)**](http://gretsi.fr/prix-de-these2021/resultats.php) [[PDF]](https://tel.archives-ouvertes.fr/tel-02900446/document)
 
 * [MSc] Khac-Hoang Ngo, “Performance Analysis of Coded Caching”, CentraleSupélec, University of Paris-Saclay, France, Sep. 2016. [[PDF]](https://www.researchgate.net/publication/308636446_Performance_Analysis_of_Coded_Caching)

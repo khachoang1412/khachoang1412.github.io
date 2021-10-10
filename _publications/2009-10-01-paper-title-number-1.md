@@ -1,5 +1,4 @@
 ---
-collection: publications
 
 Journal Papers
 ======

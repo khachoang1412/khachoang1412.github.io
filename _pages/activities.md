@@ -27,29 +27,29 @@ author_profile: true
 
 ### International Journals
 
-* IEEE Transactions on Information Theory\
-* IEEE Transactions on Vehicular Technology\
-* IEEE Transactions on Communications\
-* IEEE Transactions on Wireless Communications\
-* IEEE Transactions on Signal and Information Processing over Networks\
-* IEEE Transactions on Signal Processing\
-* IEEE Journal on Selected Areas in Communications\
-* IEEE Communications Letters\
-* IEEE Wireless Communications Letters\
+* IEEE Transactions on Information Theory
+* IEEE Transactions on Vehicular Technology
+* IEEE Transactions on Communications
+* IEEE Transactions on Wireless Communications
+* IEEE Transactions on Signal and Information Processing over Networks
+* IEEE Transactions on Signal Processing
+* IEEE Journal on Selected Areas in Communications
+* IEEE Communications Letters
+* IEEE Wireless Communications Letters
 * IEEE Vehicular Technology Magazine 
  
 ### Domestic Journals
 
-* ICT Research Journal, Vietnam Ministry of Information and Communications\
+* ICT Research Journal, Vietnam Ministry of Information and Communications
 * VNU Journal of Science: Computer Science and Communication Engineering, Vietnam
 
 ### International Conferences
 
-* 2017: IEEE GLOBECOM, IEEE ICC\
-* 2018: IEEE ICC, ISWCS, IEEE ITW, ISTC, NICS\
-* 2019: IEEE SPAWC, ISCIT\
-* 2020: IEEE ISIT\
-* 2021: ISWCS, IEEE ITW, ATC, WSA\
+* 2017: IEEE GLOBECOM, IEEE ICC
+* 2018: IEEE ICC, ISWCS, IEEE ITW, ISTC, NICS
+* 2019: IEEE SPAWC, ISCIT
+* 2020: IEEE ISIT
+* 2021: ISWCS, IEEE ITW, ATC, WSA
 
 ## Funding
 
@@ -68,7 +68,7 @@ author_profile: true
 * “An Achievable DoF Region for the Two-User Noncoherent MIMO Broadcast Channel with Statistical CSI,” *Technical University of Munich*, Germany, 22 Sept. 2017
 
 ## Events
-* 2nd and 3rd Global Young Vietnamese Scholars Forum, Vietnam, Nov. 2019 and Nov. 2020. \
-* 7th Heidelberg Laureate Forum, Germany, Sept. 2019. [Get interviewed in the 10-out-of-200 list of participants](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)\
-* Young Engineers and Scientists Tokyo Meeting, Tokyo, Japan, Nov. 2014.\
+* 2nd and 3rd Global Young Vietnamese Scholars Forum, Vietnam, Nov. 2019 and Nov. 2020. 
+* 7th Heidelberg Laureate Forum, Germany, Sept. 2019. [Get interviewed in the 10-out-of-200 list of participants](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
+* Young Engineers and Scientists Tokyo Meeting, Tokyo, Japan, Nov. 2014.
 * Volunteer for conferences: IEEE ICC 2017, IEEE ISIT 2019

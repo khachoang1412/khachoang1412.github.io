@@ -7,6 +7,7 @@ author_profile: true
 
 ## Useful Links
 
+* [telecom-vn](https://www.facebook.com/groups/telecomvn) - a Facebook group for Vietnamese researchers in telecommunications
 * [Academic Gates](https://www.academicgates.com/)
 
 ## My Favorite Books on Scientific Writing

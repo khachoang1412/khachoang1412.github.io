@@ -10,11 +10,13 @@ author_profile: true
 * [telecom-vn](https://www.facebook.com/groups/telecomvn) - a Facebook group for Vietnamese researchers in telecommunications
 * [Academic Gates](https://www.academicgates.com/) - a useful academic job page
 
+---
 ## My Favorite Books on Scientific Writing
 
 * The Elements of Style, Strunk & White.
 * Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded, Joshua Schimel.
 
+---
 ## Media Coverage
 
 ### In English

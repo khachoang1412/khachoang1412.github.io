@@ -1,13 +1,13 @@
 ---
 layout: archive
-permalink: /news/
+permalink: /posts/
 author_profile: true
 title: "News"
 classes: wide
 author_profile: true
 category: news-post
 redirect_from:
-  - /news
+  - /posts
 ---
 
 

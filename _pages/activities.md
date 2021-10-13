@@ -12,14 +12,17 @@ author_profile: true
 * 1st Junior Conference on Wireless and Optical Communications, Paris-Saclay Univ., France, 19, Feb. 2019
 * 1st Young Engineers and Scientists Forum, Honda Foundation, Japan, 18 Nov. 2015
 
+---
 ## Membership
 
 * Member of IEEE, IEEE Information Theory Society, IEEE Communications Society, and IEEE Signal Processing Society.
 
+---
 ## Editorship
 
 * Copyeditor for the ICT Research Journal, Vietnam Ministry of Information and Communications, 2020.
 
+---
 ## Reviewer
 
 ### International Journals
@@ -48,6 +51,7 @@ author_profile: true
 * 2020: IEEE ISIT
 * 2021: ISWCS, IEEE ITW, ATC, WSA
 
+---
 ## Talks
 
 * “Massive Uncoordinated Random Access for the Internet of Things,” *Advanced Institute of Engineering and Technology (AVITECH)*, UET, VNU, Vietnam, 11 May 2021.
@@ -55,11 +59,13 @@ author_profile: true
 * “Noncoherent Wireless Communications: Theoretical Limits and Signal Design,” *Faculty of Electronics and Telecommunications, UET, VNU*, Vietnam, 11 Nov. 2017.
 * “An Achievable DoF Region for the Two-User Noncoherent MIMO Broadcast Channel with Statistical CSI,” *Technical University of Munich*, Germany, 22 Sept. 2017
 
+---
 ## Events
 * 2nd and 3rd Global Young Vietnamese Scholars Forum, Vietnam, Nov. 2019 and Nov. 2020. 
 * 7th Heidelberg Laureate Forum, Germany, Sept. 2019. [Get interviewed in the 10-out-of-200 list of participants](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
 * Young Engineers and Scientists Tokyo Meeting, Tokyo, Japan, Nov. 2014.
 * Volunteer for conferences: IEEE ICC 2017, IEEE ISIT 2019
 
+---
 ## Other
 * **Administrator** of [telecom-vn](https://www.facebook.com/groups/telecomvn) -- a Facebook group for Vietnamese researchers in telecommunications. Organize regular seminars.

@@ -31,6 +31,7 @@ author_profile: true
 ---
 ## Selected Honors and Awards
 
+* *Best Paper Award*, [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam, 2021
 * [*Signal, Image & Vision Ph.D. Thesis Prize*](http://gretsi.fr/prix-de-these2021/resultats.php) by EEA, GRETSI and GdR-ISIS, France, 2021
 * [*Marie Skłodowska-Curie Actions Individual Fellowship*](https://cordis.europa.eu/project/id/101022113), 2021
 * *Romberg Grant* for selected participants of the 7th Heidelberg Laureate Forum, Germany, Sept. 2019

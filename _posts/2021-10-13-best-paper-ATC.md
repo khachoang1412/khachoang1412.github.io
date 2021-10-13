@@ -11,9 +11,9 @@ tags:
 header:
   teaser: /images/HHRIS.PNG
 ---
-<img src="/images/HHRIS.PNG" alt="HRRIS" style="width:600px; float: center;"/>
+<img src="/images/HHRIS.PNG" alt="HRRIS" style="width:500px; float: center;"/>
 
-Our paper entitled "Low-Latency and Secure Computation Offloading Assisted by Hybrid Relay-Reflecting Intelligent Surface" receives the Best Paper Award at the [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam.
+Our paper entitled **"Low-Latency and Secure Computation Offloading Assisted by Hybrid Relay-Reflecting Intelligent Surface"** receives the Best Paper Award at the [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam.
 
 This is a joint work with Nhan Thanh Nguyen and Markku Juntti (University of Oulu, Finland), Thinh Quang Dinh (Fossil Vietnam), and Trong-Minh Hoang (Posts and Telecommunications
 Institute of Technology, Vietnam).

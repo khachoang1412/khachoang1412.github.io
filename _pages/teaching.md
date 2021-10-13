@@ -12,6 +12,7 @@ author_profile: true
 * 2021: Statistics and machine learning in high dimensions (master/PhD course, fall semester, taught in
 English, 8 hours)
 
+---
 ## Supervision
 
 ### Master student research projects: Co-supervisor

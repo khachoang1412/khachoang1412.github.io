@@ -2,7 +2,7 @@
 title: 'Best paper award at ATC 2021'
 date: 2021-10-13
 read_time: false
-excerpt: "Best Paper Award at the [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam"
+excerpt: "Best Paper Award at the [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam <br/><img src='/images/HRRIS.PNG'>"
 categories:
   - news-post
 tags:
@@ -23,4 +23,4 @@ reduction gain offered by the HRRIS is much more significant than that of the co
 
 [[PDF]](https://arxiv.org/pdf/2109.01335.pdf)
 
-![](/images/HRRIS.png)
+![](/images/HRRIS.PNG)

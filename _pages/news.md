@@ -7,7 +7,7 @@ classes: wide
 author_profile: true
 category: news-post
 redirect_from:
-  - /wordpress/blog-posts/
+  - /news
 ---
 
 

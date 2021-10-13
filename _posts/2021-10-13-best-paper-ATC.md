@@ -2,15 +2,16 @@
 title: 'Best paper award at ATC 2021'
 date: 2021-10-13
 read_time: false
-excerpt: "Best Paper Award at the [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam <br/><img src='/images/HRRIS.JPG'>"
+excerpt: "Best Paper Award at the [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam"
 categories:
   - news-post
 tags:
   - papers
   - conference
 header:
-  teaser: /images/HRRIS.JGP
+  teaser: /images/HHRIS.PNG
 ---
+![](/images/HHRIS.PNG "HRRIS")
 
 Our paper entitled "Low-Latency and Secure Computation Offloading Assisted by Hybrid Relay-Reflecting Intelligent Surface" receives the Best Paper Award at the [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam.
 
@@ -22,5 +23,3 @@ Recently, the hybrid relay-reflecting intelligent surface (HRRIS) has been intro
 reduction gain offered by the HRRIS is much more significant than that of the conventional reconfigurable intelligent surface (RIS).
 
 [[PDF]](https://arxiv.org/pdf/2109.01335.pdf)
-
-![](/images/HRRIS.JPG)

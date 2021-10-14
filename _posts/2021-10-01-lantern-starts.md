@@ -11,6 +11,7 @@ tags:
   - project
   - LANTERN
 ---
+
 <img src="/images/lantern_model.PNG" alt="LANTERN" style="width:500px; float: center;"/>
 
 On Oct 01, 2021, I start my MSCA project **"LANTERN: Low-latency and private edge computing in random-access networks"**. Details about the project: [https://europa.eu/!MNF4Vm](https://europa.eu/!MNF4Vm).

@@ -43,7 +43,7 @@ The results of this project will help paving the way to the full realization of 
 * Topic: [MSCA-IF-2020 - Individual Fellowships](https://cordis.europa.eu/programme/id/H2020_MSCA-IF-2020)
 * Funding Scheme: MSCA-IF-EF-ST - Standard EF
 * Overall budget: € 191 852,16
-* Start date: 1 October 2021                         End date: 30 September 2023
+* Period: 1 October 2021 - 30 September 2023
 * Beneficiary: [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx), Gothenburg, Sweden
 * Fellow: [Khac-Hoang Ngo](https://khachoang1412.github.io/)
 * Supervisors: [Alexandre Graell i Amat](https://sites.google.com/site/agraellamat/) and [Giuseppe Durisi](https://gdurisi.github.io/)

@@ -15,14 +15,14 @@ Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie
 
 ---
 
-## Paving the way to the future of the Internet of things
+# Paving the way to the future of the Internet of things
 
 With the continuous rise of the Internet of things and the steady spread of connected devices, there is an increasing need concerning private edge computing and connectivity. 
 This project will assist in fulfilling this need by researching low-latency and private edge computing networks and studying ways in which they could be developed in wireless random access networks. We aim to overcome the challenges of establishing foundations for privacy and reliability in latency-critical, multiserver and multiclient edge computing and in devising resilient coding schemes intertwined with energy-efficient scalable wireless random access methodologies.
 
 ---
 
-## Project objective
+# Project objective
 
 We are living in a world where connected devices outnumber human population, and this trend keeps growing: around 24.6 billion connections are forecasted in 2025—more than three times the estimated population. This gives rise to the Internet of Things (IoT) in which virtually all devices are interconnected and continuously share data. The IoT is a key enabler for a host of applications, such as intelligent transportation systems, smart cities, and smart grids. Thus it promises to transform the way we live. To realize the IoT, it is crucial and timely to develop a communication and computation infrastructure that is able to support the processing of a vast amount of time-sensitive data, for which a centralized computation is inadequate. Edge computing has emerged as a novel paradigm to guarantee very low-latency and high-bandwidth computing services. It involves moving the computation power from the cloud to where data is generated, by pooling the available resources at the network edge.
 
@@ -34,7 +34,7 @@ In this project, we investigate how low-latency and private edge computing proto
 The results of this project will help paving the way to the full realization of the IoT in the near future.
 
 ---
-## Project description
+# Project description
 
 * Fields of science: smart city, wireless, internet of things
 * Programme: [H2020-EU.1.3.2. - Nurturing excellence by means of cross-border and cross-sector mobility](https://cordis.europa.eu/programme/id/H2020-EU.1.3.2.)
@@ -48,20 +48,20 @@ The results of this project will help paving the way to the full realization of 
 * Supervisors: [Alexandre Graell i Amat](https://sites.google.com/site/agraellamat/) and [Giuseppe Durisi](https://gdurisi.github.io/)
 
 ---
-## Publications
+# Publications
 
-### Conference papers
+## Conference papers
 
 1. **Khac-Hoang Ngo**, N. T. Nguyen, T. Q. Dinh, T.-M. Hoang, and M. Juntti, "Low-latency and secure computation offloading assisted by hybrid relay-reflecting intelligent surface," in *International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2021. [[arXiv]](https://arxiv.org/pdf/2109.01335.pdf)
 
 ---
 
-## Achievements
+# Achievements
 
 * *Best Paper Award*, [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam, 2021
 
 ---
-## Miscellaneous
+# Miscellaneous
 
 {% include base_path %}
 

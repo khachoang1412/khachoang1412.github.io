@@ -63,12 +63,12 @@ The results of this project will help paving the way to the full realization of 
 ---
 # Miscellaneous
 
+<div class="grid__wrapper">
 {% include base_path %}
-
-
-{% for post in site.lantern %}
+{% for post in site.categories.lantern %}
   {% include archive-single.html %}
 {% endfor %}
+</div>
 
 ---
 # News

@@ -55,6 +55,22 @@ The results of this project will help paving the way to the full realization of 
 1. **Khac-Hoang Ngo**, N. T. Nguyen, T. Q. Dinh, T.-M. Hoang, and M. Juntti, "Low-latency and secure computation offloading assisted by hybrid relay-reflecting intelligent surface," in *International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2021. [[arXiv]](https://arxiv.org/pdf/2109.01335.pdf)
 
 ---
+
+## Achievements
+
+* *Best Paper Award*, [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam, 2021
+
+---
+## Miscellaneous
+
+{% include base_path %}
+
+
+{% for post in site.lantern %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
 # News
 
 <div class="grid__wrapper">

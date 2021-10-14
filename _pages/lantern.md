@@ -66,7 +66,7 @@ The results of this project will help paving the way to the full realization of 
 # Miscellaneous
 
 * [About Marie Skłodowska-Curie Actions (MSCA)](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/marie-sklodowska-curie-actions)
-* [About MSCA Individual Fellowship](https://cordis.europa.eu/programme/id/H2020_MSCA-IF-2020)
+* [About MSCA Individual Fellowship (IF)](https://cordis.europa.eu/programme/id/H2020_MSCA-IF-2020)
 * [Who was Marie Skłodowska-Curie?](https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/)
 
 <div class="grid__wrapper">

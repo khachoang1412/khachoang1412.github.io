@@ -3,6 +3,15 @@ layout: archive
 title: "LANTERN"
 permalink: /lantern/
 author_profile: true
+category: project
+redirect_from:
+  - /lantern
 ---
 
 <img src="/images/lantern_model.PNG" alt="LANTERN" style="width:500px; float: center;"/>
+
+{% include base_path %}
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}

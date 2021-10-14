@@ -5,6 +5,7 @@ read_time: false
 excerpt: "Our paper got the Best Paper Award at the [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam"
 header:
   teaser: /images/HHRIS.PNG
+  image: /images/HHRIS.PNG
 categories:
   - news-post
 tags:

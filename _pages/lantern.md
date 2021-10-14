@@ -67,7 +67,7 @@ The results of this project will help paving the way to the full realization of 
 
 <div class="grid__wrapper">
 {% for post in site.categories.lantern %}
-  {% include archive-single.html %}
+  {% include archive-single.html type="grid" %}
 {% endfor %}
 </div>
 

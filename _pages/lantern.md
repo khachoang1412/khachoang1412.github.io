@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/lantern_model.PNG" alt="LANTERN" style="width:500px; float: center;"/>
 
-**LANTERN: Low-lAtency aNd privaTe Edge computing in Random-access Networks** is an H2020-MSCA-IF project. It receives funding from the European Union’s
+[**LANTERN: Low-lAtency aNd privaTe Edge computing in Random-access Networks**](https://cordis.europa.eu/project/id/101022113) is an H2020-MSCA-IF project. It receives funding from the European Union’s
 Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101022113.
 
 ---

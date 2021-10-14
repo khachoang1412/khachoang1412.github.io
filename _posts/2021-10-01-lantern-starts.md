@@ -1,6 +1,6 @@
 ---
 title: 'My MSCA project LANTERN starts'
-date: 2021-10-13
+date: 2021-10-01
 read_time: false
 excerpt: "I start my MSCA project "LANTERN: Low-latency and private edge computing in random-access networks""
 header:

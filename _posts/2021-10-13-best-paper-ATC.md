@@ -11,6 +11,7 @@ categories:
 tags:
   - papers
   - conference
+  - LANTERN
 ---
 <img src="/images/HHRIS.PNG" alt="HRRIS" style="width:500px; float: center;"/>
 

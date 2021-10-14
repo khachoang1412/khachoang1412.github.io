@@ -5,6 +5,7 @@ read_time: false
 excerpt: "I start my MSCA project **LANTERN: Low-latency and private edge computing in random-access networks**"
 header:
   teaser: /images/lantern_model.PNG
+  image: /images/lantern_model.PNG
 categories:
   - news-post
 tags:

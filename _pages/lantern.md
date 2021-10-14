@@ -52,6 +52,8 @@ The results of this project will help paving the way to the full realization of 
 
 ## Conference papers
 
+1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**.
+
 1. **Khac-Hoang Ngo**, N. T. Nguyen, T. Q. Dinh, T.-M. Hoang, and M. Juntti, "Low-latency and secure computation offloading assisted by hybrid relay-reflecting intelligent surface," in *International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2021. [[arXiv]](https://arxiv.org/pdf/2109.01335.pdf)
 
 ---

@@ -1,14 +1,13 @@
 ---
 title: "About Marie Sklodowska Curie Actions"
 excerpt: "The Marie Skłodowska-Curie Actions in Horizon 2020 "
-collection: lantern
+categories:
+  - lantern
 ---
 
 <img src="/images/MSCA.jpg" alt="MSCA" style="width:500px; float: center;"/>
 
 **The Marie Skłodowska-Curie Actions in Horizon 2020**
-
- 
 
 The [Marie Skłodowska-Curie Actions (MSCA)](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/marie-sklodowska-curie-actions) is part of the European Commission’s Horizon 2020 research funding scheme and aims to support the career development and training of researchers – with a focus on innovation skills – in all scientific disciplines through international and intersectoral mobility.
 

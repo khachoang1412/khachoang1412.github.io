@@ -1,7 +1,8 @@
 ---
 title: "Who was Marie Skłodowska-Curie?"
 excerpt: "A short biography of Marie Skłodowska-Curie"
-collection: lantern
+categories:
+  - lantern
 ---
 
 <img src="/images/marie-curie.jpg" alt="Marie_Curie" style="width:250px; float: center;"/>

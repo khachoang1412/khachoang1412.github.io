@@ -27,6 +27,8 @@ author_profile: true
 
 ### International Journals
 
+* IEEE Internet of Things Journal
+* IEEE Journal on Selected Areas in Information Theory
 * IEEE Transactions on Information Theory
 * IEEE Transactions on Vehicular Technology
 * IEEE Transactions on Communications

@@ -8,6 +8,7 @@ author_profile: true
 ## Useful Links
 
 * [telecom-vn](https://www.facebook.com/groups/telecomvn) - a Facebook group for Vietnamese researchers in telecommunications
+* [telecom-vn's youtube channel](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ)
 * [Academic Gates](https://www.academicgates.com/) - a useful academic job page
 
 ---

@@ -15,7 +15,7 @@ redirect_from:
 Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 101022113.
 
 ---
-<img src="/images/lantern_model.PNG" alt="LANTERN_MODEL" style="width:500px; float: center;"/>
+<img src="/images/lantern_model.PNG" alt="LANTERN_MODEL" style="width:700px; float: center;"/>
 
 # Paving the way to the future of the Internet of things
 

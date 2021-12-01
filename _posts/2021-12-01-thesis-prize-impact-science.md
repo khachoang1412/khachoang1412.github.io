@@ -12,7 +12,7 @@ tags:
   - thesis
   - prize
 ---
-<img src="/images/HHRIS.PNG" alt="HRRIS" style="width:500px; float: center;"/>
+<img src="/images/impact_science.png" alt="impact_science" style="width:600px; float: center;"/>
 
 I am glad and honored to receive the second prize in Impact Science catergory by CentraleSupélec Foundation for my Ph.D. thesis on noncoherent wireless communications. 
 These prizes are awarded to best theses defended from Jan. 2020 to Oct. 2021 in CentraleSupélec, Paris-Saclay University (all disciplines included). 

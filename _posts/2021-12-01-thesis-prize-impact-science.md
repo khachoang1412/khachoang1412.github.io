@@ -4,8 +4,8 @@ date: 2021-12-01
 read_time: false
 excerpt: "I am awarded the second prize in Impact Science catergory by CentraleSupélec Foundation for my Ph.D. thesis"
 header:
-  teaser: /images/impact_science.PNG
-  image: /images/impact_science.PNG
+  teaser: /images/impact_science.png
+  image: /images/impact_science.png
 categories:
   - news-post
 tags:

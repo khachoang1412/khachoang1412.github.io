@@ -7,6 +7,7 @@ author_profile: true
 
 ## Organizing Committee
 
+* Communication track chair, 2022 International Conference on Advanced Technologies For Communications (ATC), Hanoi, Vietnam, Oct. 2022
 * Special session co-chair, 25th International ITG Workshop on Smart Antennas (WSA 2021), French Riviera, France, Nov. 2021
 * Special session co-chair, 2021 International Conference on Advanced Technologies For Communications (ATC), HCM City, Vietnam, Oct. 2021
 * 1st Junior Conference on Wireless and Optical Communications, Paris-Saclay Univ., France, 19, Feb. 2019

@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Preprints
+
+1. A. U. Rahman, F. Fourati, **Khac-Hoang Ngo**, A. Jindal, and M.-S. Alouini, “Network graph generation through adaptive clustering and infection dynamics: A step towards global connectivity,” Nov. 2021. arXiv: 2111.10690 [cs.NI].
 
 ## Journal Papers
 
@@ -11,7 +14,7 @@ author_profile: true
 
 1. **Khac-Hoang Ngo**, S. Yang, M. Guillaud, and A. Decurninge, "Joint constellation design for the non-coherent MIMO multiple-access channel," submitted to *IEEE Trans. Inf. Theory*, 2020.
 
-1. F. Zhang, **Khac-Hoang Ngo**, M. Guillaud, S. Yang, and A. Nosratinia, "Transmit correlation diversity: Generalization, new techniques, and improved bounds," submitted to *IEEE Trans. Inf. Theory*, 2020.
+1. F. Zhang, **Khac-Hoang Ngo**, M. Guillaud, S. Yang, and A. Nosratinia, "Transmit correlation diversity: Generalization, new techniques, and improved bounds," accepted to *IEEE Trans. Inf. Theory*, 2020.
 
 1. T.-T.-Q. Tran, L. V. Nguyen, **Khac-Hoang Ngo**, L.-T. Nguyen, Q.-T. Nguyen, N.-Q.-B. Vo, X.-N. Tran, E. Bastug, S. Azarian, M. Debbah, and P. Duhamel, "Network coding with multimedia transmission and cognitive networking: An implementation based on software-defined radio," *REV Journal on Electronics and Communications*, 10, (3-4), 72–84, 2020, **Invited Article**.
 

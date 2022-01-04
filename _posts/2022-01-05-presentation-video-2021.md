@@ -16,8 +16,6 @@ In 2021, I have presented my research in several conferences. Due to the covid-1
 
 [![Noncoherent Wireless Communications: Fundamental Limits and System Design](https://img.youtube.com/vi/EbpBFH7-kpY/0.jpg)](https://www.youtube.com/watch?v=EbpBFH7-kpY)
 
-[![Low-Latency and Secure Computation Offloading Assisted by Hybrid Relay-Reflecting Intelligent Surface](https://img.youtube.com/vi/B1Y-CbGewAw/0.jpg)](https://www.youtube.com/watch?v=B1Y-CbGewAw)
-
 1. K.-H. Ngo, A. Lancho, G. Durisi and A. G. i. Amat, "Massive Uncoordinated Access With Random User Activity," *IEEE International Symposium on Information Theory (ISIT),* 2021, pp. 3014-3019. [PDF](https://arxiv.org/pdf/2103.09721.pdf)
 
 [![Massive Uncoordinated Access With Random User Activity](https://img.youtube.com/vi/6Vr5ZKZzIjw/0.jpg)](https://www.youtube.com/watch?v=6Vr5ZKZzIjw)
@@ -27,6 +25,8 @@ In 2021, I have presented my research in several conferences. Due to the covid-1
 ![Age of information in prioritized random access](https://img.youtube.com/vi/xtyOsdLLIso/0.jpg)](https://www.youtube.com/watch?v=xtyOsdLLIso)
 
 1. K.-H. Ngo, N. T. Nguyen, T. Q. Dinh, T. -M. Hoang and M. Juntti, "Low-Latency and Secure Computation Offloading Assisted by Hybrid Relay-Reflecting Intelligent Surface," *International Conference on Advanced Technologies for Communications (ATC),* 2021, pp. 306-311. [PDF](https://arxiv.org/pdf/2109.01335.pdf)
+
+[![Low-Latency and Secure Computation Offloading Assisted by Hybrid Relay-Reflecting Intelligent Surface](https://img.youtube.com/vi/B1Y-CbGewAw/0.jpg)](https://www.youtube.com/watch?v=B1Y-CbGewAw)
 
 1. K.-H. Ngo and S. Yang, "A Generalized Gaussian Model for Wireless Communications," *IEEE International Symposium on Information Theory (ISIT),* 2021, pp. 3237-3242. [PDF](https://research.chalmers.se/publication/522211/file/522211_AdditionalFile_2ad4209d.pdf)
 

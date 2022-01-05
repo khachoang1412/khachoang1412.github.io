@@ -2,7 +2,7 @@
 title: 'Recorded videos of my presentations in 2021'
 date: 2022-01-05
 read_time: false
-excerpt: "Recorded videos of my presentations in 2021"
+excerpt: "A collection of recorded videos of my presentations in several conferences in 2021"
 categories:
   - news-post
 tags:

@@ -18,7 +18,7 @@ A short presentation of my Ph.D. thesis "Noncoherent Wireless Communications: Fu
 [![Noncoherent Wireless Communications: Fundamental Limits and System Design](https://img.youtube.com/vi/EbpBFH7-kpY/0.jpg)](https://www.youtube.com/watch?v=EbpBFH7-kpY)
 
 ---
-K.-H. Ngo, A. Lancho, G. Durisi and A. G. i. Amat, "Massive Uncoordinated Access With Random User Activity," *IEEE International Symposium on Information Theory (ISIT),* 2021, pp. 3014-3019. [PDF](https://arxiv.org/pdf/2103.09721.pdf)
+K.-H. Ngo, A. Lancho, G. Durisi and A. Graell i Amat, "Massive Uncoordinated Access With Random User Activity," *IEEE International Symposium on Information Theory (ISIT),* 2021, pp. 3014-3019. [PDF](https://arxiv.org/pdf/2103.09721.pdf)
 
 [![Massive Uncoordinated Access With Random User Activity](https://img.youtube.com/vi/6Vr5ZKZzIjw/0.jpg)](https://www.youtube.com/watch?v=6Vr5ZKZzIjw)
 

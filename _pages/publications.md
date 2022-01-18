@@ -4,11 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Preprints
-
-1. A. U. Rahman, F. Fourati, **Khac-Hoang Ngo**, A. Jindal, and M.-S. Alouini, “Network graph generation through adaptive clustering and infection dynamics: A step towards global connectivity,” Nov. 2021. arXiv: 2111.10690 [cs.NI].
 
 ## Journal Papers
+
+1. A. U. Rahman, F. Fourati, **Khac-Hoang Ngo**, A. Jindal, and M.-S. Alouini, “Network graph generation through adaptive clustering and infection dynamics: A step towards global connectivity,” submitted to *IEEE Commun. Lett.*, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2111.10690.pdf) 
 
 1. G. Gur, P. Porambage, P. Porambage, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, and M. Liyanage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *Elsevier Computer Science Review*, July 2021.
 
@@ -85,7 +84,7 @@ author_profile: true
 ---
 ## These
 
-* [Ph.D.] Khac-Hoang Ngo, "Noncoherent Wireless Communications: Fundamental Limits and System Design", CentraleSupélec, University of Paris-Saclay, France, Sep. 2016. [**(2021 "Signal, Image & Vision Ph.D. Thesis Prize" by Club EEA, GRETSI and GdR-ISIS, France)**](http://gretsi.fr/prix-de-these2021/resultats.php) [[PDF]](https://tel.archives-ouvertes.fr/tel-02900446/document)
+* [Ph.D.] Khac-Hoang Ngo, "Noncoherent Wireless Communications: Fundamental Limits and System Design", CentraleSupélec, University of Paris-Saclay, France, Sep. 2016. [**(2021 "Signal, Image & Vision Ph.D. Thesis Prize" by Club EEA, GRETSI and GdR-ISIS, France)**](http://gretsi.fr/prix-de-these2021/resultats.php) [**Impact Science 2nd Prize, CentraleSupélec Foundation, France**](https://www.fondation-centralesupelec.fr/ceremonie-de-remise-des-prix-de-these-2021-de-la-fondation-centralesupelec/) [[PDF]](https://tel.archives-ouvertes.fr/tel-02900446/document) 
 
 * [MSc] Khac-Hoang Ngo, “Performance Analysis of Coded Caching”, CentraleSupélec, University of Paris-Saclay, France, Sep. 2016. [[PDF]](https://www.researchgate.net/publication/308636446_Performance_Analysis_of_Coded_Caching)
 

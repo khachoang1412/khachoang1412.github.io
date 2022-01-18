@@ -2,7 +2,7 @@
 title: 'Matlab routines for our paper *Age of Information in Prioritized Random Access*'
 date: 2022-01-18
 read_time: false
-excerpt: "Matlab numerical routines for our paper "Age of Information in Prioritized Random Access" presented in Asilomar 2021."
+excerpt: "Matlab numerical routines for our paper *Age of Information in Prioritized Random Access* presented in Asilomar 2021."
 categories:
   - news-post
 tags:
@@ -10,8 +10,7 @@ tags:
   - reproducibleResearch
   - conference
 ---
-
-<img src="/images/AoI_Asilomar.png" alt="AoI_Asilomar" style="width:600px; float: center;"/>
+<img src="/images/AoI_Asilomar.PNG" alt="AoI_Asilomar" style="width:600px; float: center;"/>
 
 The matlab numerical routines in our paper:
 

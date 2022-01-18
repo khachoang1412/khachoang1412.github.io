@@ -10,12 +10,13 @@ tags:
   - reproducibleResearch
   - conference
 ---
+
 <img src="/images/AoI_Asilomar.png" alt="AoI_Asilomar" style="width:600px; float: center;"/>
 
 The matlab numerical routines in our paper:
 
 K.-H. Ngo, G. Durisi, and A. Graell i Amat, "Age of information in prioritized random access," in 55th Asilomar Conference on Signals, Systems, and Computers, CA, USA, Oct. 2021.
 
-is now available at [https://github.com/khachoang1412/AoI_prioritized_random_access](https://github.com/khachoang1412/AoI_prioritized_random_access).
+are now available at [https://github.com/khachoang1412/AoI_prioritized_random_access](https://github.com/khachoang1412/AoI_prioritized_random_access).
 
 Please, cite the aforementioned paper if you use this code.

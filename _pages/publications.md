@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Papers
 
-1. A. U. Rahman, F. Fourati, **Khac-Hoang Ngo**, A. Jindal, and M.-S. Alouini, “Network graph generation through adaptive clustering and infection dynamics: A step towards global connectivity,” submitted to *IEEE Commun. Lett.*, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2111.10690.pdf) 
+1. A. U. Rahman, F. Fourati, **Khac-Hoang Ngo**, A. Jindal, and M.-S. Alouini, “Network graph generation through adaptive clustering and infection dynamics: A step towards global connectivity,” *IEEE Commun. Lett.*, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2111.10690.pdf) 
 
 1. G. Gur, P. Porambage, P. Porambage, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, and M. Liyanage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *Elsevier Computer Science Review*, July 2021.
 
@@ -26,21 +26,21 @@ author_profile: true
 ---
 ## Conference papers
 
-1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**.
+1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**. [[Video]](https://youtu.be/xtyOsdLLIso)
 
-1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, "Massive uncoordinated access with random user activity," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[arXiv]](https://arxiv.org/pdf/2103.09721.pdf)
+1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, "Massive uncoordinated access with random user activity," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[arXiv]](https://arxiv.org/pdf/2103.09721.pdf) [[Video]](https://youtu.be/6Vr5ZKZzIjw)
 
-1. **Khac-Hoang Ngo**, N. T. Nguyen, T. Q. Dinh, T.-M. Hoang, and M. Juntti, "Low-latency and secure computation offloading assisted by hybrid relay-reflecting intelligent surface," in *International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2021. [[arXiv]](https://arxiv.org/pdf/2109.01335.pdf)
+1. **Khac-Hoang Ngo**, N. T. Nguyen, T. Q. Dinh, T.-M. Hoang, and M. Juntti, "Low-latency and secure computation offloading assisted by hybrid relay-reflecting intelligent surface," in *International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2021. [[arXiv]](https://arxiv.org/pdf/2109.01335.pdf) [[Video]](https://youtu.be/B1Y-CbGewAw)
 
-1. **Khac-Hoang Ngo** and S. Yang, "A generalized Gaussian model for wireless communications," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[PDF]](https://research.chalmers.se/publication/522211/file/522211_AdditionalFile_2ad4209d.pdf)
+1. **Khac-Hoang Ngo** and S. Yang, "A generalized Gaussian model for wireless communications," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[PDF]](https://research.chalmers.se/publication/522211/file/522211_AdditionalFile_2ad4209d.pdf) [[Video]](https://youtu.be/8ViFwzyItFc)
 
-1. **Khac-Hoang Ngo** and S. Yang, “A Riemannian metric for non-coherent constellation design and its application to multiple access channel,” in *25th International ITG Workshop on Smart Antennas*, French Riviera, France, Nov. 2021.
+1. **Khac-Hoang Ngo** and S. Yang, “A Riemannian metric for non-coherent constellation design and its application to multiple access channel,” in *25th International ITG Workshop on Smart Antennas*, French Riviera, France, Nov. 2021. 
 
-1. **Khac-Hoang Ngo**, F. Zhang, S. Yang, and A. Nosratinia, “Two-user MIMO broadcast channel with transmit correlation diversity: Achievable rate regions,” in *IEEE Information Theory Workshop (ITW)*, 2021.
+1. **Khac-Hoang Ngo**, F. Zhang, S. Yang, and A. Nosratinia, “Two-user MIMO broadcast channel with transmit correlation diversity: Achievable rate regions,” in *IEEE Information Theory Workshop (ITW)*, 2021. [[Video]](https://youtu.be/IrTPDHCO9O4)
 
-1. **Khac-Hoang Ngo**, S. Yang, and M. Guillaud, “The optimal DoF for the noncoherent MIMO channel with generic block fading,” in *2020 IEEE Information Theory Workshop (ITW)*, Apr. 2021. [[arXiv]](https://arxiv.org/pdf/2009.11556.pdf)
+1. **Khac-Hoang Ngo**, S. Yang, and M. Guillaud, “The optimal DoF for the noncoherent MIMO channel with generic block fading,” in *2020 IEEE Information Theory Workshop (ITW)*, Apr. 2021. [[arXiv]](https://arxiv.org/pdf/2009.11556.pdf) [[Video]](https://youtu.be/4gbvQplQITA)
 
-1. **Khac-Hoang Ngo**, S. Yang, M. Guillaud, and A. Decurninge, “Noncoherent MIMO multiple-access channels: A joint constellation design,” in 2020 *IEEE Information Theory Workshop (ITW)*, Apr. 2021.
+1. **Khac-Hoang Ngo**, S. Yang, M. Guillaud, and A. Decurninge, “Noncoherent MIMO multiple-access channels: A joint constellation design,” in 2020 *IEEE Information Theory Workshop (ITW)*, Apr. 2021. [[Video]](https://youtu.be/owQ7qkDbH3g)
 
 1. **Khac-Hoang Ngo**, M. Guillaud, A. Decurninge, S. Yang, S. Sarkar, and P. Schniter, “Non-coherent multiuser detection based on expectation propagation,” in *53rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2019.
 
@@ -84,7 +84,7 @@ author_profile: true
 ---
 ## These
 
-* [Ph.D.] Khac-Hoang Ngo, "Noncoherent Wireless Communications: Fundamental Limits and System Design", CentraleSupélec, University of Paris-Saclay, France, Sep. 2016. [**(2021 "Signal, Image & Vision Ph.D. Thesis Prize" by Club EEA, GRETSI and GdR-ISIS, France)**](http://gretsi.fr/prix-de-these2021/resultats.php) [**(Impact Science 2nd Prize, CentraleSupélec Foundation, France)**](https://www.fondation-centralesupelec.fr/ceremonie-de-remise-des-prix-de-these-2021-de-la-fondation-centralesupelec/) [[PDF]](https://tel.archives-ouvertes.fr/tel-02900446/document) 
+* [Ph.D.] Khac-Hoang Ngo, "Noncoherent Wireless Communications: Fundamental Limits and System Design", CentraleSupélec, University of Paris-Saclay, France, Sep. 2016. [**(2021 "Signal, Image & Vision Ph.D. Thesis Prize" by Club EEA, GRETSI and GdR-ISIS, France)**](http://gretsi.fr/prix-de-these2021/resultats.php) [**(Impact Science 2nd Prize, CentraleSupélec Foundation, France)**](https://www.fondation-centralesupelec.fr/ceremonie-de-remise-des-prix-de-these-2021-de-la-fondation-centralesupelec/) [[PDF]](https://tel.archives-ouvertes.fr/tel-02900446/document) [[Short Presentation]](https://youtu.be/EbpBFH7-kpY)
 
 * [MSc] Khac-Hoang Ngo, “Performance Analysis of Coded Caching”, CentraleSupélec, University of Paris-Saclay, France, Sep. 2016. [[PDF]](https://www.researchgate.net/publication/308636446_Performance_Analysis_of_Coded_Caching)
 

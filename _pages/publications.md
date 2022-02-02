@@ -26,7 +26,7 @@ author_profile: true
 ---
 ## Conference papers
 
-1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**. [[Video]](https://youtu.be/xtyOsdLLIso)
+1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**. [[arXiv]](https://arxiv.org/pdf/2112.01182.pdf) [[Video]](https://youtu.be/xtyOsdLLIso)
 
 1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, "Massive uncoordinated access with random user activity," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[arXiv]](https://arxiv.org/pdf/2103.09721.pdf) [[Video]](https://youtu.be/6Vr5ZKZzIjw)
 

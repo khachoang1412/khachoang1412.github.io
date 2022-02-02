@@ -40,7 +40,7 @@ K.-H. Ngo and S. Yang, "A Generalized Gaussian Model for Wireless Communications
 ---
 K.-H. Ngo, F. Zhang, S. Yang and A. Nosratinia, "Two-User MIMO Broadcast Channel with Transmit Correlation Diversity: Achievable Rate Regions," *2021 IEEE Information Theory Workshop (ITW),* 2021.
 
-[![Two-User MIMO Broadcast Channel with Transmit Correlation Diversity: Achievable Rate Regions](https://img.youtube.com/vi/IrTPDHCO9O4/0.jpg)](https://www.youtube.com/watch?v=EIrTPDHCO9O4)
+[![Two-User MIMO Broadcast Channel with Transmit Correlation Diversity: Achievable Rate Regions](https://img.youtube.com/vi/IrTPDHCO9O4/0.jpg)](https://www.youtube.com/watch?v=IrTPDHCO9O4)
 
 ---
 K.-H. Ngo, S. Yang, and M. Guillaud, "The Optimal DoF for the Noncoherent MIMO Channel with Generic Block Fading," *IEEE Information Theory Workshop (ITW)*, 2021. [PDF](https://arxiv.org/pdf/2009.11556.pdf)

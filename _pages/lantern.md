@@ -76,6 +76,48 @@ The results of this project will help paving the way to the full realization of 
 
 5. "Massive Uncoordinated Random Access," Communication System Group Seminar, Chalmers University of Technology, 23 Apr. 2021.
 
+## Videos
+
+All presentation videos related to LANTERN are available [here](https://youtube.com/playlist?list=PLJvz95f3KhAOP-EwH0b9GuZqqTK_gh2p4).
+
+---
+# Activities of the Fellow
+
+## Training
+
+1. Ongoing traning for a Diploma in *Teaching and Learning in Higher Education* at Chalmers University of Technology
+
+*Completed courses:* Diversity and inclusion for learning in higher education (2 credits); University teaching and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research students (3 credits); Supervising writing processes (2.5 credits)
+
+2. Attended workshop series [*Navigate academia and maximize your potential*](https://www.dokt.chs.chalmers.se/navigate-academia-and-maximize-your-potential/) organized by Chalmers Doctoral Students Guild and [Dear Academia](https://deborahrupert.com/dear-academia/), 29 Oct -- 3 Dec. 2021
+
+## Teaching 
+
+1. Chalmers University of Technology: Teaching Assistant
+- Fall 2021: *Statistics and machine learning in high dimensions* (master/PhD course, taught in English, 8 hours)
+- Spring 2021: *Information theory* (master/PhD course, taught in English, 16 hours)
+
+## Conference Organization
+
+1. *Communication track chair*, 2022 International Conference on Advanced Technologies For Communications (ATC), Hanoi, Vietnam, Oct. 2022.
+2. *Special session chair*, 25th International ITG Workshop on Smart Antennas (WSA), French Riviera, France, Nov. 2021.
+3. *Special session chair*, 2021 International Conference on Advanced Technologies For Communications (ATC), HCM City, Vietnam, Oct. 2021.
+
+## Reviewer
+
+for various international journals and conferences.
+
+## Other
+
+1. Administrator of [telecom-vn](https://www.facebook.com/groups/telecomvn) – a Facebook group for Vietnamese researchers in telecommunications. Organize regular group seminars.
+2. Organize several online workshops on information and communication technologies for Vietnamese community.
+
+--- 
+# Reproduciple Research
+
+The simulation codes of LANTERN are accessible at: [https://github.com/khachoang1412](https://github.com/khachoang1412).
+The links are also associated to each paper in the list of publications.
+
 ---
 
 # Achievements

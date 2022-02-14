@@ -7,13 +7,15 @@ author_profile: true
 
 ## Journal Papers
 
+1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *submitted to IEEE Trans. Inf. Theory*, Jan. 2022. [[Source code]](https://github.com/khachoang1412/UMA_random_user_activity)
+
 1. A. U. Rahman, F. Fourati, **Khac-Hoang Ngo**, A. Jindal, and M.-S. Alouini, “Network graph generation through adaptive clustering and infection dynamics: A step towards global connectivity,” *IEEE Commun. Lett.*, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2111.10690.pdf) 
 
-1. G. Gur, P. Porambage, P. Porambage, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, and M. Liyanage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *Elsevier Computer Science Review*, July 2021.
+1. G. Gur, P. Porambage, P. Porambage, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, and M. Liyanage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *IEEE Open J. Commun. Soc.*, Jan 2022.
 
-1. **Khac-Hoang Ngo**, S. Yang, M. Guillaud, and A. Decurninge, "Joint constellation design for the non-coherent MIMO multiple-access channel," submitted to *IEEE Trans. Inf. Theory*, 2020.
+1. F. Zhang, **Khac-Hoang Ngo**, M. Guillaud, S. Yang, and A. Nosratinia, "Transmit correlation diversity: Generalization, new techniques, and improved bounds," *IEEE Trans. Inf. Theory*, Jan. 2022. [[arXiv]](https://arxiv.org/abs/2104.09711.pdf)
 
-1. F. Zhang, **Khac-Hoang Ngo**, M. Guillaud, S. Yang, and A. Nosratinia, "Transmit correlation diversity: Generalization, new techniques, and improved bounds," accepted to *IEEE Trans. Inf. Theory*, 2020.
+1. **Khac-Hoang Ngo**, S. Yang, M. Guillaud, and A. Decurninge, "Joint constellation design for the non-coherent MIMO multiple-access channel," submitted to *IEEE Trans. Inf. Theory*, 2020. [[arXiv]](https://arxiv.org/abs/2009.11548.pdf)
 
 1. T.-T.-Q. Tran, L. V. Nguyen, **Khac-Hoang Ngo**, L.-T. Nguyen, Q.-T. Nguyen, N.-Q.-B. Vo, X.-N. Tran, E. Bastug, S. Azarian, M. Debbah, and P. Duhamel, "Network coding with multimedia transmission and cognitive networking: An implementation based on software-defined radio," *REV Journal on Electronics and Communications*, 10, (3-4), 72–84, 2020, **Invited Article**.
 
@@ -26,11 +28,11 @@ author_profile: true
 ---
 ## Conference papers
 
-1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**. [[arXiv]](https://arxiv.org/pdf/2112.01182.pdf) [[Video]](https://youtu.be/xtyOsdLLIso)
+1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**. [[arXiv]](https://arxiv.org/pdf/2112.01182.pdf) [[Video]](https://youtu.be/xtyOsdLLIso) [[Source code]](https://github.com/khachoang1412/AoI_prioritized_random_access)
 
-1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, "Massive uncoordinated access with random user activity," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[arXiv]](https://arxiv.org/pdf/2103.09721.pdf) [[Video]](https://youtu.be/6Vr5ZKZzIjw)
+1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, "Massive uncoordinated access with random user activity," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[arXiv]](https://arxiv.org/pdf/2103.09721.pdf) [[Video]](https://youtu.be/6Vr5ZKZzIjw) [[Source code]](https://github.com/khachoang1412/UMA_random_user_activity)
 
-1. **Khac-Hoang Ngo**, N. T. Nguyen, T. Q. Dinh, T.-M. Hoang, and M. Juntti, "Low-latency and secure computation offloading assisted by hybrid relay-reflecting intelligent surface," in *International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2021. [[arXiv]](https://arxiv.org/pdf/2109.01335.pdf) [[Video]](https://youtu.be/B1Y-CbGewAw)
+1. **Khac-Hoang Ngo**, N. T. Nguyen, T. Q. Dinh, T.-M. Hoang, and M. Juntti, "Low-latency and secure computation offloading assisted by hybrid relay-reflecting intelligent surface," in *International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2021, **Best Paper Award**. [[arXiv]](https://arxiv.org/pdf/2109.01335.pdf) [[Video]](https://youtu.be/B1Y-CbGewAw) [[Source code]](https://github.com/khachoang1412/HRRIS_for_MEC)
 
 1. **Khac-Hoang Ngo** and S. Yang, "A generalized Gaussian model for wireless communications," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[PDF]](https://research.chalmers.se/publication/522211/file/522211_AdditionalFile_2ad4209d.pdf) [[Video]](https://youtu.be/8ViFwzyItFc)
 

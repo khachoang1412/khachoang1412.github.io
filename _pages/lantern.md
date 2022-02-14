@@ -51,11 +51,30 @@ The results of this project will help paving the way to the full realization of 
 ---
 # Publications
 
+## Journal Papers
+
+1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *submitted to IEEE Trans. Inf. Theory*, Jan. 2022. [[Source code]](https://github.com/khachoang1412/UMA_random_user_activity)
+
+1. G. Gur, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, M. Liyanage, and P. Porambage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *IEEE Open J. Commun. Soc.*, Jan 2022.
+
 ## Conference papers
 
-1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**.
+1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**. [[arXiv]](https://arxiv.org/pdf/2112.01182.pdf) [[Video]](https://youtu.be/xtyOsdLLIso) [[Source code]](https://github.com/khachoang1412/AoI_prioritized_random_access)
 
-1. **Khac-Hoang Ngo**, N. T. Nguyen, T. Q. Dinh, T.-M. Hoang, and M. Juntti, "Low-latency and secure computation offloading assisted by hybrid relay-reflecting intelligent surface," in *International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2021. [[arXiv]](https://arxiv.org/pdf/2109.01335.pdf)
+1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, "Massive uncoordinated access with random user activity," in *IEEE International Symposium on Information Theory (ISIT)*, 2021. [[arXiv]](https://arxiv.org/pdf/2103.09721.pdf) [[Video]](https://youtu.be/6Vr5ZKZzIjw) [[Source code]](https://github.com/khachoang1412/UMA_random_user_activity)
+
+1. **Khac-Hoang Ngo**, N. T. Nguyen, T. Q. Dinh, T.-M. Hoang, and M. Juntti, "Low-latency and secure computation offloading assisted by hybrid relay-reflecting intelligent surface," in *International Conference on Advanced Technologies for Communications (ATC)*, Hanoi, Vietnam, Oct. 2021, **Best Paper Award**. [[arXiv]](https://arxiv.org/pdf/2109.01335.pdf) [[Video]](https://youtu.be/B1Y-CbGewAw) [[Source code]](https://github.com/khachoang1412/HRRIS_for_MEC)
+
+---
+# Dissemination 
+
+## Talks
+
+1. "Age of Information in Prioritized Random Access," Communication System Group Seminar, Chalmers University of Technology, 21 Jan. 2022. 
+
+3. "Massive Uncoordinated Random Access for the Internet of Things," Advanced Institute of Engineering and Technology (AVITECH), University of Engineering and Technology, Vietnam National University-Hanoi, Vietnam, 11 May 2021.
+
+5. "Massive Uncoordinated Random Access," Communication System Group Seminar, Chalmers University of Technology, 23 Apr. 2021.
 
 ---
 

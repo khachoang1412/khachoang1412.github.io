@@ -11,7 +11,7 @@ author_profile: true
 
 1. A. U. Rahman, F. Fourati, **Khac-Hoang Ngo**, A. Jindal, and M.-S. Alouini, “Network graph generation through adaptive clustering and infection dynamics: A step towards global connectivity,” *IEEE Commun. Lett.*, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2111.10690.pdf) 
 
-1. G. Gur, P. Porambage, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, M. Liyanage, and P. Porambage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *IEEE Open J. Commun. Soc.*, Jan 2022.
+1. G. Gur, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, M. Liyanage, and P. Porambage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *IEEE Open J. Commun. Soc.*, Jan 2022.
 
 1. F. Zhang, **Khac-Hoang Ngo**, M. Guillaud, S. Yang, and A. Nosratinia, "Transmit correlation diversity: Generalization, new techniques, and improved bounds," *IEEE Trans. Inf. Theory*, Jan. 2022. [[arXiv]](https://arxiv.org/abs/2104.09711.pdf)
 

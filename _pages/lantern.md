@@ -53,7 +53,7 @@ The results of this project will help paving the way to the full realization of 
 
 ## Journal Papers
 
-1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *submitted to IEEE Trans. Inf. Theory*, Jan. 2022. [[Source code]](https://github.com/khachoang1412/UMA_random_user_activity)
+1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *submitted to IEEE Trans. Inf. Theory*, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2202.06365.pdf) [[Source code]](https://github.com/khachoang1412/UMA_random_user_activity)
 
 1. G. Gur, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, M. Liyanage, and P. Porambage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *IEEE Open J. Commun. Soc.*, Jan 2022.
 

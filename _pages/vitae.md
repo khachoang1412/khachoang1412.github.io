@@ -10,12 +10,16 @@ author_profile: true
 * *Ph.D. in Wireless Communications*, [CentraleSupélec](https://www.centralesupelec.fr/), Paris-Saclay University, France (July 2017 - June 2020)
 * *M.Sc. in Wireless Communications*, [CentraleSupélec](https://www.centralesupelec.fr/), Paris-Saclay University, France (Sept. 2017 - Sept. 2020). GPA: 17.35/20.
 * *Bachelor in Electronics and Telecommunications*, [Univ. of Engineering and Technology (UET)](http://uet.vnu.edu.vn/), Vietnam National University - Hanoi (VNU), Vietnam (Aug. 2010 - June 2014). GPA: 3.75/4.0.
+* *Diploma in Teaching and Learning in Higher Education*, [Chalmers University of Technology](chalmers.se), Sweden (Ongoing). 
+Completed courses: Diversity and inclusion for learning in higher education (2 credits); University teaching
+and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research
+students (3 credits); Supervising writing processes (2.5 credits)
 
 ---
 ## Experiences
 
 * *Postdoctoral Researcher*, [Communication System Group](https://www.chalmers.se/en/departments/e2/research/Communication-systems/Pages/Communication-Systems.aspx), Dept. Electrical Engineering, Chalmers Univ. of Technology, Sweden (Sept. 2020 – present)
-* *Adjunct Lecturer*, [Advanced Institute of Engineering and Technology (AVITECH)](http://avitech.uet.vnu.edu.vn/), UET, VNU, Vietnam (Mar.2021 - present)
+* *Adjunct Lecturer*, [Advanced Institute of Engineering and Technology (AVITECH)](http://avitech.uet.vnu.edu.vn/), UET, VNU, Vietnam (Mar. 2021 - present)
 * *Ph.D. Research Engineer*, Mathematical and Algorithmic Sciences Lab., Paris Research Center, Huawei Technologies France (Nov. 2016 – June 2020)
 * *Research Assistant*, [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/) - CentraleSupélec, France (Feb. 2016 - Nov. 2016)
 * *Research Assistant*, [Univ. of Engineering and Technology (UET)](http://uet.vnu.edu.vn/), VNU, Vietnam (Nov. 2012 - Aug. 2015)

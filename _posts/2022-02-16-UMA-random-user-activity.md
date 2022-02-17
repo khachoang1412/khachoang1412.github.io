@@ -12,6 +12,8 @@ tags:
   - LANTERN
 header:
   teaser: /images/UMA_random_user_activity.PNG
+ogImage: /images/UMA_random_user_activity.PNG
+  
 ---
 
 <img src="/images/UMA_random_user_activity.PNG" alt="UMA_random_user_activity" style="width:600px; float: center;"/>

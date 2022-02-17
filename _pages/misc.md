@@ -14,8 +14,8 @@ author_profile: true
 ---
 ## My Favorite Books on Scientific Writing
 
-* The Elements of Style, Strunk & White.
-* Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded, Joshua Schimel.
+* *The Elements of Style*, Strunk & White.
+* *Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded*, Joshua Schimel.
 
 ---
 ## Media Coverage

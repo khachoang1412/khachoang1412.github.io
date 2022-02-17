@@ -1,5 +1,4 @@
 ---
-<meta property="og:image" content="https://khachoang1412.github.io/images/UMA_random_user_activity.PNG"/>
 title: 'Our new paper *Unsourced Multiple Access With Random User Activity*'
 date: 2022-02-16
 read_time: false

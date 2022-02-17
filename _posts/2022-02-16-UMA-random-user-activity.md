@@ -16,7 +16,7 @@ ogImage: /images/UMA_random_user_activity.PNG
   
 ---
 
-<img src="/images/UMA_random_user_activity.PNG" alt="UMA_random_user_activity" style="width:600px; float: center;"/>
+<img src="/images/UMA_random_user_activity.PNG" alt="UMA_random_user_activity" style="width:600px; float: center;" og:image="/images/UMA_random_user_activity.PNG"/>
 
 Unsourced Multiple Access (UMA) where all users employ a common codebook and the receiver decodes up to a permutation of messages is a relevant framework for the massive uncoordinated random access scenario in the Internet of Things (IoT). The proposal of UMA by Polyanskiy (2017) has triggered an active area of research in devising coding schemes that approach the achievable energy efficiency bound derived therein. However, it was assumed that the number of active users is fixed and known a priori to the receiver, which is typically farfetched in practical IoT scenarios due to time-varying and grant-free user activity.
 

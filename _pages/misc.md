@@ -23,6 +23,7 @@ author_profile: true
 ### In English
 
 * [An interview with spektrum.de](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
+* An interview with Honda Foundation: [Part 1/4](https://www.facebook.com/hondazaidan/posts/2284483361678420); [Part 2/4](https://www.facebook.com/hondazaidan/posts/2287968147996608); [Part 3/4](https://www.facebook.com/hondazaidan/posts/2287970947996328); [Part 4/4](https://www.facebook.com/hondazaidan/posts/2290008624459227).
 
 ### In Vietnamese
 

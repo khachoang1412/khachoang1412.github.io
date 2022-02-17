@@ -1,4 +1,5 @@
 ---
+<meta property="og:image" content="https://khachoang1412.github.io/images/UMA_random_user_activity.PNG"/>
 title: 'Our new paper *Unsourced Multiple Access With Random User Activity*'
 date: 2022-02-16
 read_time: false
@@ -10,6 +11,8 @@ tags:
   - reproducibleresearch
   - massiverandomaccess
   - LANTERN
+header:
+  teaser: /images/UMA_random_user_activity.PNG
 ---
 
 <img src="/images/UMA_random_user_activity.PNG" alt="UMA_random_user_activity" style="width:600px; float: center;"/>

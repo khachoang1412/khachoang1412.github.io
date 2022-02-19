@@ -31,5 +31,6 @@ author_profile: true
 * [Tôi muốn được góp sức cho sự phát triển cộng đồng nghiên cứu ở Việt Nam](https://vovworld.vn/vi-VN/khach-moi-cua-vov/ts-ngo-khac-hoang-toi-muon-duoc-gop-suc-cho-su-phat-trien-cong-dong-nghien-cuu-o-viet-nam-983089.vov)
 * [Thử thách lớn nhất là thay đổi tư duy](https://tuoitre.vn/thu-thach-lon-nhat-la-thay-doi-tu-duy-20191015212433556.htm)
 * [Chàng trai 9X truyền cảm hứng nghiên cứu trên diễn đàn quốc tế](https://vnexpress.net/chang-trai-9x-truyen-cam-hung-nghien-cuu-tren-dien-dan-quoc-te-4015090.html)
+* [Câu chuyện "Bố em làm nghề buôn đỗ"](https://www.facebook.com/permalink.php?story_fbid=105823887605876&id=103293237858941)
 * [Tự học và đam mê sáng tạo](https://thpthiephoa1.edu.vn/cuu-hoc-sinh/ngo-khac-hoang-tam-guong-tu-hoc-va-dam-me-sang-tao-110.html)
 * [Ghi danh sổ vàng](http://baobacgiang.com.vn/bg/phong-su/131417/ghi-danh-so-vang-thu-khoa-xuat-sac-ngo-khac-hoang.html)

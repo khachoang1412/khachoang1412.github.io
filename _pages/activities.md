@@ -68,12 +68,18 @@ author_profile: true
 ## Social Engagement
 * **Administrator** of [telecom-vn](https://www.facebook.com/groups/telecomvn) -- a Facebook group for Vietnamese researchers in telecommunications. Organize regular [seminars](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ).
 
-* **Events*
+* **International Events**
     * 2nd and 3rd Global Young Vietnamese Scholars Forum, Vietnam, Nov. 2019 and Nov. 2020. 
     * 7th Heidelberg Laureate Forum, Germany, Sept. 2019. [Get interviewed in the 10-out-of-200 list of participants](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
     * Young Engineers and Scientists Tokyo Meeting, Tokyo, Japan, Nov. 2014.
     * Volunteer for conferences: IEEE ICC 2017, IEEE ISIT 2019
-    
+    * JENESYS 2.0 culture exchange program, Japan, July 2014
+    * Vietnam - China Youth Festival, Guangxi, China, Nov. 2013
+
+* **Student Representative Positions**
+    * Vice-president of Student Association of UET, VNU, April 2012–June 2015
+    * President of Student Club on Presentation of UET, VNU, April 2011–June 2012
+
 * **Public-science online talks/workshops** for Vietnamese community:
     - [Bài giảng "Truyền thông Vô tuyến: Cơ bản và Ứng dụng"](https://khachoang1412.wordpress.com/2020/11/03/truyen-thong-vo-tuyen-co-ban-va-ung-dung/), 17/06/2020
     - [Hội tụ Công nghệ Thông tin và Truyền thông cho Sự Phát triển của Đất nước](https://khachoang1412.wordpress.com/2020/11/03/phat-trien-dat-nuoc-nho-hoi-tu-cong-nghe-thong-tin-va-truyen-thong/), 10/2020

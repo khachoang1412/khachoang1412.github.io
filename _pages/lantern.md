@@ -125,7 +125,7 @@ The links are also associated to each paper in the list of publications.
 * *Best Paper Award*, [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam, 2021
 
 ---
-# Miscellaneous
+# Miscellaneous 
 
 * [About Marie Skłodowska-Curie Actions (MSCA)](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/marie-sklodowska-curie-actions)
 * [About MSCA Individual Fellowship (IF)](https://cordis.europa.eu/programme/id/H2020_MSCA-IF-2020)

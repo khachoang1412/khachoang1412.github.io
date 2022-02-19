@@ -73,4 +73,9 @@ author_profile: true
 
 ---
 ## Other
-* **Administrator** of [telecom-vn](https://www.facebook.com/groups/telecomvn) -- a Facebook group for Vietnamese researchers in telecommunications. Organize regular seminars.
+* **Administrator** of [telecom-vn](https://www.facebook.com/groups/telecomvn) -- a Facebook group for Vietnamese researchers in telecommunications. Organize regular [seminars](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ).
+* Public-science online talks/workshops for Vietnamese community:
+    - [Bài giảng "Truyền thông Vô tuyến: Cơ bản và Ứng dụng"](https://khachoang1412.wordpress.com/2020/11/03/truyen-thong-vo-tuyen-co-ban-va-ung-dung/), 17/06/2020
+    - [Hội tụ Công nghệ Thông tin và Truyền thông cho Sự Phát triển của Đất nước](https://khachoang1412.wordpress.com/2020/11/03/phat-trien-dat-nuoc-nho-hoi-tu-cong-nghe-thong-tin-va-truyen-thong/), 10/2020
+    - [Khoa học Dữ liệu, Học máy, và Trí tuệ Nhân tạo trong Chuyển đổi số](https://trithuctrevietnam.vn/GlobalVYSA/hoi-thao-khoa-hoc-du-lieu-hoc-may-va-tri-tue-nhan-tao-trong-chuyen-doi-so/), 13/11/2021
+    - [Tư vấn "Chuẩn bị hành trang cho tương lai" cho học sinh trường THPT Hiệp Hòa số 1, Bắc Giang](https://youtu.be/jst7yVAQPzA), 06/22/2021

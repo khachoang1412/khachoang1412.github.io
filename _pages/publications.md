@@ -84,7 +84,7 @@ author_profile: true
 1. **Khac-Hoang Ngo**, A. Decurninge, M. Guillaud, and S. Yang, "Transmitter and receiver communication apparatus for non-coherent communication." *U.S. Patent Application 17/243,679*, filed August 19, 2021.
 
 ---
-## These
+## Theses
 
 * [Ph.D.] Khac-Hoang Ngo, "Noncoherent Wireless Communications: Fundamental Limits and System Design", CentraleSupélec, University of Paris-Saclay, France, Sep. 2016. [**(2021 "Signal, Image & Vision Ph.D. Thesis Prize" by Club EEA, GRETSI and GdR-ISIS, France)**](http://gretsi.fr/prix-de-these2021/resultats.php) [**(Impact Science 2nd Prize, CentraleSupélec Foundation, France)**](https://www.fondation-centralesupelec.fr/ceremonie-de-remise-des-prix-de-these-2021-de-la-fondation-centralesupelec/) [[PDF]](https://tel.archives-ouvertes.fr/tel-02900446/document) [[Short Presentation]](https://youtu.be/EbpBFH7-kpY)
 

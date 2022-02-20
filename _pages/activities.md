@@ -26,21 +26,22 @@ author_profile: true
 ---
 ## Reviewer
 
-### International Journals
+### International Journals (#reviews returned)
 
-* IEEE Internet of Things Journal
-* IEEE Journal on Selected Areas in Information Theory
-* IEEE Transactions on Information Theory
-* IEEE Transactions on Vehicular Technology
-* IEEE Transactions on Communications
-* IEEE Transactions on Wireless Communications
-* IEEE Transactions on Signal and Information Processing over Networks
-* IEEE Transactions on Signal Processing
-* IEEE Journal on Selected Areas in Communications
-* IEEE Communications Letters
-* IEEE Wireless Communications Letters
-* IEEE Vehicular Technology Magazine 
-* IET Electronics Letters
+* IEEE Trans. Inf. Theory (1)
+* IEEE Trans. Wireless Commun. (41)
+* IEEE Trans. Veh. Technol. (11)
+* IEEE Trans. Commun. (8)
+* IEEE Trans. Signal Process. (2)
+* IEEE Trans. Signal Inf. Process. Netw. (1)
+* IEEE Internet Things J. (1)
+* IEEE J. Sel. Areas Infor. Theory (2)
+* IEEE J. Sel. Areas Commun. (1)
+* IEEE Commun. Lett. (3)
+* IEEE Wireless Commun. Lett. (8)
+* IEEE Veh. Technol. Mag. (1)
+* IET Electron. Lett. (1)
+* Elsevier Pervasive Mob. Comput. (1)
  
 ### Domestic Journals
 
@@ -49,12 +50,18 @@ author_profile: true
 
 ### International Conferences
 
-* 2017: IEEE GLOBECOM, IEEE ICC
-* 2018: IEEE ICC, ISWCS, IEEE ITW, ISTC, NICS
-* 2019: IEEE SPAWC, ISCIT
-* 2020: IEEE ISIT
-* 2021: ISWCS, IEEE ITW, ATC, WSA
-* 2022: IEE WCNC, IEEE ISIT
+* IEEE Int. Symp. Inf. Theory (ISIT): 2020, 2022
+* IEEE Inf. Theory Workshop (ITW): 2018, 2021
+* IEEE Global Commun. Conf. (GLOBECOM): 2017
+* IEEE Int. Conf. Commun. (ICC): 2017, 2018
+* IEEE Wirel. Commun. Netw. Conf. (WCNC): 2022
+* IEEE Workshop Signal Process. Adv. Wirel. Commun. (SPAWC): 2019
+* Int. Symp. Wireless Commun. Systems (ISWCS): 2018, 2021
+* Int. Symp. Commun. Info. Technol. (ISCIT): 2019
+* Int. ITG Workshop Smart Antennas (WSA): 2021
+* Int. Symp. Topics Coding (ISTC): 2018
+* Int. Conf. Adv. Technol. Commun. (ATC): 2021
+* NAFOSTED Conf. Info. Comput. Science (NICS): 2018
 
 ---
 ## Talks

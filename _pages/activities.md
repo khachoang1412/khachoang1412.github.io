@@ -54,7 +54,7 @@ author_profile: true
 * 2019: IEEE SPAWC, ISCIT
 * 2020: IEEE ISIT
 * 2021: ISWCS, IEEE ITW, ATC, WSA
-* 2022: IEE WCNC
+* 2022: IEE WCNC, IEEE ISIT
 
 ---
 ## Talks

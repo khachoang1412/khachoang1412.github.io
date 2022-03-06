@@ -5,6 +5,26 @@ permalink: /misc/
 author_profile: true
 ---
 
+## Collaborators
+
+* [Giuseppe Durisi](https://gdurisi.github.io), Chalmers University of Technology, Sweden (postdoc advisor)
+* [Alexandre Graell i Amat](https://sites.google.com/site/agraellamat/), Chalmers University of Technology, Sweden (postdoc advisor)
+* [Sheng Yang](https://l2s.centralesupelec.fr/en/u/yang-sheng/), CentraleSupélec, Paris-Saclay University, France (Ph.D. advisor)
+* [Maxime Guillaud](http://research.mguillaud.net/), Advanced Wireless Technology Lab, Huawei Technologies France (Ph.D. advisor)
+* [Mari Kobayashi](https://www.ei.tum.de/en/lnt/people/guest-scientists/kobayashi/), Technical University of Munich, Germany (Master advisor)
+* [Linh-Trung Nguyen](https://scholar.google.com/citations?user=-MEdhRQAAAAJ&hl=en), VNU University of Engineering and Technology, Vietnam (Bachelor advisor)
+* [Quoc-Tuan Nguyen](https://uet.vnu.edu.vn/~tuannq/), VNU University of Engineering and Technology, Vietnam (Bachelor advisor)
+
+* [Petar Popovski](http://petarpopovski.es.aau.dk/), Aalborg University, Denmark
+* [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/papers.html), MIT, USA
+* [Philip Schniter](http://www.ece.ohio-state.edu/~schniter/), The Ohio State University, USA
+* [Aria Nosratinia](https://labs.utdallas.edu/aria/), UT Dallas, USA
+* [Alejandro Lancho](https://a-lancho.github.io/), MIT, USA
+* [Alexis Decurninge](https://scholar.google.com/citations?user=VhYvGRMAAAAJ&hl=fr), Advanced Wireless Technology Lab, Huawei Technologies France (Ph.D. advisor)
+* [Nhan Thanh Nguyen](https://sites.google.com/view/nhanthanhnguyen/home?authuser=0), University of Oulu, Finland
+* [Thinh Quang Dinh](https://scholar.google.com/citations?user=g54O0ekAAAAJ&hl=en), University of Luxembourg, Luxembourg
+
+---
 ## Useful Links
 
 * [telecom-vn](https://www.facebook.com/groups/telecomvn) - a Facebook group for Vietnamese researchers in telecommunications

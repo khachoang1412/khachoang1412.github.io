@@ -14,7 +14,6 @@ author_profile: true
 * [Mari Kobayashi](https://www.ei.tum.de/en/lnt/people/guest-scientists/kobayashi/), Technical University of Munich, Germany (Master advisor)
 * [Linh-Trung Nguyen](https://scholar.google.com/citations?user=-MEdhRQAAAAJ&hl=en), VNU University of Engineering and Technology, Vietnam (Bachelor advisor)
 * [Quoc-Tuan Nguyen](https://uet.vnu.edu.vn/~tuannq/), VNU University of Engineering and Technology, Vietnam (Bachelor advisor)
-
 * [Petar Popovski](http://petarpopovski.es.aau.dk/), Aalborg University, Denmark
 * [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/papers.html), MIT, USA
 * [Philip Schniter](http://www.ece.ohio-state.edu/~schniter/), The Ohio State University, USA

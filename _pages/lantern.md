@@ -19,8 +19,7 @@ Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie
 
 # Paving the way to the future of the Internet of things
 
-With the continuous rise of the Internet of things and the steady spread of connected devices, there is an increasing need concerning private edge computing and connectivity. 
-This project will assist in fulfilling this need by researching low-latency and private edge computing networks and studying ways in which they could be developed in wireless random access networks. We aim to overcome the challenges of establishing foundations for privacy and reliability in latency-critical, multiserver and multiclient edge computing and in devising resilient coding schemes intertwined with energy-efficient scalable wireless random access methodologies.
+With the continuous rise of the *Internet of things* and the steady spread of connected devices, there is an increasing need concerning *private edge computing* and *connectivity*. This project will assist in fulfilling this need by researching *low-latency and private edge computing* networks and studying ways in which they could be developed in *wireless random access networks*. We aim to overcome the challenges of establishing foundations for privacy and reliability in latency-critical, multiserver and multiclient edge computing and in devising resilient coding schemes intertwined with energy-efficient scalable wireless random access methodologies.
 
 ---
 
@@ -89,7 +88,9 @@ All presentation videos related to LANTERN are available [here](https://youtube.
 
 *Completed courses:* Diversity and inclusion for learning in higher education (2 credits); University teaching and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research students (3 credits); Supervising writing processes (2.5 credits)
 
-2. Attended workshop series [*Navigate academia and maximize your potential*](https://www.dokt.chs.chalmers.se/navigate-academia-and-maximize-your-potential/) organized by Chalmers Doctoral Students Guild and [Dear Academia](https://deborahrupert.com/dear-academia/), 29 Oct -- 3 Dec. 2021
+2. Attended workshop *Mental health issues in academia and contemplative solutions* organized by [Alumnode](https://alumnode.org/), 9 Dec. 2021.
+
+3. Attended workshop series [*Navigate academia and maximize your potential*](https://www.dokt.chs.chalmers.se/navigate-academia-and-maximize-your-potential/) organized by Chalmers Doctoral Students Guild and [Dear Academia](https://deborahrupert.com/dear-academia/), 29 Oct -- 3 Dec. 2021
 
 ## Teaching 
 
@@ -109,8 +110,8 @@ for various international journals and conferences.
 
 ## Other
 
-1. Administrator of [telecom-vn](https://www.facebook.com/groups/telecomvn) – a Facebook group for Vietnamese researchers in telecommunications. Organize regular group seminars.
-2. Organize several online workshops on information and communication technologies for Vietnamese community.
+1. Administrator of [telecom-vn](https://www.facebook.com/groups/telecomvn) – a Facebook group for Vietnamese researchers in telecommunications. Organize regular group [seminars](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ).
+2. Organize several online workshops on information and communication technologies for the Vietnamese community.
 
 --- 
 # Reproduciple Research

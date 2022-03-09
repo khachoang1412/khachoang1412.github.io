@@ -57,3 +57,41 @@ author_profile: true
 * [Từ thất bại trở thành thủ khoa xuất sắc](https://giaoducthoidai.vn/tre/tu-that-bai-tro-thanh-thu-khoa-xuat-sac-275734.html)
 * [Chàng sinh viên đam mê khoa học](https://repository.vnu.edu.vn/flowpaper/simple_document.php?subfolder=15/99/00/&doc=159900827037125441619633844061585060198&bitsid=5f15627d-b093-4e8b-a294-5c9077f35117&uid=)
 * [Kinh nghiêm học tiếng Anh](https://giaoducthoidai.vn/trao-doi/kinh-nghiem-hoc-tieng-anh-cua-thu-khoa-xuat-sac-truong-dh-cong-nghe-301486.html)
+
+---
+## Running
+
+*"The point is whether or not I improved over yesterday. In long-distance running the only opponent you have to beat is yourself, the way you used to be."* \
+-- What I Talk About When I Talk About Running, Haruki Murakami
+
+I am a runner. I started running as an exercise in 2017 and have been running regularly since 2019. Now I'm hooked on it. I have attended and expect to attend the following races:
+
+* [Göteborgsvarvet 2021](https://www.goteborgsvarvet.se/) (11/09/2021): Half-Marathon, Time [1:43:00](https://reg.goteborgsvarvet.se/diplom/33439/NiNwZkxCOzE0MDMzODE7Ji9KdDVL), Average pace 4:53/km.
+* [Finalloppet 2021](https://www.finalloppet.com/) (06/11/2021): 19km trail, Total elevation 400m, Time: [1:33:16](https://www.dropbox.com/s/oczxrr8k9cxshic/254288137_6495167883888916_9058374707193388898_n.jpg?dl=0), Average pace: 4:55/km
+* [Göteborgsvarvet 2022](https://www.goteborgsvarvet.se/) (21/05/2022): Half-Marathon
+* [Helsingborg Marathon 2022](https://helsingborgmarathon.se/en/marathon/) (03/09/2022): Full-Marathon
+* [Finalloppet 2022](https://www.finalloppet.com/) (05/11/2022): 19km trail, Total elevation 400m
+
+Follow my activities in [Strava](https://www.strava.com/athletes/47313435).
+
+### Some photos: 
+
+<img src="/images/Running1.jpg" alt="Running1" style="width:800px; float: center;"/>
+<img src="/images/Running2.jpg" alt="Running2" style="width:500px; float: center;"/>
+<img src="/images/Running3.jpg" alt="Running3" style="width:500px; float: center;"/>
+<img src="/images/Running4.JPG" alt="Running4" style="width:500px; float: center;"/>
+<img src="/images/Running5.jpg" alt="Running5" style="width:500px; float: center;"/>
+<img src="/images/Running6.JPG" alt="Running6" style="width:500px; float: center;"/>
+
+---
+
+## Reading
+
+Reading is another hobby of mine. [My goodreads profile](https://www.goodreads.com/user/show/87096716-hoang-k-ngo). Here, I keep track of the (nontechnical) books that I read from 2022, together with my rating for them.
+
+### Books of 2022: 
+
+1. **** Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen (Christopher McDougall)
+2. **** The Elephant Vanishes (Haruki Murakami)
+3. *** Peace in Every Step (Thich Nhat Hanh)
+4. ***** What is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)

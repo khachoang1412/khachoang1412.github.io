@@ -84,8 +84,7 @@ All presentation videos related to LANTERN are available [here](https://youtube.
 
 ## Training
 
-1. Ongoing traning for a Diploma in *Teaching and Learning in Higher Education* at Chalmers University of Technology
-
+1. Ongoing traning for a Diploma in *Teaching and Learning in Higher Education* at Chalmers University of Technology \
 *Completed courses:* Diversity and inclusion for learning in higher education (2 credits); University teaching and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research students (3 credits); Supervising writing processes (2.5 credits)
 
 2. Attended workshop *Mental health issues in academia and contemplative solutions* organized by [Alumnode](https://alumnode.org/), 9 Dec. 2021.

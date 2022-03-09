@@ -91,7 +91,7 @@ Reading is another hobby of mine. [My goodreads profile](https://www.goodreads.c
 
 ### Books of 2022: 
 
-1. **** Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen (Christopher McDougall)
-2. **** The Elephant Vanishes (Haruki Murakami)
+1. \*\*\*\* Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen (Christopher McDougall)
+2. \*\*\*\* The Elephant Vanishes (Haruki Murakami)
 3. *** Peace in Every Step (Thich Nhat Hanh)
 4. ***** What is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)

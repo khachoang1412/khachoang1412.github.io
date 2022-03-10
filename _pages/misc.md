@@ -66,7 +66,7 @@ author_profile: true
 
 I am a runner. I started running as an exercise in 2017 and have been running regularly since 2019. Now I'm hooked on it. I have attended or expect to attend the following races:
 
-* [Göteborgsvarvet 2021](https://www.goteborgsvarvet.se/) (11/09/2021): Half-Marathon, Time [1:43:00](https://reg.goteborgsvarvet.se/diplom/33439/NiNwZkxCOzE0MDMzODE7Ji9KdDVL), Average pace 4:53/km.
+* [Göteborgsvarvet 2021](https://www.goteborgsvarvet.se/) (11/09/2021): Half-Marathon, Time [1:43:29](https://reg.goteborgsvarvet.se/diplom/33439/NiNwZkxCOzE0MDMzODE7Ji9KdDVL), Average pace 4:53/km.
 * [Finalloppet 2021](https://www.finalloppet.com/) (06/11/2021): 19km trail, Total elevation 400m, Time: [1:33:16](https://www.dropbox.com/s/oczxrr8k9cxshic/254288137_6495167883888916_9058374707193388898_n.jpg?dl=0), Average pace: 4:55/km
 * [Göteborgsvarvet 2022](https://www.goteborgsvarvet.se/) (21/05/2022): Half-Marathon
 * [Helsingborg Marathon 2022](https://helsingborgmarathon.se/en/marathon/) (03/09/2022): Full-Marathon

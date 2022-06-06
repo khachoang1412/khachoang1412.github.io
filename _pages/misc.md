@@ -68,7 +68,7 @@ I am a runner. I started running as an exercise in 2017 and have been running re
 
 * [Göteborgsvarvet 2021](https://www.goteborgsvarvet.se/) (11/09/2021): Half-Marathon, Time [1:43:29](https://reg.goteborgsvarvet.se/diplom/33439/NiNwZkxCOzE0MDMzODE7Ji9KdDVL), Average pace 4:53/km.
 * [Finalloppet 2021](https://www.finalloppet.com/) (06/11/2021): 19km trail, Total elevation 400m, Time: [1:33:16](https://www.dropbox.com/s/oczxrr8k9cxshic/254288137_6495167883888916_9058374707193388898_n.jpg?dl=0), Average pace: 4:55/km
-* [Göteborgsvarvet 2022](https://www.goteborgsvarvet.se/) (21/05/2022): Half-Marathon
+* [Göteborgsvarvet 2022](https://www.goteborgsvarvet.se/) (21/05/2022): Half-Marathon, Time [1:30:25](https://reg.goteborgsvarvet.se/Sok/Resultat.aspx?pid=NiNwZkxCOzE0MTExNTk7Ji9KdDVL)
 * [Helsingborg Marathon 2022](https://helsingborgmarathon.se/en/marathon/) (03/09/2022): Full-Marathon
 * [Finalloppet 2022](https://www.finalloppet.com/) (05/11/2022): 19km trail, Total elevation 400m
 
@@ -91,7 +91,9 @@ Reading is another hobby of mine. [My goodreads profile](https://www.goodreads.c
 
 ### Books of 2022: 
 
-1. \*\*\*\* Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen (Christopher McDougall)
-2. \*\*\*\* The Elephant Vanishes (Haruki Murakami)
-3. *** Peace in Every Step (Thich Nhat Hanh)
-4. ***** What is Real? The Unfinished Quest for the Meaning of Quantum Physics (Adam Becker)
+1. \*\*\*\* *Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen* (Christopher McDougall)
+2. \*\*\*\* *The Elephant Vanishes* (Haruki Murakami)
+3. \*\*\* *Peace in Every Step* (Thich Nhat Hanh)
+4. \*\*\*\*\* *What is Real? The Unfinished Quest for the Meaning of Quantum Physics* (Adam Becker)
+5. \*\*\*\* *Inferno* (Dan Brown)
+6. *Algorithms to Live By: The Computer Science of Human Decisions* (Brian Christian and Thomas L. Griffiths)

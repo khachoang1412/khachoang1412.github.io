@@ -40,12 +40,14 @@ author_profile: true
 ## Media Coverage
 
 ### In English
-
-* [An interview with spektrum.de](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
+* [An interview in the spotlight of the 9th Heidelberg Laureate Forum](https://www.newsroom.hlf-foundation.org/blog/article.html?tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=477&cHash=e3c4a4f8958b7e102a16e7a096219e73)
+* [An interview in the 10-out-of-200 list of participants of the 7th Heidelberg Laureate Forum](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
+* [An interview with spektrum.de about my PhD journey](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
 * An interview with Honda Foundation: [Part 1/4](https://www.facebook.com/hondazaidan/posts/2284483361678420); [Part 2/4](https://www.facebook.com/hondazaidan/posts/2287968147996608); [Part 3/4](https://www.facebook.com/hondazaidan/posts/2287970947996328); [Part 4/4](https://www.facebook.com/hondazaidan/posts/2290008624459227).
 
 ### In Vietnamese
-
+* [Ai cũng có thể trở thành công dân toàn cầu](https://www.dropbox.com/s/q9140u9fhkpwpnr/Binh-Minh.pdf?dl=0)
+* [TS Ngô Khắc Hoàng: Diễn đàn Heidelberg truyền cảm hứng và động lực cho tôi theo đuổi nghiên cứu học thuật](https://vov.gov.vn/ts-ngo-khac-hoang-dien-dan-heidelberg-truyen-cam-hung-va-dong-luc-cho-toi-theo-dtnew-438456)
 * [Chàng trai liên tiếp thủ khoa tốt nghiệp](https://thanhnien.vn/chang-trai-lien-tiep-thu-khoa-tot-nghiep-post1070827.html)
 * [Tôi muốn được góp sức cho sự phát triển cộng đồng nghiên cứu ở Việt Nam](https://vovworld.vn/vi-VN/khach-moi-cua-vov/ts-ngo-khac-hoang-toi-muon-duoc-gop-suc-cho-su-phat-trien-cong-dong-nghien-cuu-o-viet-nam-983089.vov)
 * [Thử thách lớn nhất là thay đổi tư duy](https://tuoitre.vn/thu-thach-lon-nhat-la-thay-doi-tu-duy-20191015212433556.htm)
@@ -69,8 +71,7 @@ I am a runner. I started running as an exercise in 2017 and have been running re
 * [Göteborgsvarvet 2021](https://www.goteborgsvarvet.se/) (11/09/2021): Half-Marathon, Time [1:43:29](https://reg.goteborgsvarvet.se/diplom/33439/NiNwZkxCOzE0MDMzODE7Ji9KdDVL), Average pace 4:53/km.
 * [Finalloppet 2021](https://www.finalloppet.com/) (06/11/2021): 19km trail, Total elevation 400m, Time: [1:33:16](https://www.dropbox.com/s/oczxrr8k9cxshic/254288137_6495167883888916_9058374707193388898_n.jpg?dl=0), Average pace: 4:55/km
 * [Göteborgsvarvet 2022](https://www.goteborgsvarvet.se/) (21/05/2022): Half-Marathon, Time [1:30:25](https://reg.goteborgsvarvet.se/Sok/Resultat.aspx?pid=NiNwZkxCOzE0MTExNTk7Ji9KdDVL), Average pace: 4:18/km
-* [Helsingborg Marathon 2022](https://helsingborgmarathon.se/en/marathon/) (03/09/2022): Full-Marathon
-* [Finalloppet 2022](https://www.finalloppet.com/) (05/11/2022): 19km trail, Total elevation 400m
+* [Helsingborg Marathon 2022](https://helsingborgmarathon.se/en/marathon/) (03/09/2022): Full-Marathon, Time [3:30:30](https://www.dropbox.com/s/cgdhtrbixe1g64d/5BD9E144-26C2-43FC-8B66-E3AF8F2E6922.jpeg?dl=0)
 
 Follow my activities in [Strava](https://www.strava.com/athletes/47313435).
 
@@ -89,6 +90,13 @@ Follow my activities in [Strava](https://www.strava.com/athletes/47313435).
 
 Reading is another hobby of mine. [My goodreads profile](https://www.goodreads.com/user/show/87096716-hoang-k-ngo). Here, I keep track of the (nontechnical) books that I read from 2022, together with my rating for them.
 
+### Books of 2023: 
+
+1. \*\*\*\* *Outliers: The Story of Success* (Malcolm. Gladwell)
+2. \*\*\*\* *The Shadow of the Wind* (Carlos Ruiz Zafón)
+3. \*\*\*\* *Blind Willow, Sleeping Woman* (Haruki Murakami)
+4. \*\*\* *Number 9: The Search for the Sigma Code* (Cecil Balmond)
+
 ### Books of 2022: 
 
 1. \*\*\*\* *Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen* (Christopher McDougall)
@@ -96,4 +104,5 @@ Reading is another hobby of mine. [My goodreads profile](https://www.goodreads.c
 3. \*\*\* *Peace in Every Step* (Thich Nhat Hanh)
 4. \*\*\*\*\* *What is Real? The Unfinished Quest for the Meaning of Quantum Physics* (Adam Becker)
 5. \*\*\*\* *Inferno* (Dan Brown)
-6. *Algorithms to Live By: The Computer Science of Human Decisions* (Brian Christian and Thomas L. Griffiths)
+6. \*\*\*\*\* *Algorithms to Live By: The Computer Science of Human Decisions* (Brian Christian and Thomas L. Griffiths)
+7. \*\*\*\* *The seven habits of highly effective people* (Stephen R. Covey)

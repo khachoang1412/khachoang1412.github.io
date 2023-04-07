@@ -29,12 +29,14 @@ students (3 credits); Supervising writing processes (2.5 credits)
 ---
 ## Funding
 
+* "Theory for the Privacy-Security Trade-off in Federated Learning", *Wallenberg AI, Autonomous Systems and Software Program (WASP)*, 2023-2027, responsibility: **co-investigator**
 * “LANTERN: Low-latency and private edge computing in random-access networks”, *Marie Skłodowska-Curie Individual Fellowship*, 192 000 Euros, 2021-2022, responsibility: **Fellow** 
+* "Agricultural IoT based on Edge Computing", *ICT Virtual Organization of ASEAN Institutes and Japan’s NICT (ASEAN IVO)*, 80 000 USD, 2022-2024, responsibility: **co-investigator**
 * “Connecting the Unconnected: A Tool for Digital Inclusion”, *AlumNode Funding*, 5000 Euros, 2021-2022, responsibility: **co-investigator**
 
 ---
 ## Selected Honors and Awards
-
+* *Qualification for the functions of university professor/lecturer*, National Council of Universities (CNU), France, 2023.
 * *Impact Science* 2nd Prize for Ph.D. thesis, CentraleSupélec Foundation, France, 2021
 * *Best Paper Award*, [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam, 2021
 * [*Signal, Image & Vision Ph.D. Thesis Prize*](http://gretsi.fr/prix-de-these2021/resultats.php) by EEA, GRETSI and GdR-ISIS, France, 2021

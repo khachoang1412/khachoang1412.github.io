@@ -4,18 +4,27 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Book Chapters
+
+1. "Two-Way Relay Communications: Theory and Implementation," L.-T. Nguyen, N.-Q.-B. Vo, and T.-T.-Q. Tran, Eds., Languague: Vietnamese, Hanoi, Vietnam: VNU Publishing House, Jun. 2022.
+    * Chapter 8: L.-T. Nguyen, T.-T.-Q. Tran, **Khac-Hoang Ngo**, and V.-L. Nguyen, “Cogitive physical-layer network coding";
+    * Chapter 9: T.-T.-Q. Tran, **Khac-Hoang Ngo**, V.-L. Nguyen, H.-S. Do, and L.-T. Nguyen, “Setting up an SDR testbed for OFDM systems”;
+    * Chapter 10: V.-L. Nguyen, **Khac-Hoang Ngo**, T.-T.-Q. Tran, V.-H. Le, and L.-T. Nguyen, “Physical-layer network coding for SDR-based multimedia transmissions";
+    * Chapter 11:  T.-T.-Q. Tran, V.-L. Nguyen, **Khac-Hoang Ngo**, L.-T. Nguyen, Q.-T. Nguyen, V.-H. Le, N.-Q.-B. Vo, and X.-N. Tran, “Implementation of cognitive physical-layer network coding based on OFDM/VFDM”. 
 
 ## Journal Papers
 
-1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *submitted to IEEE Trans. Inf. Theory*, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2202.06365.pdf) [[Simulation code]](https://github.com/khachoang1412/UMA_random_user_activity)
+1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” submitted to _IEEE Trans. Commun._, Feb. 2023.
 
-1. A. U. Rahman, F. Fourati, **Khac-Hoang Ngo**, A. Jindal, and M.-S. Alouini, “Network graph generation through adaptive clustering and infection dynamics: A step towards global connectivity,” *IEEE Commun. Lett.*, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2111.10690.pdf) 
+1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *IEEE Trans. Inf. Theory*, Feb. 2023. [[arXiv]](https://arxiv.org/pdf/2202.06365.pdf) [[Simulation code]](https://github.com/khachoang1412/UMA_random_user_activity)
 
-1. G. Gur, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, M. Liyanage, and P. Porambage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *IEEE Open J. Commun. Soc.*, Jan 2022.
+1. **Khac-Hoang Ngo**, S. Yang, M. Guillaud, and A. Decurninge, "Joint constellation design for the non-coherent MIMO multiple-access channel," *IEEE Trans. Inf. Theory*, 68, (11), 7281-7305, Nov. 2022. [[arXiv]](https://arxiv.org/abs/2009.11548.pdf)
 
-1. F. Zhang, **Khac-Hoang Ngo**, M. Guillaud, S. Yang, and A. Nosratinia, "Transmit correlation diversity: Generalization, new techniques, and improved bounds," *IEEE Trans. Inf. Theory*, Jan. 2022. [[arXiv]](https://arxiv.org/abs/2104.09711.pdf)
+1. A. U. Rahman, F. Fourati, **Khac-Hoang Ngo**, A. Jindal, and M.-S. Alouini, “Network graph generation through adaptive clustering and infection dynamics: A step towards global connectivity,” *IEEE Commun. Lett.*, 26, (4), 783–787, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2111.10690.pdf) 
 
-1. **Khac-Hoang Ngo**, S. Yang, M. Guillaud, and A. Decurninge, "Joint constellation design for the non-coherent MIMO multiple-access channel," submitted to *IEEE Trans. Inf. Theory*, 2020. [[arXiv]](https://arxiv.org/abs/2009.11548.pdf)
+1. G. Gur, A. Kalla, C. de Alwis, Q.-V. Pham, **Khac-Hoang Ngo**, M. Liyanage, and P. Porambage, “Integration of ICN and MEC in 5G and beyond networks: Mutual benefits, use cases, challenges, standardization, and future research,” _IEEE Open J. Commun. Soc._, 3, 1382–1412, Aug. 2022.
+
+1. F. Zhang, **Khac-Hoang Ngo**, M. Guillaud, S. Yang, and A. Nosratinia, "Transmit correlation diversity: Generalization, new techniques, and improved bounds," *IEEE Trans. Inf. Theory*,  68, (6), 3841–3869, Jan. 2022. [[arXiv]](https://arxiv.org/abs/2104.09711.pdf). (Zhang and Ngo contributed equally to the technical content)
 
 1. T.-T.-Q. Tran, L. V. Nguyen, **Khac-Hoang Ngo**, L.-T. Nguyen, Q.-T. Nguyen, N.-Q.-B. Vo, X.-N. Tran, E. Bastug, S. Azarian, M. Debbah, and P. Duhamel, "Network coding with multimedia transmission and cognitive networking: An implementation based on software-defined radio," *REV Journal on Electronics and Communications*, 10, (3-4), 72–84, 2020, **Invited Article**.
 
@@ -27,6 +36,14 @@ author_profile: true
 
 ---
 ## Conference papers
+
+1.  N.-S. Duong, Q.-T. Nguyen, **Khac-Hoang Ngo**, and T.-M. Dinh-Thi, “Sparse Bayesian learning with atom refinement for mmWave MIMO channel estimation,” in submitted to _IEEE Statistical Signal Processing Workshop (SSP)_, Hanoi, Vietnam, Jul. 2023.
+
+1. N. T. Nguyen, N. Shlezinger, **Khac-Hoang Ngo**, V.-D. Nguyen, and M. Juntti, “Joint communications and sensing design for multi-carrier MIMO systems,” in submitted to _IEEE Statistical Signal Processing Workshop (SSP)_, Hanoi, Vietnam, Jul. 2023.
+
+1. **Khac-Hoang Ngo**, A. Graell i Amat, and G. Durisi, “Irregular repetition slotted ALOHA over the binary adder channel,” in _IEEE International Conference on Communications (ICC)_, Rome, Italy, May 2023. [[arXiv]](https://arxiv.org/pdf/2302.11720.pdf)
+
+1. **Khac-Hoang Ngo,** G. Durisi, A. Graell i Amat, P. Popovski, B. Soret, and A. E. Kalør, “Unsourced multiple access for heterogeneous traffic requirements,” in 56th _Asilomar Conference on Signals, Systems, and Computers_, **Invited Paper**, CA, USA, Oct. 2022
 
 1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**. [[arXiv]](https://arxiv.org/pdf/2112.01182.pdf) [[Video]](https://youtu.be/xtyOsdLLIso) [[Simulation code]](https://github.com/khachoang1412/AoI_prioritized_random_access)
 
@@ -68,6 +85,12 @@ author_profile: true
 
 ---
 ## Conference posters
+
+1.  F. Fourati, A. U. Rahman, **Khac-Hoang Ngo**, E. J. Oughton, A. Jindal, and M.-S. Alouini, “Optimal network deployment for global connectivity,” in _The European Conference on Networks and Communications (EuCNC) & 6G Summit_, Grenoble, France, Jun. 2022.
+
+1. **Khac-Hoang Ngo**, “Age of information in prioritized random-access,” in _IEEE SPS - EURASIP Summer School on “Defining 6G: Theory, Applications, and Enabling Technologies”_, Linkoping, Sweden, Aug. 2022.
+
+1. **Khac-Hoang Ngo**, “Massive uncoordinated access for the Internet of Things: A novel information theoretic framework,” in _9th Heidelberg Laureate Forum (HLF)_, Heidelberg, Germany, Sep. 2022.
 
 1. **Khac-Hoang Ngo**, S. Yang, and M. Guillaud, “Generalized Gaussian model for data-driven learning in communications,” in *International Zurich Seminar on Information and Communication (IZS)*, Zurich, Switzerland, Feb. 2020.
 

@@ -35,12 +35,6 @@ SE-412 96 Gothenburg, Sweden
 ---
 # News
 
-[]: # (<div class="grid__wrapper">)
-[]: # ({% for post in site.categories.news-post limit:12 %})
-[]: # (    {% include archive-single.html type="grid" %})
-[]: # ({% endfor %})
-[]: # (</div>)
-
 * 03/2023: Our proposal *Theory for the Privacy-Security Trade-off in Federated Learning* for a PhD student project has been accepted by [Wallenberg AI, Autonomous Systems and Software Program (WASP).](https://wasp-sweden.org/)
 * 02/2023: Our paper *Unsourced Multiple Access With Common Alarm Messages: Network Slicing for Massive and Critical IoT* was submitted to IEEE Transactions on Communications. A preprint can be found [here.](https://arxiv.org/pdf/2302.11026.pdf)
 * 02/2023: Our paper *Unsourced Multiple Access With Random User Activity* is accepted to IEEE Transactions on Information Theory. A preprint can be bound [here.](https://arxiv.org/pdf/2202.06365.pdf)

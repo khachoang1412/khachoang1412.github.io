@@ -7,10 +7,14 @@ author_profile: true
 ## Teaching
 
 ### Chalmers University of Technology: Teaching Assistant
+* 2023 Spring: Information theory (master/PhD course, taught in English, 4 hours)
+* 2023 Spring: Wireless Communications (master course, taught in English, 6 hours of exercise sessions and 4 hours of flipped-classroom lectures, handle a group project and an oral exam, final-exam preparation and grading)
+* 2022 Fall: Statistics and machine learning in high dimensions (master/PhD course, taught in English, 8 hours)
+* 2021 Fall: Statistics and machine learning in high dimensions (master/PhD course, taught in English, 8 hours)
+* 2021 Spring: Information theory (master/PhD course, taught in English, 16 hours)
 
-* 2021: Information theory (master/PhD course, spring semester, taught in English, 16 hours)
-* 2021: Statistics and machine learning in high dimensions (master/PhD course, fall semester, taught in
-English, 8 hours)
+### Guest Lectures/Tutorials
+* Jun 2022: "Unsourced Multiple Access for the Internet of Things", H2020 INCOMING Summer School, Chalmers University of Technology, Gothenburg, Sweden (English, 2 hours)
 
 ---
 ## Supervision

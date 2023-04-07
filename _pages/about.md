@@ -35,8 +35,19 @@ SE-412 96 Gothenburg, Sweden
 ---
 # News
 
-<div class="grid__wrapper">
-{% for post in site.categories.news-post limit:12 %}  
-    {% include archive-single.html type="grid" %}
-{% endfor %}
-</div>
+[//]: # (<div class="grid__wrapper">)
+[//]: # ({% for post in site.categories.news-post limit:12 %})
+[//]: # (    {% include archive-single.html type="grid" %})
+[//]: # ({% endfor %})
+[//]: # (</div>)
+
+* 03/2023: Our proposal *Theory for the Privacy-Security Trade-off in Federated Learning* for a PhD student project has been accepted by [Wallenberg AI, Autonomous Systems and Software Program (WASP).](https://wasp-sweden.org/)
+* 02/2023: Our paper *Unsourced Multiple Access With Common Alarm Messages: Network Slicing for Massive and Critical IoT* was submitted to IEEE Transactions on Communications. A preprint can be found [here.](https://arxiv.org/pdf/2302.11026.pdf)
+* 02/2023: Our paper *Unsourced Multiple Access With Random User Activity* is accepted to IEEE Transactions on Information Theory. A preprint can be bound [here.](https://arxiv.org/pdf/2202.06365.pdf)
+* 01/2023: I attended the [Zugspite Workshop on Communications](http://zugspitzeworkshop.com/), Germany, and gave a talk on *Unsourced Multiple Access with Common Alarm Messages: Network Slicing for Massive and Critical IoT.*
+* 09/2022: I attended the 9th Heidelberg Laureate Forum (HLF). See an [interview in the spotlight of the HLF.](https://scilogs.spektrum.de/hlf/hlff-spotlight-9th-hlf-2/)
+* 02/2022: [Our new paper *Unsourced Multiple Access With Random User Activity*](https://khachoang1412.github.io/news-post/UMA-random-user-activity/)
+* 01/2022: [Matlab routines for our paper *Age of Information in Prioritized Random Access*](https://khachoang1412.github.io/news-post/matlab-AoI-Asilomar-paper/)
+* 02/2022: [Recorded videos of my presentations in 2021](https://khachoang1412.github.io/news-post/presentation-video-2021/)
+* 01/2021: [Thesis prize awarded by CentraleSupélec Foundation](https://khachoang1412.github.io/news-post/thesis-prize-impact-science/)
+* 10/2021: [My MSCA project LANTERN starts](https://khachoang1412.github.io/news-post/lantern-starts/)

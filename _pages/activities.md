@@ -7,6 +7,9 @@ author_profile: true
 
 ## Organizing Committee
 
+* Technical Program Committee member, Joint EuCNC & 6G Summit, Gothenburg, Sweden, Jun. 2023.
+* Technical Program Committee member, 26th Int. ITG Workshop Smart Antennas & 13th Conference on Systems, Communications, and Coding (WSA&SCC 2023), Braunschweig, Germany, Feb. 2023.
+* Technical Program Committee member, 11th Int. Symp. Inf. Commun. Technol. (SoICT), Hanoi, Vietnam, Dec. 2022.
 * Communication track chair, 2022 International Conference on Advanced Technologies For Communications (ATC), Hanoi, Vietnam, Oct. 2022
 * Special session co-chair, 25th International ITG Workshop on Smart Antennas (WSA 2021), French Riviera, France, Nov. 2021
 * Special session co-chair, 2021 International Conference on Advanced Technologies For Communications (ATC), HCM City, Vietnam, Oct. 2021
@@ -16,7 +19,8 @@ author_profile: true
 ---
 ## Membership
 
-* Member of IEEE, IEEE Information Theory Society, IEEE Communications Society, and IEEE Signal Processing Society.
+* IEEE (S'17, M'20), IEEE Information Theory Society, IEEE Communications Society, and IEEE Signal Processing Society
+* Association for Computing Machinery (ACM)
 
 ---
 ## Editorship
@@ -26,22 +30,22 @@ author_profile: true
 ---
 ## Reviewer
 
-### International Journals (#reviews returned)
+### International Journals 
 
-* IEEE Trans. Inf. Theory (1)
-* IEEE Trans. Wireless Commun. (41)
-* IEEE Trans. Veh. Technol. (11)
-* IEEE Trans. Commun. (8)
-* IEEE Trans. Signal Process. (2)
-* IEEE Trans. Signal Inf. Process. Netw. (1)
-* IEEE Internet Things J. (1)
-* IEEE J. Sel. Areas Infor. Theory (2)
-* IEEE J. Sel. Areas Commun. (1)
-* IEEE Commun. Lett. (3)
-* IEEE Wireless Commun. Lett. (8)
-* IEEE Veh. Technol. Mag. (1)
-* IET Electron. Lett. (1)
-* Elsevier Pervasive Mob. Comput. (1)
+* IEEE Trans. Inf. Theory 
+* IEEE Trans. Wireless Commun.
+* IEEE Trans. Veh. Technol. 
+* IEEE Trans. Commun. 
+* IEEE Trans. Signal Process. 
+* IEEE Trans. Signal Inf. Process. Netw. 
+* IEEE Internet Things J. 
+* IEEE J. Sel. Areas Infor. Theory 
+* IEEE J. Sel. Areas Commun. 
+* IEEE Commun. Lett. 
+* IEEE Wireless Commun. Lett.
+* IEEE Veh. Technol. Mag. 
+* IET Electron. Lett. 
+* Elsevier Pervasive Mob. Comput. 
  
 ### Domestic Journals
 
@@ -50,32 +54,56 @@ author_profile: true
 
 ### International Conferences
 
-* IEEE Int. Symp. Inf. Theory (ISIT): 2020, 2022
+* IEEE Int. Symp. Inf. Theory (ISIT): 2020, 2022, 2023
 * IEEE Inf. Theory Workshop (ITW): 2018, 2021
 * IEEE Global Commun. Conf. (GLOBECOM): 2017
 * IEEE Int. Conf. Commun. (ICC): 2017, 2018
 * IEEE Wirel. Commun. Netw. Conf. (WCNC): 2022
-* IEEE Workshop Signal Process. Adv. Wirel. Commun. (SPAWC): 2019
+* IEEE Workshop Signal Process. Adv. Wireless Commun. (SPAWC): 2019
+* IEEE Int. Conf. Acoustics, Speech, and Signal Process. (ICASSP): 2023
+* IEEE Stat. Signal Proces. Workshop (SSP): 2023
+* Int. Symp. Topics Coding (ISTC): 2018
+* Asilomar Conf. Signals, Systems, and Computers: 2021, 2022
 * Int. Symp. Wireless Commun. Systems (ISWCS): 2018, 2021
 * Int. Symp. Commun. Info. Technol. (ISCIT): 2019
-* Int. ITG Workshop Smart Antennas (WSA): 2021
-* Int. Symp. Topics Coding (ISTC): 2018
-* Int. Conf. Adv. Technol. Commun. (ATC): 2021
+* Int. ITG Workshop Smart Antennas (WSA): 2021, 2023
+* Int. Conf. Adv. Technol. Commun. (ATC): 2021, 2022
+* IEEE-RIVF Int. Conf. Comput. Commun. Technol.: 2022
 * NAFOSTED Conf. Info. Comput. Science (NICS): 2018
+* APSIPA Annual Summit and Conference: 2022
 
 ---
 ## Talks
 
-* “Massive Uncoordinated Random Access for the Internet of Things,” *Advanced Institute of Engineering and Technology (AVITECH)*, UET, VNU, Vietnam, 11 May 2021.
-* “Constellation Design for Noncoherent Communications in SIMO Block-Fading Channel,” *Advanced Institute of Engineering and Technology (AVITECH)*, UET, VNU, Vietnam, 27 Aug. 2019.
-* “Noncoherent Wireless Communications: Theoretical Limits and Signal Design,” *Faculty of Electronics and Telecommunications, UET, VNU*, Vietnam, 11 Nov. 2017.
-* “An Achievable DoF Region for the Two-User Noncoherent MIMO Broadcast Channel with Statistical CSI,” *Technical University of Munich*, Germany, 22 Sept. 2017
+* _Unsourced Multiple Access: An Information-Theoretic Analysis_
+  * National Institute for Research in Digital Science and Technology (INRIA), Lyon, France, 20 Apr. 2023
+  * CentraleSup\'elec, Paris-Saclay University, France, 19 Jan. 2023
+* _Unsourced Multiple Access With Common Alarm Messages: Network Slicing for Massive and Critical Internet of Things_
+  * Zugspitze Workshop on Communications, Zugspitze, Germany, 24 Jan. 2023
+  * Equipe Traitement de l’Information et Systemes (ETIS), France, 11 Oct. 2022
+* _Age of Information in Prioritized Random Access With Energy Harvesting_
+  * German Aerospace Center (DLR), Munich, Germany, 28 Sep. 2022
+* _Noncoherent Wireless Communications: Fundamental Limits and System Design_
+  * 28th Francophone Symposium on Signal and Image Processing (GRETSI), France, 08 Sep. 2022
+  * Scientific Council Meeting, CentraleSupelec Foundation, France, 06 Dec. 2021
+  * 60th Annual Congress of Teachers-Researchers Club in Electronics, Electrotechnics and Automation (Club EEA), France, 11 Jun. 2021
+  * Doctoral Students Day, CentraleSup\'elec, Paris-Saclay University, France, 28 Jun. 2018
+  * Faculty of Electronics and Telecommunications, UET, VNU, Vietnam, 11 Nov. 2017
+* _Massive Uncoordinated Random Access for the Internet of Things_
+  * Advanced Institute of Engineering and Technology (AVITECH), UET, VNU, Vietnam, 11 May 2021
+* _Constellation Design for Noncoherent Communications in SIMO Block-Fading Channel_
+  * Advanced Institute of Engineering and Technology (AVITECH), UET, VNU, Vietnam, 27 Aug. 2019
+* _An Achievable DoF Region for the Two-User Noncoherent MIMO Broadcast Channel with Statistical CSI_
+  * Technical University of Munich, Germany, 22 Sep. 2017
+* _On the Complementary Roles of Massive MIMO and Coded Caching_
+  * Laboratory of Signals and Systems, UET, VNU, Vietnam, 25 Aug. 2016
 
 ---
 ## Social Engagement
 * **Administrator** of [telecom-vn](https://www.facebook.com/groups/telecomvn) -- a Facebook group for Vietnamese researchers in telecommunications. Organize regular [seminars](https://www.youtube.com/channel/UCNWic6CM7ZtdlUJQd2WlGYQ).
 
 * **International Events**
+    * 9th Heidelberg Laureate Forum, Germany, Sept. 2022. [Get interviewed in the spotlight](https://scilogs.spektrum.de/hlf/hlff-spotlight-9th-hlf-2/)
     * 2nd and 3rd Global Young Vietnamese Scholars Forum, Vietnam, Nov. 2019 and Nov. 2020. 
     * 7th Heidelberg Laureate Forum, Germany, Sept. 2019. [Get interviewed in the 10-out-of-200 list of participants](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
     * Young Engineers and Scientists Tokyo Meeting, Tokyo, Japan, Nov. 2014.
@@ -93,4 +121,4 @@ author_profile: true
     - [Khoa học Dữ liệu, Học máy, và Trí tuệ Nhân tạo trong Chuyển đổi số](https://trithuctrevietnam.vn/GlobalVYSA/hoi-thao-khoa-hoc-du-lieu-hoc-may-va-tri-tue-nhan-tao-trong-chuyen-doi-so/), 13/11/2021
     - [Tư vấn "Chuẩn bị hành trang cho tương lai" cho học sinh trường THPT Hiệp Hòa số 1, Bắc Giang](https://youtu.be/jst7yVAQPzA), 06/22/2021
 
-* **Mentor** for a Vietnamese undergraduate student under the [Mentorship program](https://donghanh.net/2022/01/dong-hanh-alumni-khoi-dong-chuong-trinh-mentorship-mua-1/), Dong-Hanh Scholarship Association.
+* **Mentor** for Vietnamese undergraduate students under the [Mentorship program](https://donghanh.net/2022/01/dong-hanh-alumni-khoi-dong-chuong-trinh-mentorship-mua-1/), Dong-Hanh Scholarship Association.

@@ -52,11 +52,17 @@ The results of this project will help paving the way to the full realization of 
 
 ## Journal Papers
 
-1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *submitted to IEEE Trans. Inf. Theory*, Jan. 2022. [[arXiv]](https://arxiv.org/pdf/2202.06365.pdf) [[Simulation code]](https://github.com/khachoang1412/UMA_random_user_activity)
+1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” submitted to _IEEE Trans. Commun._, Feb. 2023.
 
-1. G. Gur, C. de Alwis, Q.-V. Pham, __Khac-Hoang Ngo__, M. Liyanage, and P. Porambage, "A survey on integration of ICN and MEC for efficient B5G realization," submitted to *IEEE Open J. Commun. Soc.*, Jan 2022.
+1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *IEEE Trans. Inf. Theory*, Feb. 2023. [[arXiv]](https://arxiv.org/pdf/2202.06365.pdf) [[Simulation code]](https://github.com/khachoang1412/UMA_random_user_activity)
+
+1. G. Gur, A. Kalla, C. de Alwis, Q.-V. Pham, **Khac-Hoang Ngo**, M. Liyanage, and P. Porambage, “Integration of ICN and MEC in 5G and beyond networks: Mutual benefits, use cases, challenges, standardization, and future research,” _IEEE Open J. Commun. Soc._, 3, 1382–1412, Aug. 2022.
 
 ## Conference papers
+
+1. **Khac-Hoang Ngo**, A. Graell i Amat, and G. Durisi, “Irregular repetition slotted ALOHA over the binary adder channel,” in _IEEE International Conference on Communications (ICC)_, Rome, Italy, May 2023. [[arXiv]](https://arxiv.org/pdf/2302.11720.pdf)
+
+1. **Khac-Hoang Ngo,** G. Durisi, A. Graell i Amat, P. Popovski, B. Soret, and A. E. Kalør, “Unsourced multiple access for heterogeneous traffic requirements,” in 56th _Asilomar Conference on Signals, Systems, and Computers_, **Invited Paper**, CA, USA, Oct. 2022
 
 1. **Khac-Hoang Ngo**, G. Durisi, and A. Graell i Amat, “Age of Information in Prioritized Random Access,” in *55rd Asilomar Conference on Signals, Systems, and Computers*, CA, USA, Nov. 2021, **invited paper**. [[arXiv]](https://arxiv.org/pdf/2112.01182.pdf) [[Video]](https://youtu.be/xtyOsdLLIso) [[Simulation code]](https://github.com/khachoang1412/AoI_prioritized_random_access)
 
@@ -69,11 +75,19 @@ The results of this project will help paving the way to the full realization of 
 
 ## Talks
 
+1. "Unsourced Multiple Access With Common Alarm Messages: Network Slicing for Massive and Critical Internet of Things", 
+    * Zugspitze Workshop on Communications, Zugspitze, Germany, 24 Jan. 2023
+    * Equipe Traitement de l’Information et Systemes (ETIS), France, 11 Oct. 2022
+
+1. "Irregular repetition slotted ALOHA over the binary adder channel," Communication System Group Seminar, Chalmers University of Technology, 24 Mar. 2023.
+
+1. "Age of Information in Prioritized Random Access With Energy Harvesting," German Aerospace Center (DLR), Munich, Germany, 28 Sep. 2022.
+ 
 1. "Age of Information in Prioritized Random Access," Communication System Group Seminar, Chalmers University of Technology, 21 Jan. 2022. 
 
-3. "Massive Uncoordinated Random Access for the Internet of Things," Advanced Institute of Engineering and Technology (AVITECH), University of Engineering and Technology, Vietnam National University-Hanoi, Vietnam, 11 May 2021.
+1. "Massive Uncoordinated Random Access for the Internet of Things," Advanced Institute of Engineering and Technology (AVITECH), University of Engineering and Technology, Vietnam National University-Hanoi, Vietnam, 11 May 2021.
 
-5. "Massive Uncoordinated Random Access," Communication System Group Seminar, Chalmers University of Technology, 23 Apr. 2021.
+1. "Massive Uncoordinated Random Access," Communication System Group Seminar, Chalmers University of Technology, 23 Apr. 2021.
 
 ## Videos
 
@@ -99,9 +113,12 @@ All presentation videos related to LANTERN are available [here](https://youtube.
 
 ## Conference Organization
 
-1. *Communication track chair*, 2022 International Conference on Advanced Technologies For Communications (ATC), Hanoi, Vietnam, Oct. 2022.
-2. *Special session chair*, 25th International ITG Workshop on Smart Antennas (WSA), French Riviera, France, Nov. 2021.
-3. *Special session chair*, 2021 International Conference on Advanced Technologies For Communications (ATC), HCM City, Vietnam, Oct. 2021.
+* Technical Program Committee member, Joint EuCNC & 6G Summit, Gothenburg, Sweden, Jun. 2023.
+* Technical Program Committee member, 26th Int. ITG Workshop Smart Antennas & 13th Conference on Systems, Communications, and Coding (WSA&SCC 2023), Braunschweig, Germany, Feb. 2023.
+* Technical Program Committee member, 11th Int. Symp. Inf. Commun. Technol. (SoICT), Hanoi, Vietnam, Dec. 2022.
+* Communication track chair, 2022 International Conference on Advanced Technologies For Communications (ATC), Hanoi, Vietnam, Oct. 2022
+* Special session co-chair, 25th International ITG Workshop on Smart Antennas (WSA 2021), French Riviera, France, Nov. 2021
+* Special session co-chair, 2021 International Conference on Advanced Technologies For Communications (ATC), HCM City, Vietnam, Oct. 2021
 
 ## Reviewer
 
@@ -130,18 +147,3 @@ The links are also associated to each paper in the list of publications.
 * [About Marie Skłodowska-Curie Actions (MSCA)](https://ec.europa.eu/programmes/horizon2020/en/h2020-section/marie-sklodowska-curie-actions)
 * [About MSCA Individual Fellowship (IF)](https://cordis.europa.eu/programme/id/H2020_MSCA-IF-2020)
 * [Who was Marie Skłodowska-Curie?](https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/)
-
-<div class="grid__wrapper">
-{% for post in site.categories.lantern %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
-</div>
-
----
-# News
-
-<div class="grid__wrapper">
-{% for post in site.categories.news-post limit:12 %}  
-    {% include archive-single.html type="grid" %}
-{% endfor %}
-</div>

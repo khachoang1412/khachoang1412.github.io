@@ -15,7 +15,6 @@ author_profile: true
 * [Linh-Trung Nguyen](https://scholar.google.com/citations?user=-MEdhRQAAAAJ&hl=en), VNU University of Engineering and Technology, Vietnam (Bachelor advisor)
 * [Quoc-Tuan Nguyen](https://uet.vnu.edu.vn/~tuannq/), VNU University of Engineering and Technology, Vietnam (Bachelor advisor)
 * [Petar Popovski](http://petarpopovski.es.aau.dk/), Aalborg University, Denmark
-* [Yury Polyanskiy](http://people.lids.mit.edu/yp/homepage/papers.html), MIT, USA
 * [Philip Schniter](http://www.ece.ohio-state.edu/~schniter/), The Ohio State University, USA
 * [Aria Nosratinia](https://labs.utdallas.edu/aria/), UT Dallas, USA
 * [Alejandro Lancho](https://a-lancho.github.io/), MIT, USA
@@ -47,7 +46,7 @@ author_profile: true
 
 ### In Vietnamese
 * [Ai cũng có thể trở thành công dân toàn cầu](https://www.dropbox.com/s/q9140u9fhkpwpnr/Binh-Minh.pdf?dl=0)
-* [TS Ngô Khắc Hoàng: Diễn đàn Heidelberg truyền cảm hứng và động lực cho tôi theo đuổi nghiên cứu học thuật](https://vov.gov.vn/ts-ngo-khac-hoang-dien-dan-heidelberg-truyen-cam-hung-va-dong-luc-cho-toi-theo-dtnew-438456)
+* [Diễn đàn Heidelberg truyền cảm hứng và động lực cho tôi theo đuổi nghiên cứu học thuật](https://vov.gov.vn/ts-ngo-khac-hoang-dien-dan-heidelberg-truyen-cam-hung-va-dong-luc-cho-toi-theo-dtnew-438456)
 * [Chàng trai liên tiếp thủ khoa tốt nghiệp](https://thanhnien.vn/chang-trai-lien-tiep-thu-khoa-tot-nghiep-post1070827.html)
 * [Tôi muốn được góp sức cho sự phát triển cộng đồng nghiên cứu ở Việt Nam](https://vovworld.vn/vi-VN/khach-moi-cua-vov/ts-ngo-khac-hoang-toi-muon-duoc-gop-suc-cho-su-phat-trien-cong-dong-nghien-cuu-o-viet-nam-983089.vov)
 * [Thử thách lớn nhất là thay đổi tư duy](https://tuoitre.vn/thu-thach-lon-nhat-la-thay-doi-tu-duy-20191015212433556.htm)
@@ -96,6 +95,7 @@ Reading is another hobby of mine. [My goodreads profile](https://www.goodreads.c
 2. \*\*\*\* *The Shadow of the Wind* (Carlos Ruiz Zafón)
 3. \*\*\*\* *Blind Willow, Sleeping Woman* (Haruki Murakami)
 4. \*\*\* *Number 9: The Search for the Sigma Code* (Cecil Balmond)
+5. *How Not to Be Wrong: The Power of Mathematical Thinking* (Jordan Ellenberg)
 
 ### Books of 2022: 
 

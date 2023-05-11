@@ -35,7 +35,7 @@ SE-412 96 Gothenburg, Sweden
 ---
 # News
 * 05/2023: **We are looking for a [PhD candidate in privacy-preserving federated learning.](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=11750&rmlang=UK)**
-* 04/2023: Two papers accepted to the IEEE Statistical Signal Processing (SSP) Workshop 2023: "Joint Communications and Sensing Design for Multi-Carrier MIMO Systems" and "Sparse Bayesian Learning with Atom Refinement for mmWave MIMO Channel Estimation"
+* 04/2023: Two papers accepted to the IEEE Statistical Signal Processing (SSP) Workshop 2023: *Joint Communications and Sensing Design for Multi-Carrier MIMO Systems* and *Sparse Bayesian Learning with Atom Refinement for mmWave MIMO Channel Estimation*
 * 03/2023: Our proposal *Theory for the Privacy-Security Trade-off in Federated Learning* for a PhD student project has been accepted by [Wallenberg AI, Autonomous Systems and Software Program (WASP).](https://wasp-sweden.org/)
 * 02/2023: Our paper *Unsourced Multiple Access With Common Alarm Messages: Network Slicing for Massive and Critical IoT* was submitted to IEEE Transactions on Communications. A preprint can be found [here.](https://arxiv.org/pdf/2302.11026.pdf)
 * 02/2023: Our paper *Unsourced Multiple Access With Random User Activity* is accepted to IEEE Transactions on Information Theory. A preprint can be bound [here.](https://arxiv.org/pdf/2202.06365.pdf)

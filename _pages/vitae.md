@@ -35,13 +35,16 @@ students (3 credits); Supervising writing processes (2.5 credits)
 * “Connecting the Unconnected: A Tool for Digital Inclusion”, *AlumNode Funding*, 5000 Euros, 2021-2022, responsibility: **co-investigator**
 
 ---
-## Selected Honors and Awards
-* *Qualification for the functions of university professor/lecturer*, National Council of Universities (CNU), France, 2023.
+## Selected Honors and Certificates
+* *Qualification for the functions of university professor/lecturer*, National Council of Universities (CNU), France, 2023
+* *Best Paper Award*, IEEE Statistical Signal Processing Workshop (SSP), Hanoi, Vietnam 2023
+* Featured in the *spotlight of the 9th Heidelberg Laureate Forum*, Germany 2022
 * *Impact Science* 2nd Prize for Ph.D. thesis, CentraleSupélec Foundation, France, 2021
 * *Best Paper Award*, [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam, 2021
 * [*Signal, Image & Vision Ph.D. Thesis Prize*](http://gretsi.fr/prix-de-these2021/resultats.php) by EEA, GRETSI and GdR-ISIS, France, 2021
 * [*Marie Skłodowska-Curie Actions Individual Fellowship*](https://cordis.europa.eu/project/id/101022113), 2021
 * *Romberg Grant* for selected participants of the 7th Heidelberg Laureate Forum, Germany, Sept. 2019
+* *10-out-of-200 list of participants* of the 7th Heidelberg Laureate Forum, Germany 2019
 * *Graduate with first-class honors (Master level)*, CentraleSupélec, 2016
 * *Université Paris-Saclay scholarship*, University of Paris-Saclay, 2015–2016
 * *Graduate with first-class honors (Bachelor level)*, UET, VNU, 2014

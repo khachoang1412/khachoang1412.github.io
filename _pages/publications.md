@@ -13,44 +13,19 @@ My goal is to gain fundamental insights into communication and learning systems 
 I have more than 10 years of experience in research, from the third year of my bachelor’s study to my current postdoctoral research. In the following, I retrace the main steps in my research career.
 
 My postdoctoral research primarily focuses on massive random access, where a large number of sporadically active devices access the wireless medium in an uncoordinated fashion. First, I characterized
-the energy efficiency achievable under the unsourced multiple access (UMA) framework, where the users
-employ the same codebook, and the decoder returns an unordered list of codewords. Specifically, I extended
-the random-coding achievability bound in the original UMA framework to the case in which the number
-of active devices is random and unknown to the receiver, and to the case with heterogeneous
-traffic consisting of both standard and critical messages. Second, I explored practical advanced
-slotted ALOHA protocols. I analyzed irregular repetition slotted ALOHA (IRSA) over the binary adder
-channel. I also investigated information freshness, measured in terms of the age of information
-metric, achieved with IRSA when devices belong to different classes, as well as with slotted ALOHA
-when devices rely on harvested energy. Besides massive random access, I also conducted research on
-edge computing, reconfigurable intelligent surfaces, joint communication and sensing,
-mmWave channel estimation, and network deployment for rural connectivity. Furthermore, I am
-currently focusing on the privacy of federated learning, aiming to quantify the privacy guarantee of
-secure aggregation (where clients jointly mask their updates to reveal only the aggregate) through the lens
-of differential privacy.
+the energy efficiency achievable under the unsourced multiple access (UMA) framework, where the users employ the same codebook, and the decoder returns an unordered list of codewords. Specifically, I extended the random-coding achievability bound in the original UMA framework to the case in which the number of active devices is random and unknown to the receiver, and to the case with heterogeneous
+traffic consisting of both standard and critical messages. Second, I explored practical advanced slotted ALOHA protocols. I analyzed irregular repetition slotted ALOHA (IRSA) over the binary adder
+channel. I also investigated information freshness, measured in terms of the age of information metric, achieved with IRSA when devices belong to different classes, as well as with slotted ALOHA
+when devices rely on harvested energy. Besides massive random access, I also conducted research on edge computing, reconfigurable intelligent surfaces, joint communication and sensing, mmWave channel estimation, and network deployment for rural connectivity. Furthermore, I am currently focusing on the privacy of federated learning, aiming to quantify the privacy guarantee of secure aggregation (where clients jointly mask their updates to reveal only the aggregate) through the lens of differential privacy.
 
 The topic of my Ph.D. thesis was noncoherent wireless communications, where channel state information (CSI) is unavailable a priori. Conventional wireless communication methods involve pilot-based
 channel estimation and coherent detection. However, when channel estimation is challenging and overconsumes communication resources, adopting communication strategies that operate without relying on CSI,
-such as using Grassmannian constellations, proves to be more effective. In the first part of the thesis, I
-characterized the fundamental limits of noncoherent communications under generic fading conditions.
-Specifically, I derived the optimal/achievable degrees of freedom and data rates for the noncoherent point-to-point channel, multiple access channel, and broadcast channel. In the second
-part, I designed practical schemes, including a structured Grassmannian constellation with high packing efficiency and low mapping/demapping complexity. For the multiple access channel, I proposed meaningful metrics to design joint constellations, along with a practical multiple
-access scheme. Moreover, I introduced a low-complexity and effective noncoherent multiuser detection
-scheme based on expectation propagation. For nonlinear channels, I presented a generalized
-Gaussian model to characterize the input-output relation.
+such as using Grassmannian constellations, proves to be more effective. In the first part of the thesis, I characterized the fundamental limits of noncoherent communications under generic fading conditions. Specifically, I derived the optimal/achievable degrees of freedom and data rates for the noncoherent point-to-point channel, multiple access channel, and broadcast channel. In the second
+part, I designed practical schemes, including a structured Grassmannian constellation with high packing efficiency and low mapping/demapping complexity. For the multiple access channel, I proposed meaningful metrics to design joint constellations, along with a practical multiple access scheme. Moreover, I introduced a low-complexity and effective noncoherent multiuser detection scheme based on expectation propagation. For nonlinear channels, I presented a generalized Gaussian model to characterize the input-output relation.
 
-My master’s thesis focused on coded caching, which reduces the traffic load in content delivery networks
-by prefetching content near/at the users and by employing coded multicast. I analyzed the performance
-of coded caching in practical scenarios, considering random demands, random user arrivals, and wireless
-channels. In MIMO broadcast channels, coded multicast is limited by the channel condition of the worst
-user, hindering scalability, i.e., the ability to guarantee a constant per-user delivery rate as the user population
-grows. I proposed methods to achieve scalability based on multiple-antenna transmission or opportunistic
-user scheduling, uncovering a synergy between coded caching and massive MIMO.
+My master’s thesis focused on coded caching, which reduces the traffic load in content delivery networks by prefetching content near/at the users and by employing coded multicast. I analyzed the performance of coded caching in practical scenarios, considering random demands, random user arrivals, and wireless channels. In MIMO broadcast channels, coded multicast is limited by the channel condition of the worst user, hindering scalability, i.e., the ability to guarantee a constant per-user delivery rate as the user population grows. I proposed methods to achieve scalability based on multiple-antenna transmission or opportunistic user scheduling, uncovering a synergy between coded caching and massive MIMO.
 
-During my bachelor’s study, I actively engaged in research early by completing a summer internship
-at the National University of Singapore, focusing on solar panel charge controllers [R1]. Subsequently, I
-participated in a research project on network coding, aiming to increase the network throughput through
-transmitting message combinations. I implemented network coding and cognitive radio protocols using a
-real-time software-defined radio testbed with USRP and bladeRF devices.
+During my bachelor’s study, I actively engaged in research early by completing a summer internship at the National University of Singapore, focusing on solar panel charge controllers [R1]. Subsequently, I participated in a research project on network coding, aiming to increase the network throughput through transmitting message combinations. I implemented network coding and cognitive radio protocols using a real-time software-defined radio testbed with USRP and bladeRF devices.
 
 ---
 ## Book Chapters

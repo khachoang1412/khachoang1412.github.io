@@ -19,6 +19,10 @@ author_profile: true
 ---
 ## Supervision
 
+### Ph.D. thesis: Co-supervisor
+* Marcus Lassila, "Theory for the privacy-security trade-off in federated learning", Chalmers University of Technology, Sweden, 2023-2027
+* Xi Zhang, "Learning joint detection and decoding in short-packet communications", Chalmers University of Technology, Sweden, Sep. 2023-Aug.2024
+
 ### Master student research projects: Co-supervisor
 
 * Khodor SAFA and Shanglin YANG, “MIMO detection under generalized Gaussian model,” CentraleSupélec, Paris-Saclay University, Mar. 2021.

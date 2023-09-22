@@ -1,17 +1,72 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+## Interests and Goals
+My research interests are in the areas of wireless communications, information theory, and decentralized learning, with an emphasis on massive random access, privacy of federated learning, age of information, MIMO, and noncoherent communications.
+
+My goal is to gain fundamental insights into communication and learning systems and to leverage these insights for practical designs of communication and learning schemes.
+
+## Research Profile
+I have more than 10 years of experience in research, from the third year of my bachelor’s study to my current postdoctoral research. In the following, I retrace the main steps in my research career.
+
+My postdoctoral research primarily focuses on massive random access, where a large number of sporadically active devices access the wireless medium in an uncoordinated fashion. First, I characterized
+the energy efficiency achievable under the unsourced multiple access (UMA) framework, where the users
+employ the same codebook, and the decoder returns an unordered list of codewords. Specifically, I extended
+the random-coding achievability bound in the original UMA framework to the case in which the number
+of active devices is random and unknown to the receiver, and to the case with heterogeneous
+traffic consisting of both standard and critical messages. Second, I explored practical advanced
+slotted ALOHA protocols. I analyzed irregular repetition slotted ALOHA (IRSA) over the binary adder
+channel. I also investigated information freshness, measured in terms of the age of information
+metric, achieved with IRSA when devices belong to different classes, as well as with slotted ALOHA
+when devices rely on harvested energy. Besides massive random access, I also conducted research on
+edge computing, reconfigurable intelligent surfaces, joint communication and sensing,
+mmWave channel estimation, and network deployment for rural connectivity. Furthermore, I am
+currently focusing on the privacy of federated learning, aiming to quantify the privacy guarantee of
+secure aggregation (where clients jointly mask their updates to reveal only the aggregate) through the lens
+of differential privacy.
+
+The topic of my Ph.D. thesis was noncoherent wireless communications, where channel state information (CSI) is unavailable a priori. Conventional wireless communication methods involve pilot-based
+channel estimation and coherent detection. However, when channel estimation is challenging and overconsumes communication resources, adopting communication strategies that operate without relying on CSI,
+such as using Grassmannian constellations, proves to be more effective. In the first part of the thesis, I
+characterized the fundamental limits of noncoherent communications under generic fading conditions.
+Specifically, I derived the optimal/achievable degrees of freedom and data rates for the noncoherent point-to-point channel, multiple access channel, and broadcast channel. In the second
+part, I designed practical schemes, including a structured Grassmannian constellation with high packing efficiency and low mapping/demapping complexity. For the multiple access channel, I proposed meaningful metrics to design joint constellations, along with a practical multiple
+access scheme. Moreover, I introduced a low-complexity and effective noncoherent multiuser detection
+scheme based on expectation propagation. For nonlinear channels, I presented a generalized
+Gaussian model to characterize the input-output relation.
+
+My master’s thesis focused on coded caching, which reduces the traffic load in content delivery networks
+by prefetching content near/at the users and by employing coded multicast. I analyzed the performance
+of coded caching in practical scenarios, considering random demands, random user arrivals, and wireless
+channels. In MIMO broadcast channels, coded multicast is limited by the channel condition of the worst
+user, hindering scalability, i.e., the ability to guarantee a constant per-user delivery rate as the user population
+grows. I proposed methods to achieve scalability based on multiple-antenna transmission or opportunistic
+user scheduling, uncovering a synergy between coded caching and massive MIMO.
+
+During my bachelor’s study, I actively engaged in research early by completing a summer internship
+at the National University of Singapore, focusing on solar panel charge controllers [R1]. Subsequently, I
+participated in a research project on network coding, aiming to increase the network throughput through
+transmitting message combinations. I implemented network coding and cognitive radio protocols using a
+real-time software-defined radio testbed with USRP and bladeRF devices.
+
+---
 ## Book Chapters
 
-1. "Two-Way Relay Communications: Theory and Implementation," L.-T. Nguyen, N.-Q.-B. Vo, and T.-T.-Q. Tran, Eds., Languague: Vietnamese, Hanoi, Vietnam: VNU Publishing House, Jun. 2022.
+1. "Two-Way Relay Communications: Theory and Implementation," L.-T. Nguyen, N.-Q.-B. Vo, and T.-T.-Q. Tran, Eds., Languague: Vietnamese, Hanoi, Vietnam: VNU Publishing House, to be published in 2023.
     * Chapter 8: L.-T. Nguyen, T.-T.-Q. Tran, **Khac-Hoang Ngo**, and V.-L. Nguyen, “Cogitive physical-layer network coding";
     * Chapter 9: T.-T.-Q. Tran, **Khac-Hoang Ngo**, V.-L. Nguyen, H.-S. Do, and L.-T. Nguyen, “Setting up an SDR testbed for OFDM systems”;
     * Chapter 10: V.-L. Nguyen, **Khac-Hoang Ngo**, T.-T.-Q. Tran, V.-H. Le, and L.-T. Nguyen, “Physical-layer network coding for SDR-based multimedia transmissions";
     * Chapter 11:  T.-T.-Q. Tran, V.-L. Nguyen, **Khac-Hoang Ngo**, L.-T. Nguyen, Q.-T. Nguyen, V.-H. Le, N.-Q.-B. Vo, and X.-N. Tran, “Implementation of cognitive physical-layer network coding based on OFDM/VFDM”. 
 
+---
+## Patents
+
+1. **Khac-Hoang Ngo**, A. Decurninge, M. Guillaud, and S. Yang, "Transmitter and receiver communication apparatus for non-coherent communication." *U.S. Patent Application 17/243,679*, filed August 19, 2021.
+
+---
 ## Journal Papers
 
 1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” submitted to _IEEE Trans. Commun._, Feb. 2023.
@@ -100,11 +155,6 @@ author_profile: true
 ## Technical reports
 
 1. **Khac-Hoang Ngo**, “Solar panel charge controller,” Dept. of Electrical and Computer Engineering, National University of Singapore, Singapore, Internship report, Aug. 2012.
-
----
-## Patents
-
-1. **Khac-Hoang Ngo**, A. Decurninge, M. Guillaud, and S. Yang, "Transmitter and receiver communication apparatus for non-coherent communication." *U.S. Patent Application 17/243,679*, filed August 19, 2021.
 
 ---
 ## Theses

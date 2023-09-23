@@ -67,10 +67,12 @@ author_profile: true
 
 I am a runner. I started running as an exercise in 2017 and have been running regularly since 2019. Now I'm hooked on it. I have attended or expect to attend the following races:
 
-* [Göteborgsvarvet 2021](https://www.goteborgsvarvet.se/) (11/09/2021): Half-Marathon, Time [1:43:29](https://reg.goteborgsvarvet.se/diplom/33439/NiNwZkxCOzE0MDMzODE7Ji9KdDVL), Average pace 4:53/km.
-* [Finalloppet 2021](https://www.finalloppet.com/) (06/11/2021): 19km trail, Total elevation 400m, Time: [1:33:16](https://www.dropbox.com/s/oczxrr8k9cxshic/254288137_6495167883888916_9058374707193388898_n.jpg?dl=0), Average pace: 4:55/km
-* [Göteborgsvarvet 2022](https://www.goteborgsvarvet.se/) (21/05/2022): Half-Marathon, Time [1:30:25](https://reg.goteborgsvarvet.se/Sok/Resultat.aspx?pid=NiNwZkxCOzE0MTExNTk7Ji9KdDVL), Average pace: 4:18/km
+* [Göteborgsvarvet Marathon 2023](https://www.goteborgsvarvet.se/en/marathon-weekend/goteborgsvarvet-marathon) (03/09/2023): Full Marathon, Time: 3:31:36, Average pace: 5:01/km
+* [Varvetmilen 2023](https://www.goteborgsvarvet.se/en/other-races/varvetmilen) (04/2023): 10 km, Time 0:41:55, Average pace: 4:12/km
 * [Helsingborg Marathon 2022](https://helsingborgmarathon.se/en/marathon/) (03/09/2022): Full-Marathon, Time [3:30:30](https://www.dropbox.com/s/cgdhtrbixe1g64d/5BD9E144-26C2-43FC-8B66-E3AF8F2E6922.jpeg?dl=0)
+* [Göteborgsvarvet 2022](https://www.goteborgsvarvet.se/) (21/05/2022): Half-Marathon, Time [1:30:25](https://reg.goteborgsvarvet.se/Sok/Resultat.aspx?pid=NiNwZkxCOzE0MTExNTk7Ji9KdDVL), Average pace: 4:18/km
+* [Finalloppet 2021](https://www.finalloppet.com/) (06/11/2021): 19km trail, Total elevation 400m, Time: [1:33:16](https://www.dropbox.com/s/oczxrr8k9cxshic/254288137_6495167883888916_9058374707193388898_n.jpg?dl=0), Average pace: 4:55/km
+* [Göteborgsvarvet 2021](https://www.goteborgsvarvet.se/) (11/09/2021): Half-Marathon, Time [1:43:29](https://reg.goteborgsvarvet.se/diplom/33439/NiNwZkxCOzE0MDMzODE7Ji9KdDVL), Average pace 4:53/km.
 
 Follow my activities in [Strava](https://www.strava.com/athletes/47313435).
 
@@ -95,7 +97,10 @@ Reading is another hobby of mine. [My goodreads profile](https://www.goodreads.c
 2. \*\*\*\* *The Shadow of the Wind* (Carlos Ruiz Zafón)
 3. \*\*\*\* *Blind Willow, Sleeping Woman* (Haruki Murakami)
 4. \*\*\* *Number 9: The Search for the Sigma Code* (Cecil Balmond)
-5. *How Not to Be Wrong: The Power of Mathematical Thinking* (Jordan Ellenberg)
+5. \*\*\*\* *How Not to Be Wrong: The Power of Mathematical Thinking* (Jordan Ellenberg)
+6. \*\*\*\* *Dance, Dance, Dance* (Haruki Murakami)
+7. \*\*\*\* *The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing* (Marie Kondo)
+8. \*\*\* *The Black Swan: The Impact of the Highly Improbable* (Nassim Nicholas Taleb)
 
 ### Books of 2022: 
 

@@ -52,13 +52,18 @@ The results of this project will help paving the way to the full realization of 
 
 ## Journal Papers
 
-1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” submitted to _IEEE Trans. Commun._, Feb. 2023.
+1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, A. Munari, and F. L´azaro, “Timely status updates in slotted ALOHA networks with energy harvesting,” to be submitted to _IEEE Transactions on Communications_, 2023. 
+
+1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” under minor revision to _IEEE Trans. Commun._, Feb. 2023.
 
 1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *IEEE Trans. Inf. Theory*, Feb. 2023. [[arXiv]](https://arxiv.org/pdf/2202.06365.pdf) [[Simulation code]](https://github.com/khachoang1412/UMA_random_user_activity)
 
 1. G. Gur, A. Kalla, C. de Alwis, Q.-V. Pham, **Khac-Hoang Ngo**, M. Liyanage, and P. Porambage, “Integration of ICN and MEC in 5G and beyond networks: Mutual benefits, use cases, challenges, standardization, and future research,” _IEEE Open J. Commun. Soc._, 3, 1382–1412, Aug. 2022.
 
 ## Conference papers
+
+1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, A. Munari, and F. Lázaro, “Age of information in slotted ALOHA with energy harvesting,” in _IEEE Global Communications Conference (Globecom)_, Kuala Lumpur, Malaysia, Dec. 2023. [[Preprint]](https://research.chalmers.se/
+publication/537484/file/537484_Fulltext.pdf)
 
 1. **Khac-Hoang Ngo**, A. Graell i Amat, and G. Durisi, “Irregular repetition slotted ALOHA over the binary adder channel,” in _IEEE International Conference on Communications (ICC)_, Rome, Italy, May 2023. [[arXiv]](https://arxiv.org/pdf/2302.11720.pdf)
 
@@ -74,6 +79,14 @@ The results of this project will help paving the way to the full realization of 
 # Dissemination 
 
 ## Talks
+1. "Unsourced Multiple Access for the Internet of Things", H2020 INCOMING Summer School, Gothenburg, Sweden, June 2022
+
+1. "Unsourced Multiple Access: An Information-Theoretic Analysis"
+
+  * Linköping University, Sweden, 11 October 2023
+  * Advanced Institute of Engineering and Technology (AVITECH), UET, VNU, Vietnam, 22 May 2023
+  * National Institute for Research in Digital Science and Technology (INRIA), Lyon, France, 20 April 2023
+  * CentraleSup´elec, Paris-Saclay University, France, 19 January 2023
 
 1. "Unsourced Multiple Access With Common Alarm Messages: Network Slicing for Massive and Critical Internet of Things", 
     * Zugspitze Workshop on Communications, Zugspitze, Germany, 24 Jan. 2023
@@ -98,21 +111,27 @@ All presentation videos related to LANTERN are available [here](https://youtube.
 
 ## Training
 
-1. Ongoing traning for a Diploma in *Teaching and Learning in Higher Education* at Chalmers University of Technology \
-*Completed courses:* Diversity and inclusion for learning in higher education (2 credits); University teaching and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research students (3 credits); Supervising writing processes (2.5 credits)
+1. Ongoing training for a Diploma in *Teaching and Learning in Higher Education* at Chalmers University of Technology \
+*Completed courses:* Diversity and inclusion for learning in higher education (2 credits); University teaching and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research students (3 credits); Supervising writing processes (2.5 credits) \
+*Ongoing course*: Pedagogical project (4.5 credits)
 
-2. Attended workshop *Mental health issues in academia and contemplative solutions* organized by [Alumnode](https://alumnode.org/), 9 Dec. 2021.
+3. Attended workshop *Mental health issues in academia and contemplative solutions* organized by [Alumnode](https://alumnode.org/), 9 Dec. 2021.
 
-3. Attended workshop series [*Navigate academia and maximize your potential*](https://www.dokt.chs.chalmers.se/navigate-academia-and-maximize-your-potential/) organized by Chalmers Doctoral Students Guild and [Dear Academia](https://deborahrupert.com/dear-academia/), 29 Oct -- 3 Dec. 2021
+4. Attended workshop series [*Navigate academia and maximize your potential*](https://www.dokt.chs.chalmers.se/navigate-academia-and-maximize-your-potential/) organized by Chalmers Doctoral Students Guild and [Dear Academia](https://deborahrupert.com/dear-academia/), 29 Oct -- 3 Dec. 2021
 
 ## Teaching 
 
 1. Chalmers University of Technology: Teaching Assistant
-- Fall 2021: *Statistics and machine learning in high dimensions* (master/PhD course, taught in English, 8 hours)
-- Spring 2021: *Information theory* (master/PhD course, taught in English, 16 hours)
+* 2023 Spring: Information theory (master/PhD course, taught in English, 4 hours)
+* 2023 Spring: Wireless Communications (master course, taught in English, 6 hours of exercise sessions and 4 hours of flipped-classroom lectures, handling a group project and an oral exam, final-exam preparation and grading)
+* 2022 Fall: Statistics and machine learning in high dimensions (master/PhD course, taught in English, 8 hours)
+* Fall 2021: *Statistics and machine learning in high dimensions* (master/PhD course, taught in English, 8 hours)
+* Spring 2021: *Information theory* (master/PhD course, taught in English, 16 hours)
 
 ## Conference Organization
-
+* Technical Program Committee member, International Conference on Control, Automation and Information Sciences (ICCAIS), 2023
+* Technical Program Committee member, APSIPA Annual Summit and Conference, 2023
+* Technical Program Committee member, 12th International Symposium on Information and Communication Technology (SoICT), Hanoi, Vietnam, December 2023
 * Technical Program Committee member, Joint EuCNC & 6G Summit, Gothenburg, Sweden, Jun. 2023.
 * Technical Program Committee member, 26th Int. ITG Workshop Smart Antennas & 13th Conference on Systems, Communications, and Coding (WSA&SCC 2023), Braunschweig, Germany, Feb. 2023.
 * Technical Program Committee member, 11th Int. Symp. Inf. Commun. Technol. (SoICT), Hanoi, Vietnam, Dec. 2022.
@@ -132,13 +151,16 @@ for various international journals and conferences.
 --- 
 # Reproduciple Research
 
-The simulation codes of LANTERN are accessible at: [https://github.com/khachoang1412](https://github.com/khachoang1412).
-The links are also associated to each paper in the list of publications.
+The simulation codes of LANTERN are accessible at [https://github.com/khachoang1412](https://github.com/khachoang1412).
+The links are also associated with each paper in the list of publications.
 
 ---
 
 # Achievements
 
+* *Qualification for the functions of university professor/lecturer*, National Council of Universities (CNU), France, 2023
+* *Best Paper Award*, IEEE Statistical Signal Processing Workshop (SSP), Hanoi, Vietnam, 2023
+* *Featured in the spotlight* of the 9th Heidelberg Laureate Forum, Germany, 2022
 * *Best Paper Award*, [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam, 2021
 
 ---

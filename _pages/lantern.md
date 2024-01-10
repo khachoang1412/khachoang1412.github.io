@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <img src="/images/lantern.png" alt="LANTERN" style="width:250px; float: center;"/>
+<img src="/images/EU_emblem.jpg" alt="LANTERN" style="width:500px; float: center;"/>
 
 
 [**LANTERN: Low-lAtency aNd privaTe Edge computing in Random-access Networks**](https://cordis.europa.eu/project/id/101022113) is an H2020-MSCA-IF project. It receives funding from the European Union’s

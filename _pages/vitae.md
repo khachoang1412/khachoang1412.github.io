@@ -11,9 +11,7 @@ author_profile: true
 * *M.Sc. in Wireless Communications*, [CentraleSupélec](https://www.centralesupelec.fr/), Paris-Saclay University, France (Sept. 2017 - Sept. 2020). GPA: 17.35/20.
 * *Bachelor in Electronics and Telecommunications*, [Univ. of Engineering and Technology (UET)](http://uet.vnu.edu.vn/), Vietnam National University - Hanoi (VNU), Vietnam (Aug. 2010 - June 2014). GPA: 3.75/4.0.
 * *Diploma in Teaching and Learning in Higher Education*, [Chalmers University of Technology](chalmers.se), Sweden (Ongoing). 
-Completed courses: Diversity and inclusion for learning in higher education (2 credits); University teaching
-and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research
-students (3 credits); Supervising writing processes (2.5 credits)
+Completed courses: Diversity and inclusion for learning in higher education (2 credits); University teaching and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research students (3 credits); Supervising writing processes (2.5 credits); Pedagogical Project (4.5 credits)
 
 ---
 ## Experiences
@@ -29,6 +27,7 @@ students (3 credits); Supervising writing processes (2.5 credits)
 ---
 ## Funding
 
+* "Theory for the Privacy-Security Trade-off in Practical Federated Learning", *Swedish Research Council (VR)*, 2024-2028, responsibility: **co-investigator**
 * "Theory for the Privacy-Security Trade-off in Federated Learning", *Wallenberg AI, Autonomous Systems and Software Program (WASP)*, 2023-2027, responsibility: **co-investigator**
 * “LANTERN: Low-latency and private edge computing in random-access networks”, *Marie Skłodowska-Curie Individual Fellowship*, 192 000 Euros, 2021-2022, responsibility: **Fellow** 
 * "Agricultural IoT based on Edge Computing", *ICT Virtual Organization of ASEAN Institutes and Japan’s NICT (ASEAN IVO)*, 80 000 USD, 2022-2024, responsibility: **co-investigator**

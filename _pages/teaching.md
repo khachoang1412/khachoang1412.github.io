@@ -7,11 +7,9 @@ author_profile: true
 ## Teaching
 
 ### Chalmers University of Technology: Teaching Assistant
-* 2023 Spring: Information theory (master/PhD course, taught in English, 4 hours)
-* 2023 Spring: Wireless Communications (master course, taught in English, 6 hours of exercise sessions and 4 hours of flipped-classroom lectures, handle a group project and an oral exam, final-exam preparation and grading)
-* 2022 Fall: Statistics and machine learning in high dimensions (master/PhD course, taught in English, 8 hours)
-* 2021 Fall: Statistics and machine learning in high dimensions (master/PhD course, taught in English, 8 hours)
-* 2021 Spring: Information theory (master/PhD course, taught in English, 16 hours)
+* 2024 Spring, 2023 Spring: Wireless Communications (master course)
+* 2022 Fall, 2021 Fall: Statistics and machine learning in high dimensions (master/PhD course)
+* 2023 Spring, 2021 Spring: Information theory (master/PhD course)
 
 ### Guest Lectures/Tutorials
 * Jun 2022: "Unsourced Multiple Access for the Internet of Things", H2020 INCOMING Summer School, Chalmers University of Technology, Gothenburg, Sweden (English, 2 hours)
@@ -21,6 +19,9 @@ author_profile: true
 
 ### Ph.D. thesis: Co-supervisor
 * Marcus Lassila, "Theory for the privacy-security trade-off in federated learning", Chalmers University of Technology, Sweden, 2023-2027
+* (recruiting), "Theory for the privacy-security trade-off in practical federated learning", Chalmers University of Technology, Sweden, 2024-2028
+
+### Master's thesis: Co-supervisor
 * Xi Zhang, "Learning joint detection and decoding in short-packet communications", Chalmers University of Technology, Sweden, Sep. 2023-Aug.2024
 
 ### Master student research projects: Co-supervisor

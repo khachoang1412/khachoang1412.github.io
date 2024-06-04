@@ -34,8 +34,8 @@ SE-412 96 Gothenburg, Sweden
 
 ---
 # News
-* 05/2023: Our paper [Secure Aggregation is Not Private Against Membership Inference Attacks](https://arxiv.org/pdf/2403.17775) is accepted to the European Conference on Machine Learning.
-* 04/2023: I visited Prof. Petar Popovski at Aalborg University, Denmark. Lots of fruitful discussion!
+* 05/2024: Our paper [Secure Aggregation is Not Private Against Membership Inference Attacks](https://arxiv.org/pdf/2403.17775) is accepted to the European Conference on Machine Learning.
+* 04/2024: I visited Prof. Petar Popovski at Aalborg University, Denmark. Lots of fruitful discussion!
 * 09/2023: I participated in the final outreach event of the European H2020 project INCOMING (INnovation and excellence in massive-scale COMmunications and information processING) in Novi Sad and Belgrade, Serbia
 * 08/2023: Our paper [Age of Information in Slotted ALOHA With Energy Harvesting](https://research.chalmers.se/publication/537484/file/537484_Fulltext.pdf) is accepted to IEEE Globecom 2023
 * 05/2023: **We are looking for a [PhD candidate in privacy-preserving federated learning.](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=11750&rmlang=UK)**
@@ -44,9 +44,9 @@ SE-412 96 Gothenburg, Sweden
 * 02/2023: Our paper *Unsourced Multiple Access With Common Alarm Messages: Network Slicing for Massive and Critical IoT* was submitted to IEEE Transactions on Communications. A preprint can be found [here.](https://arxiv.org/pdf/2302.11026.pdf)
 * 02/2023: Our paper *Unsourced Multiple Access With Random User Activity* is accepted to IEEE Transactions on Information Theory. A preprint can be bound [here.](https://arxiv.org/pdf/2202.06365.pdf)
 * 01/2023: I attended the [Zugspite Workshop on Communications](http://zugspitzeworkshop.com/), Germany, and gave a talk on *Unsourced Multiple Access with Common Alarm Messages: Network Slicing for Massive and Critical IoT.*
-* 09/2022: I attended the 9th Heidelberg Laureate Forum (HLF). See an [interview in the spotlight of the HLF.](https://scilogs.spektrum.de/hlf/hlff-spotlight-9th-hlf-2/)
-* 02/2022: [Our new paper *Unsourced Multiple Access With Random User Activity*](https://khachoang1412.github.io/news-post/UMA-random-user-activity/)
-* 01/2022: [Matlab routines for our paper *Age of Information in Prioritized Random Access*](https://khachoang1412.github.io/news-post/matlab-AoI-Asilomar-paper/)
-* 02/2022: [Recorded videos of my presentations in 2021](https://khachoang1412.github.io/news-post/presentation-video-2021/)
-* 01/2021: [Thesis prize awarded by CentraleSupélec Foundation](https://khachoang1412.github.io/news-post/thesis-prize-impact-science/)
-* 10/2021: [My MSCA project LANTERN starts](https://khachoang1412.github.io/news-post/lantern-starts/)
+<!--- * 09/2022: I attended the 9th Heidelberg Laureate Forum (HLF). See an [interview in the spotlight of the HLF.](https://scilogs.spektrum.de/hlf/hlff-spotlight-9th-hlf-2/) -->
+<!--- * 02/2022: [Our new paper *Unsourced Multiple Access With Random User Activity*](https://khachoang1412.github.io/news-post/UMA-random-user-activity/) -->
+<!--- * 01/2022: [Matlab routines for our paper *Age of Information in Prioritized Random Access*](https://khachoang1412.github.io/news-post/matlab-AoI-Asilomar-paper/)-->
+<!--- * 02/2022: [Recorded videos of my presentations in 2021](https://khachoang1412.github.io/news-post/presentation-video-2021/)-->
+<!--- * 01/2021: [Thesis prize awarded by CentraleSupélec Foundation](https://khachoang1412.github.io/news-post/thesis-prize-impact-science/)-->
+<!--- * 10/2021: [My MSCA project LANTERN starts](https://khachoang1412.github.io/news-post/lantern-starts/)-->

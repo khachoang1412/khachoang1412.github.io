@@ -53,7 +53,7 @@ The results of this project will help paving the way to the full realization of 
 
 ## Journal Papers
 
-1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, A. Munari, and F. L´azaro, “Timely status updates in slotted ALOHA networks with energy harvesting,” to be submitted to _IEEE Transactions on Communications_, 2023. 
+1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, A. Munari, and F. L´azaro, “Timely status updates in slotted ALOHA networks with energy harvesting,” submitted to _IEEE Transactions on Communications_, 2024. 
 
 1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” under minor revision to _IEEE Trans. Commun._, Feb. 2023.
 
@@ -62,6 +62,9 @@ The results of this project will help paving the way to the full realization of 
 1. G. Gur, A. Kalla, C. de Alwis, Q.-V. Pham, **Khac-Hoang Ngo**, M. Liyanage, and P. Porambage, “Integration of ICN and MEC in 5G and beyond networks: Mutual benefits, use cases, challenges, standardization, and future research,” _IEEE Open J. Commun. Soc._, 3, 1382–1412, Aug. 2022.
 
 ## Conference papers
+
+1. **Khac-Hoang Ngo**, J. Östman, G. Durisi, and A. Graell i Amat, “Secure aggregation is NOT private against membership inference attacks,” in _European Conference on Machine Learning and Principles
+and Practice of Knowledge Discovery in Databases (ECML PKDD)_, Vilnius, Lithuania, Sep. 2024. [[arXiv]](https://arxiv.org/pdf/2403.17775)
 
 1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, A. Munari, and F. Lázaro, “Age of information in slotted ALOHA with energy harvesting,” in _IEEE Global Communications Conference (Globecom)_, Kuala Lumpur, Malaysia, Dec. 2023. [[Preprint]](https://research.chalmers.se/
 publication/537484/file/537484_Fulltext.pdf)
@@ -113,8 +116,7 @@ All presentation videos related to LANTERN are available [here](https://youtube.
 ## Training
 
 1. Ongoing training for a Diploma in *Teaching and Learning in Higher Education* at Chalmers University of Technology \
-*Completed courses:* Diversity and inclusion for learning in higher education (2 credits); University teaching and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research students (3 credits); Supervising writing processes (2.5 credits) \
-*Ongoing course*: Pedagogical project (4.5 credits)
+*Completed courses:* Diversity and inclusion for learning in higher education (2 credits); University teaching and learning (2.5 credits); Theoretical perspectives on learning (2.5 credits); Supervising research students (3 credits); Supervising writing processes (2.5 credits); Pedagogical project (4.5 credits)
 
 3. Attended workshop *Mental health issues in academia and contemplative solutions* organized by [Alumnode](https://alumnode.org/), 9 Dec. 2021.
 
@@ -123,6 +125,7 @@ All presentation videos related to LANTERN are available [here](https://youtube.
 ## Teaching 
 
 1. Chalmers University of Technology: Teaching Assistant
+* 2024 Spring: Wireless Communications (master course, taught in English, 6 hours of exercise sessions and 4 hours of main lectures, handling a group project and an oral exam, final-exam preparation and grading)
 * 2023 Spring: Information theory (master/PhD course, taught in English, 4 hours)
 * 2023 Spring: Wireless Communications (master course, taught in English, 6 hours of exercise sessions and 4 hours of flipped-classroom lectures, handling a group project and an oral exam, final-exam preparation and grading)
 * 2022 Fall: Statistics and machine learning in high dimensions (master/PhD course, taught in English, 8 hours)

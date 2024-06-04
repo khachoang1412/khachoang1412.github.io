@@ -65,8 +65,10 @@ author_profile: true
 *"The point is whether or not I improved over yesterday. In long-distance running the only opponent you have to beat is yourself, the way you used to be."* \
 -- What I Talk About When I Talk About Running, Haruki Murakami
 
-I am a runner. I started running as an exercise in 2017 and have been running regularly since 2019. Now I'm hooked on it. I have attended or expect to attend the following races:
+I am a runner. I started running as an exercise in 2017 and have been running regularly since 2019. Now I'm hooked on it. I have run the following races:
 
+* [Göteborgsvarvet 2024](https://www.goteborgsvarvet.se/) (13/05/2024): Half-Marathon, Time 1:41:48
+* [Varvetmilen 2024](https://www.goteborgsvarvet.se/en/other-races/varvetmilen) (04/2024): 10 km, Time 0:40:50
 * [Göteborgsvarvet Marathon 2023](https://www.goteborgsvarvet.se/en/marathon-weekend/goteborgsvarvet-marathon) (03/09/2023): Full Marathon, Time: 3:31:36, Average pace: 5:01/km
 * [Varvetmilen 2023](https://www.goteborgsvarvet.se/en/other-races/varvetmilen) (04/2023): 10 km, Time 0:41:55, Average pace: 4:12/km
 * [Helsingborg Marathon 2022](https://helsingborgmarathon.se/en/marathon/) (03/09/2022): Full-Marathon, Time [3:30:30](https://www.dropbox.com/s/cgdhtrbixe1g64d/5BD9E144-26C2-43FC-8B66-E3AF8F2E6922.jpeg?dl=0)

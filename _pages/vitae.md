@@ -16,7 +16,8 @@ Completed courses: Diversity and inclusion for learning in higher education (2 c
 ---
 ## Experiences
 
-* *Postdoctoral Researcher*, [Communication System Group](https://www.chalmers.se/en/departments/e2/research/Communication-systems/Pages/Communication-Systems.aspx), Dept. Electrical Engineering, Chalmers Univ. of Technology, Sweden (Sept. 2020 – present)
+* **Assistant Professor**, Division of Communication Systems, Linköping University, Sweden
+* *Postdoctoral Researcher*, [Communication System Group](https://www.chalmers.se/en/departments/e2/research/Communication-systems/Pages/Communication-Systems.aspx), Dept. Electrical Engineering, Chalmers Univ. of Technology, Sweden (Sept. 2020 – Aug. 2024)
 * *Adjunct Lecturer*, [Advanced Institute of Engineering and Technology (AVITECH)](http://avitech.uet.vnu.edu.vn/), UET, VNU, Vietnam (Mar. 2021 - present)
 * *Ph.D. Research Engineer*, Mathematical and Algorithmic Sciences Lab., Paris Research Center, Huawei Technologies France (Nov. 2016 – June 2020)
 * *Research Assistant*, [Laboratory of Signals and Systems (L2S)](https://l2s.centralesupelec.fr/) - CentraleSupélec, France (Feb. 2016 - Nov. 2016)

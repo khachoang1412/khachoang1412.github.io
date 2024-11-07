@@ -35,6 +35,7 @@ Campus Valla, Building B, entrance 27, room 3A:455 \
 
 ---
 # News
+* 11/2024: I received the 2024 **Golden Globe Science and Technology Award** in Vietnam. The Vietnam Ministry of Science and Technology and the Vietnam Youth Union present this annual award to ten selected under-35 Vietnamese scientists.
 * 09/2024: **I joined Linköping University as an assistant professor.**
 * 05/2024: Our paper [Secure Aggregation is Not Private Against Membership Inference Attacks](https://arxiv.org/pdf/2403.17775) is accepted to the European Conference on Machine Learning.
 * 04/2024: I visited Prof. Petar Popovski at Aalborg University, Denmark. Lots of fruitful discussion!

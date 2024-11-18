@@ -45,6 +45,7 @@ author_profile: true
 * An interview with Honda Foundation: [Part 1/4](https://www.facebook.com/hondazaidan/posts/2284483361678420); [Part 2/4](https://www.facebook.com/hondazaidan/posts/2287968147996608); [Part 3/4](https://www.facebook.com/hondazaidan/posts/2287970947996328); [Part 4/4](https://www.facebook.com/hondazaidan/posts/2290008624459227).
 
 ### In Vietnamese
+* [Làm hết mình thì ở đâu cũng là cống hiến](https://www.sggp.org.vn/lam-het-minh-thi-o-dau-cung-la-cong-hien-post768828.html)
 * [Hãy theo đuổi sự xuất sắc, thành công sẽ tìm đến bạn!](https://vovworld.vn/vi-VN/nguoi-viet-muon-phuong/ts-ngo-khac-hoang-hay-theo-duoi-su-xuat-sac-thanh-cong-se-tim-den-ban-1340994.vov)
 * [Ai cũng có thể trở thành công dân toàn cầu](https://www.dropbox.com/s/q9140u9fhkpwpnr/Binh-Minh.pdf?dl=0)
 * [Diễn đàn Heidelberg truyền cảm hứng và động lực cho tôi theo đuổi nghiên cứu học thuật](https://vov.gov.vn/ts-ngo-khac-hoang-dien-dan-heidelberg-truyen-cam-hung-va-dong-luc-cho-toi-theo-dtnew-438456)

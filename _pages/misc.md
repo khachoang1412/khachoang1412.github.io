@@ -43,6 +43,7 @@ author_profile: true
 * [An interview in the 10-out-of-200 list of participants of the 7th Heidelberg Laureate Forum](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
 * [An interview with spektrum.de about my PhD journey](https://scilogs.spektrum.de/hlf/10-out-of-200-serving-the-people-khac-hoang-ngo-improves-our-telecommunication/)
 * An interview with Honda Foundation: [Part 1/4](https://www.facebook.com/hondazaidan/posts/2284483361678420); [Part 2/4](https://www.facebook.com/hondazaidan/posts/2287968147996608); [Part 3/4](https://www.facebook.com/hondazaidan/posts/2287970947996328); [Part 4/4](https://www.facebook.com/hondazaidan/posts/2290008624459227).
+* [Give your best, make a difference wherever you are](https://en.sggp.org.vn/golden-globe-awardee-give-your-best-make-a-difference-wherever-you-are-post113867.html)
 
 ### In Vietnamese
 * [Nhà khoa học trẻ vươn tầm quốc tế với những dấu ấn công nghệ nổi bật](https://svvn.tienphong.vn/ts-ngo-khac-hoang-nha-khoa-hoc-tre-vuon-tam-quoc-te-voi-nhung-dau-an-cong-nghe-noi-bat-post1694504.tpo)

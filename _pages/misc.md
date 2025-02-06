@@ -46,6 +46,7 @@ author_profile: true
 * [Give your best, make a difference wherever you are](https://en.sggp.org.vn/golden-globe-awardee-give-your-best-make-a-difference-wherever-you-are-post113867.html)
 
 ### In Vietnamese
+* [Tiến sĩ trẻ và nghiên cứu về IoT](https://tienphong.vn/tien-si-tre-va-nghien-cuu-dot-pha-ve-iot-post1714653.tpo)
 * [Nhà khoa học trẻ vươn tầm quốc tế với những dấu ấn công nghệ nổi bật](https://svvn.tienphong.vn/ts-ngo-khac-hoang-nha-khoa-hoc-tre-vuon-tam-quoc-te-voi-nhung-dau-an-cong-nghe-noi-bat-post1694504.tpo)
 * [Làm hết mình thì ở đâu cũng là cống hiến](https://www.sggp.org.vn/lam-het-minh-thi-o-dau-cung-la-cong-hien-post768828.html)
 * [Hãy theo đuổi sự xuất sắc, thành công sẽ tìm đến bạn!](https://vovworld.vn/vi-VN/nguoi-viet-muon-phuong/ts-ngo-khac-hoang-hay-theo-duoi-su-xuat-sac-thanh-cong-se-tim-den-ban-1340994.vov)

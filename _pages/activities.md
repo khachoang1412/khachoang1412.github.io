@@ -6,16 +6,17 @@ author_profile: true
 ---
 
 ## Technical Program Committee
-* IEEE Wireless Communications and Networking Conference (WCNC), Dubai, UAE, 2024
-* International Conference on Control, Automation and Information Sciences (ICCAIS), Hanoi, Vietnam, 2023
+* IEEE Int. Symp. on Information Theory (ISIT): 2026
+* IEEE Wireless Communications and Networking Conference (WCNC): 2024, 2025
+* IEEE Int. Symp. Personal, Indoor and Mobile Radio Commun. (PIMRC): 2025
+* Joint EuCNC & 6G Summit: 2023, 2025
+* International Conference on Control, Automation and Information Sciences (ICCAIS): 2023
 * APSIPA Annual Summit and Conference, Taipei, Taiwan, 2023
-* 12th International Symposium on Information and Communication Technology (SoICT), Hanoi, Vietnam, December 2023
-* Joint EuCNC & 6G Summit, Gothenburg, Sweden, June 2023
-* 26th International ITG Workshop on Smart Antennas & 13th Conference on Systems, Communications, and Coding (WSA&SCC 2023), Braunschweig, Germany, February 2023
-* 11th International Symposium on Information and Communication Technology (SoICT), Hanoi, Vietnam, December 2022
+* International Symposium on Information and Communication Technology (SoICT): 2022, 2023
+* International ITG Workshop on Smart Antennas: 2023
 
 ## Organizing Committee
-
+* *Workshop organizer and chair*, International Workshop on Resource Allocation and Cooperation in Wireless Networks (RAWNET), International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (Wiopt), Linköping, Sweden, 2025
 * *Session chair*, IEEE Global Communications Conference (GLOBECOM), Kuala Lumpur, Malaysia, December 2023
 * *Communication track chair*, International Conference on Advanced Technologies in Communications (ATC), Hanoi, Vietnam, October 2022
 * *Track chair*, 1st International Conference on Intelligence of Things (ICIT), Hanoi, Vietnam, August 2022
@@ -27,13 +28,12 @@ author_profile: true
 
 ---
 ## Membership
-
 * IEEE (S'17, M'20), IEEE Information Theory Society, IEEE Communications Society, and IEEE Signal Processing Society
-* Association for Computing Machinery (ACM)
+* Association for Computing Machinery (ACM) (2022-2023)
 
 ---
 ## Editorship
-
+* Associate Editor, IEEE Wireless Communications Letters, from 2025
 * Copyeditor for the ICT Research Journal, Vietnam Ministry of Information and Communications, 2020.
 
 ---
@@ -63,57 +63,57 @@ author_profile: true
 
 ### International Conferences
 
-* IEEE International Symposium on Information Theory (ISIT): 2020, 2022, 2023
+* IEEE International Symposium on Information Theory (ISIT): 2020, 2022, 2023, 2025
 * IEEE Information Theory Workshop (ITW): 2018, 2021
 * IEEE Global Communications Conference (GLOBECOM): 2017, 2023
 * IEEE International Conference on Communications (ICC): 2017, 2018, 2023, 2024
-* IEEE Wireless Communications and Networking Conference (WCNC): 2022, 2024
+* IEEE Wireless Communications and Networking Conference (WCNC): 2022, 2024, 2025
 * IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC): 2019
+* IEEE Int. Symp. Personal, Indoor and Mobile Radio Commun. (PIMRC): 2025
 * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP): 2023
 * IEEE Statistical Signal Processing Workshop (SSP): 2023
 * IEEE International Conference on Communications and Electronics (ICCE): 2024
+* Int. Symp. Model. & Opt. Mobile, Ad hoc, & Wireless Netw. (WiOpt): 2025
 * International Symposium on Topics in Coding (ISTC): 2018
-* Asilomar Conference on Signals, Systems, and Computers: 2021, 2022, 2023, 2024
+* Asilomar Conference on Signals, Systems, and Computers: 2021, 2022, 2023, 2024, 2025
 * International Symposium on Wireless Communication Systems (ISWCS): 2018, 2021
 * International Symposium on Communication and Information Technology (ISCIT): 2019
 * International ITG Workshop on Smart Antennas (WSA): 2021, 2023
 * International Conference on Advanced Technologies in Communications (ATC): 2021, 2022, 2023
 * IEEE-RIVF International Conference on Computing and Communication Technologies: 2022
 * NAFOSTED Conference on Information and Computer Science (NICS): 2018
-* APSIPA Annual Summit and Conference: 2022, 2023
+* APSIPA Annual Summit and Conference: 2022, 2023, 2024
 * International Conference on Control, Automation and Information Sciences (ICCAIS): 2023
 
 ---
-## Talks
+## Invited Talks by Topic
 
-* _Age of Information in Random Access Networks With Energy Harvesting_
-  * University of Amsterdam, 26 April 2024
-  * Hanoi University of Science and Technology, Vietnam, 13 December 2023
-  * German Aerospace Center (DLR), Munich, Germany, 28 September 2022
-* _Unsourced Multiple Access for the Internet of Things_
-  * H2020 INCOMING Summer School, Gothenburg, Sweden, June 2022
-* _Unsourced Multiple Access: An Information-Theoretic Analysis_
-  * Linköping University, Sweden, 11 October 2023
-  * Advanced Institute of Engineering and Technology (AVITECH), UET, VNU, Vietnam, 22 May 2023
-  * National Institute for Research in Digital Science and Technology (INRIA), Lyon, France, 20 April 2023
-  * CentraleSupélec, Paris-Saclay University, France, 19 January 2023
-* _Unsourced Multiple Access With Common Alarm Messages: Network Slicing for Massive and Critical Internet of Things_
-  * Zugspitze Workshop on Communications, Zugspitze, Germany, 24 January 2023
-  * Equipe Traitement de l’Information et Systèmes (ETIS), France, 11 October 2022
-* _Noncoherent Wireless Communications: Fundamental Limits and System Design_
-  * 28th Francophone Symposium on Signal and Image Processing (GRETSI), France, 08 September 2022
-  * Scientific Council Meeting, CentraleSupélec Foundation, France, 06 December 2021
-  * 60th Annual Congress of Teachers-Researchers Club in Electronics, Electrotechnics and Automation (Club EEA), France, 11 June 2021
-  * Doctoral Students Day, CentraleSupélec, Paris-Saclay University, France, 28 June 2018
-  * Faculty of Electronics and Telecommunications, UET, VNU, Vietnam, 11 November 2017
-* _Massive Uncoordinated Random Access for the Internet of Things_ 
-  * Advanced Institute of Engineering and Technology (AVITECH), UET, VNU, Vietnam, 11 May 2021
-* _Constellation Design for Noncoherent Communications in SIMO Block-Fading Channel_
-  * Advanced Institute of Engineering and Technology (AVITECH), UET, VNU, Vietnam, 27 August 2019
-* _An Achievable DoF Region for the Two-User Noncoherent MIMO Broadcast Channel with Statistical CSI_
-  * Technical University of Munich, Germany, 22 September 2017
-* _On the Complementary Roles of Massive MIMO and Coded Caching_
-  * Laboratory of Signals and Systems, UET, VNU, Vietnam, 25 August 2016
+### Massive Random Access:
+* Swedish Communication Technologies Workshop (1.5-hour tutorial, 10/2025)
+* University of Cyprus (10/2025)
+* Aalborg University (04/2024)
+* Linköping University (10/2023)
+* Vietnam National University Hanoi (05/2023, 05/2021)
+* INRIA Lyon (04/2023)
+* CentraleSupélec (01/2023)
+* Zugspitze Workshop on Communications (01/2023)
+* Equipe Traitement de l’Information et Systèmes (ETIS) France (02/2022)
+* H2020 INCOMING Summer School (2-hour tutorial, 06/2022)
+  
+### Age of Information:
+* University of Amsterdam (04/2024)
+* Hanoi University of Science and Technology (12/2023)
+* German Aerospace Center (DLR) (09/2022)
+
+### Noncoherent Wireless Communications:
+* 8th Francophone Symposium on Signal and Image Processing (GRETSI), France (09/2022)
+* CentraleSupélec (12/2021, 06/2018)
+* Club EEA France (06/2021)
+* Vietnam National University Hanoi (08/2019, 11/2017)
+* Technical University of Munich (09/2017)
+  
+# Coded Caching: 
+* Vietnam National University Hanoi (08/2016)
 
 ---
 ## Social Engagement
@@ -128,14 +128,17 @@ author_profile: true
     * JENESYS 2.0 culture exchange program, Japan, July 2014
     * Vietnam - China Youth Festival, Guangxi, China, Nov. 2013
 
-* **Student Representative Positions**
+<!-- * **Student Representative Positions**
     * Vice-president of Student Association of UET, VNU, April 2012–June 2015
-    * President of Student Club on Presentation of UET, VNU, April 2011–June 2012
+    * President of Student Club on Presentation of UET, VNU, April 2011–June 2012 -->
 
 * **Public-science online talks/workshops** for Vietnamese community:
+    - "Làm sao để thông tin luôn trẻ?", Association of Vietnamese Science and Technology Experts in Sweden, 11/2024
     - [Bài giảng "Truyền thông Vô tuyến: Cơ bản và Ứng dụng"](https://khachoang1412.wordpress.com/2020/11/03/truyen-thong-vo-tuyen-co-ban-va-ung-dung/), 17/06/2020
     - [Hội tụ Công nghệ Thông tin và Truyền thông cho Sự Phát triển của Đất nước](https://khachoang1412.wordpress.com/2020/11/03/phat-trien-dat-nuoc-nho-hoi-tu-cong-nghe-thong-tin-va-truyen-thong/), 10/2020
     - [Khoa học Dữ liệu, Học máy, và Trí tuệ Nhân tạo trong Chuyển đổi số](https://trithuctrevietnam.vn/GlobalVYSA/hoi-thao-khoa-hoc-du-lieu-hoc-may-va-tri-tue-nhan-tao-trong-chuyen-doi-so/), 13/11/2021
     - [Tư vấn "Chuẩn bị hành trang cho tương lai" cho học sinh trường THPT Hiệp Hòa số 1, Bắc Giang](https://youtu.be/jst7yVAQPzA), 06/22/2021
 
-* **Mentor** for Vietnamese undergraduate students under the [Mentorship program](https://donghanh.net/2022/01/dong-hanh-alumni-khoi-dong-chuong-trinh-mentorship-mua-1/), Dong-Hanh Scholarship Association.
+<!-- * **Mentor** for Vietnamese students under
+  the [Mentorship program](https://donghanh.net/2022/01/dong-hanh-alumni-khoi-dong-chuong-trinh-mentorship-mua-1/), Dong-Hanh Scholarship Association. -->
+

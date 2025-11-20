@@ -5,7 +5,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-## Collaborators
+<!-- ## Collaborators
 
 * [Giuseppe Durisi](https://gdurisi.github.io), Chalmers University of Technology, Sweden (postdoc advisor)
 * [Alexandre Graell i Amat](https://sites.google.com/site/agraellamat/), Chalmers University of Technology, Sweden (postdoc advisor)
@@ -20,7 +20,7 @@ author_profile: true
 * [Alejandro Lancho](https://a-lancho.github.io/), MIT, USA
 * [Alexis Decurninge](https://scholar.google.com/citations?user=VhYvGRMAAAAJ&hl=fr), Advanced Wireless Technology Lab, Huawei Technologies France (Ph.D. advisor)
 * [Nhan Thanh Nguyen](https://sites.google.com/view/nhanthanhnguyen/home?authuser=0), University of Oulu, Finland
-* [Thinh Quang Dinh](https://scholar.google.com/citations?user=g54O0ekAAAAJ&hl=en), University of Luxembourg, Luxembourg
+* [Thinh Quang Dinh](https://scholar.google.com/citations?user=g54O0ekAAAAJ&hl=en), University of Luxembourg, Luxembourg -->
 
 ---
 ## Useful Links
@@ -71,7 +71,13 @@ author_profile: true
 -- What I Talk About When I Talk About Running, Haruki Murakami
 
 I am a runner. I started running as an exercise in 2017 and have been running regularly since 2019. Now I'm hooked on it. I have run the following races:
-
+* Å-stadsloppet Örebro 2025 (half marathon)
+* Jönköping Half Marathon 2025
+* Göteborgsvarvet 2025
+* Thủy Nguyên Half Marathon 2025
+* Blodomloppet Linöping 2025: 10km
+* Hannover Marathon 2025: full marathon
+* Blodomloppet Göteborg 2024: 10km
 * [Göteborgsvarvet 2024](https://www.goteborgsvarvet.se/) (13/05/2024): Half-Marathon, Time 1:41:48
 * [Varvetmilen 2024](https://www.goteborgsvarvet.se/en/other-races/varvetmilen) (04/2024): 10 km, Time 0:40:50
 * [Göteborgsvarvet Marathon 2023](https://www.goteborgsvarvet.se/en/marathon-weekend/goteborgsvarvet-marathon) (03/09/2023): Full Marathon, Time: 3:31:36, Average pace: 5:01/km
@@ -83,7 +89,7 @@ I am a runner. I started running as an exercise in 2017 and have been running re
 
 Follow my activities in [Strava](https://www.strava.com/athletes/47313435).
 
-### Some photos: 
+<!-- ### Some photos: 
 
 <img src="/images/Running1.jpg" alt="Running1" style="width:800px; float: center;"/>
 <img src="/images/Running2.jpg" alt="Running2" style="width:500px; float: center;"/>
@@ -117,4 +123,5 @@ Reading is another hobby of mine. [My goodreads profile](https://www.goodreads.c
 4. \*\*\*\*\* *What is Real? The Unfinished Quest for the Meaning of Quantum Physics* (Adam Becker)
 5. \*\*\*\* *Inferno* (Dan Brown)
 6. \*\*\*\*\* *Algorithms to Live By: The Computer Science of Human Decisions* (Brian Christian and Thomas L. Griffiths)
-7. \*\*\*\* *The seven habits of highly effective people* (Stephen R. Covey)
+7. \*\*\*\* *The seven habits of highly effective people* (Stephen R. Covey) -->
+

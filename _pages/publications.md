@@ -5,11 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 ## Interests and Goals
-My research interests are in the areas of wireless communications, information theory, and decentralized learning, with an emphasis on massive random access, privacy of federated learning, age of information, MIMO, and noncoherent communications.
+My research interests are in the areas of wireless communications, information theory, and machine learning, with an emphasis on the following topics:
+* Massive (unsourced) random access
+* Information freshness
+* MIMO communications
+* Noncoherent communications
+* AI privacy and security
 
-My goal is to gain fundamental insights into communication and learning systems and to leverage these insights for practical designs of communication and learning schemes.
+My goal is to gain fundamental insights into communication and learning systems and to leverage these insights for practical designs of these system.
 
-## Research Profile
+<!--- ## Research Profile
 I have more than 10 years of experience in research, from the third year of my bachelor’s study to my current postdoctoral research. In the following, I retrace the main steps in my research career.
 
 My postdoctoral research primarily focuses on **massive random access**, where a large number of sporadically active devices access the wireless medium in an uncoordinated fashion. First, I characterized
@@ -56,26 +61,17 @@ During my bachelor’s study, I actively engaged in research early by completing
 at the National University of Singapore, focusing on solar panel charge controllers. Subsequently, I
 participated in a research project on **network coding**, aiming to increase the network throughput through
 transmitting message combinations. I implemented network coding and cognitive radio protocols using a
-real-time software-defined radio testbed with USRP and bladeRF devices.
+real-time software-defined radio testbed with USRP and bladeRF devices. -->
 
----
 ## Preprints
 
-1. **Khac-Hoang Ngo**, G. Durisi, A. Munari, F. Lázaro, and A. Graell i Amat, “Timely status updating in slotted ALOHA networks with energy harvesting,” submitted to _IEEE Trans. Commun._, 2024. [[arXiv]](https://arxiv.org/pdf/2404.19552) [[Simulation code]](https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting)
-
-1. **Khac-Hoang Ngo**, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” submitted to _IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)_, 2024. [[arXiv]](https://arxiv.org/pdf/2404.19552) [[Simulation code]](https://github.com/khachoang1412/TUMA)
-
-1. **Khac-Hoang Ngo**, J. Östman, and A. Graell i Amat, “Local mutual-information differential privacy,” submitted to _IEEE Inf. Theory Workshop (ITW)_, 2024. [[arXiv]](https://arxiv.org/pdf/2405.07596)
-
+1. **Khac-Hoang Ngo**, D. Cuevas, R. de Miguel Gil, V. Monzon Baeza, A. Garcia Armada, and I. Santamaria, “Noncoherent MIMO communications: Theoretical foundation, design
+approaches, and future challenges,” submitted to IEEE Open Journal of Vehicular Technology, 2025. [[arXiv]](https://arxiv.org/pdf/2505.23172).
 
 ---
-## Book Chapters
+## Book
 
-1. "Two-Way Relay Communications: Theory and Implementation," L.-T. Nguyen, N.-Q.-B. Vo, and T.-T.-Q. Tran, Eds., Languague: Vietnamese, Hanoi, Vietnam: VNU Publishing House, to be published in 2024.
-    * Chapter 8: L.-T. Nguyen, T.-T.-Q. Tran, **Khac-Hoang Ngo**, and V.-L. Nguyen, “Cogitive physical-layer network coding";
-    * Chapter 9: T.-T.-Q. Tran, **Khac-Hoang Ngo**, V.-L. Nguyen, H.-S. Do, and L.-T. Nguyen, “Setting up an SDR testbed for OFDM systems”;
-    * Chapter 10: V.-L. Nguyen, **Khac-Hoang Ngo**, T.-T.-Q. Tran, V.-H. Le, and L.-T. Nguyen, “Physical-layer network coding for SDR-based multimedia transmissions";
-    * Chapter 11:  T.-T.-Q. Tran, V.-L. Nguyen, **Khac-Hoang Ngo**, L.-T. Nguyen, Q.-T. Nguyen, V.-H. Le, N.-Q.-B. Vo, and X.-N. Tran, “Implementation of cognitive physical-layer network coding based on OFDM/VFDM”. 
+1. N. L. Trung, V. N. Q. Bao, N. V. Ha, L. V. Ha, **Khac-Hoang Ngo**, et al., "Two-way relay communications: theory and implementation". Hanoi, Vietnam: Vietnam National University Publishing House, 2025, Language: Vietnamese. 
 
 ---
 ## Patents
@@ -85,9 +81,11 @@ real-time software-defined radio testbed with USRP and bladeRF devices.
 ---
 ## Journal Papers
 
-1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” submitted to _IEEE Trans. Commun._, Feb. 2023.
+1. **Khac-Hoang Ngo**, G. Durisi, A. Munari, F. Lázaro, and A. Graell i Amat, “Timely status updating in slotted ALOHA networks with energy harvesting,” _IEEE Trans. Commun._, 2025. [[arXiv]](https://arxiv.org/pdf/2404.19552) [[Simulation code]](https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting)
+  
+1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, P. Popovski, A. E. Kalor, and B. Soret, “Unsourced multiple access with common alarm messages: Network slicing for massive and critical IoT,” _IEEE Transactions on Communications_, vol. 72, no. 2, pp. 907–923, Feb. 2024, Feb. 2023. [[arXiv]](https://arxiv.org/pdf/2302.11026.pdf)
 
-1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *IEEE Trans. Inf. Theory*, Feb. 2023. [[arXiv]](https://arxiv.org/pdf/2202.06365.pdf) [[Simulation code]](https://github.com/khachoang1412/UMA_random_user_activity)
+1. **Khac-Hoang Ngo**, A. Lancho, G. Durisi, and A. Graell i Amat, “Unsourced multiple access with random user activity,” *IEEE Trans. Inf. Theory*, vol. 69, no. 7, pp. 4537–4558, Feb. 2023. [[arXiv]](https://arxiv.org/pdf/2202.06365.pdf) [[Simulation code]](https://github.com/khachoang1412/UMA_random_user_activity)
 
 1. **Khac-Hoang Ngo**, S. Yang, M. Guillaud, and A. Decurninge, "Joint constellation design for the non-coherent MIMO multiple-access channel," *IEEE Trans. Inf. Theory*, 68, (11), 7281-7305, Nov. 2022. [[arXiv]](https://arxiv.org/abs/2009.11548.pdf)
 
@@ -108,8 +106,28 @@ real-time software-defined radio testbed with USRP and bladeRF devices.
 ---
 ## Conference papers
 
+1. M. Lassila, J. Östman, Khac-Hoang Ngo, and A. Graell i Amat, “Practical bayes-optimal membership inference attacks,” in _Conference on Neural Information Processing Systems (NeurIPS)_, San Diego, CA, USA, 2025. [[arXiv]](https://arxiv.org/pdf/2505.24089)
+   
+1. N.-S. Duong, **Khac-Hoang Ngo**, T.-M. Dinh-Thi, and V.-L. Nguyen, “Sparse orthogonal matching pursuit-based parameter estimation for integrated sensing and communications,” in _IEEE INFOCOM Workshop_, London, UK, 2025. [[arXiv]](https://arxiv.org/pdf/2503.02293)
+
+1. **Khac-Hoang Ngo**, G. Durisi, and P. Popovski, “Information age and correctness for energy harvesting devices with random access,” in _IEEE Global Communications Conference (GLOBECOM)_, Taipei, Taiwan, 2025. [[arXiv]](https://arxiv.org/pdf/2501.14522)
+
+1. **Khac-Hoang Ngo** and E. G. Larsson, “Breaking the TDD flow for over-the-air phase synchronization in distributed antenna systems,” in _IEEE Global Communications Conference (GLOBECOM)_, Taipei, Taiwan, 2025. [[arXiv]](https://arxiv.org/pdf/2504.11411)
+
+1. **Khac-Hoang Ngo**, D. N. Nguyen, and T.-M. D. Thi, “Protocol design for irregular repetition slotted ALOHA with energy harvesting to maintain information freshness,” in _IEEE Wireless Communications and Networking Conference (WCNC)_, 2025. [[arXiv]](https://arxiv.org/pdf/2411.01446)
+
+1. **Khac-Hoang Ngo**, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” submitted to _IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)_, 2024. [[arXiv]](https://arxiv.org/pdf/2404.19552) [[Simulation code]](https://github.com/khachoang1412/TUMA)
+
+1. D. P. Krishnan, K. Okumus, **Khac-Hoang Ngo**, and G. Durisi, “An achievability bound for type-based unsourced multiple access,” in _IEEE Symposium on Information Theory (ISIT)_, 2025. [[arXiv]](https://arxiv.org/pdf/2504.19916)
+
+1. K. Okumus, **Khac-Hoang Ngo**, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access over fading channels with cell-free massive MIMO,” in _IEEE Symposium on Information Theory (ISIT)_, 2025. [[arXiv]](https://arxiv.org/abs/2504.19954)
+
+1. **Khac-Hoang Ngo**, J. Östman, and A. Graell i Amat, “Local mutual-information differential privacy,” submitted to _IEEE Inf. Theory Workshop (ITW)_, Nov. 2024. [[arXiv]](https://arxiv.org/pdf/2405.07596)
+  
 1. **Khac-Hoang Ngo**, J. Östman, G. Durisi, and A. Graell i Amat, “Secure aggregation is not private against membership inference attacks,” in _European Conference on Machine Learning and Principles
 and Practice of Knowledge Discovery in Databases (ECML PKDD)_, Vilnius, Lithuania, Sep. 2024. [[arXiv]](https://arxiv.org/pdf/2403.17775)
+
+1. **Khac-Hoang Ngo**, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” in _IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)_, 2024, pp. 911–915. [[arXiv]](https://arxiv.org/pdf/2404.19552)
 
 1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, A. Munari, and F. Lázaro, “Age of information in slotted ALOHA with energy harvesting,” in _IEEE Global Commun. Conf. (Globecom)_, Kuala Lumpur, Malaysia, Dec. 2023. [[arXiv]](https://arxiv.org/pdf/2310.00348.pdf) [[Simulation code]](https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting)
 

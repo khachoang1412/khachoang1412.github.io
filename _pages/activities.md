@@ -128,17 +128,9 @@ author_profile: true
     * JENESYS 2.0 culture exchange program, Japan, July 2014
     * Vietnam - China Youth Festival, Guangxi, China, Nov. 2013
 
-<!-- * **Student Representative Positions**
-    * Vice-president of Student Association of UET, VNU, April 2012–June 2015
-    * President of Student Club on Presentation of UET, VNU, April 2011–June 2012 -->
-
 * **Public-science online talks/workshops** for Vietnamese community:
     - "Làm sao để thông tin luôn trẻ?", Association of Vietnamese Science and Technology Experts in Sweden, 11/2024
     - [Bài giảng "Truyền thông Vô tuyến: Cơ bản và Ứng dụng"](https://khachoang1412.wordpress.com/2020/11/03/truyen-thong-vo-tuyen-co-ban-va-ung-dung/), 17/06/2020
     - [Hội tụ Công nghệ Thông tin và Truyền thông cho Sự Phát triển của Đất nước](https://khachoang1412.wordpress.com/2020/11/03/phat-trien-dat-nuoc-nho-hoi-tu-cong-nghe-thong-tin-va-truyen-thong/), 10/2020
     - [Khoa học Dữ liệu, Học máy, và Trí tuệ Nhân tạo trong Chuyển đổi số](https://trithuctrevietnam.vn/GlobalVYSA/hoi-thao-khoa-hoc-du-lieu-hoc-may-va-tri-tue-nhan-tao-trong-chuyen-doi-so/), 13/11/2021
     - [Tư vấn "Chuẩn bị hành trang cho tương lai" cho học sinh trường THPT Hiệp Hòa số 1, Bắc Giang](https://youtu.be/jst7yVAQPzA), 06/22/2021
-
-<!-- * **Mentor** for Vietnamese students under
-  the [Mentorship program](https://donghanh.net/2022/01/dong-hanh-alumni-khoi-dong-chuong-trinh-mentorship-mua-1/), Dong-Hanh Scholarship Association. -->
-

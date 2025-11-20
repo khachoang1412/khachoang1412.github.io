@@ -14,55 +14,6 @@ My research interests are in the areas of wireless communications, information t
 
 My goal is to gain fundamental insights into communication and learning systems and to leverage these insights for practical designs of these system.
 
-<!--- ## Research Profile
-I have more than 10 years of experience in research, from the third year of my bachelor’s study to my current postdoctoral research. In the following, I retrace the main steps in my research career.
-
-My postdoctoral research primarily focuses on **massive random access**, where a large number of sporadically active devices access the wireless medium in an uncoordinated fashion. First, I characterized
-the energy efficiency achievable under the **unsourced multiple access (UMA)** framework, where the users employ the same codebook, and the decoder returns an unordered list of codewords. Specifically, I extended
-the random-coding achievability bound in the original UMA framework to the cases in which:
-* the number of active devices is random and unknown to the receiver;
-* there is heterogeneous traffic consisting of both standard and critical messages;
-* the receiver not only detects the transmitted messages but also estimates their types.
-  
-Second, I explored practical **advanced slotted ALOHA protocols**. I analyzed irregular repetition slotted ALOHA (IRSA) over the binary adder channel. I also investigated **information freshness**, measured in
-terms of the age of information metric achieved with:
-* IRSA when devices belong to different classes;
-* slotted ALOHA when devices rely on harvested energy.
-
-Furthermore, I investigated the **privacy of federated learning**. I analyzed a variation of local **differential privacy** where the privacy leakage is measured by mutual information. I also quantified the privacy guarantee of **secure aggregation** (where clients jointly mask their updates to reveal only the aggregate) through the lens of differential privacy.
-
-Besides massive random access and privacy, I also conducted research on edge computing, reconfigurable intelligent surfaces, joint communication and sensing, mmWave channel estimation,
-and network deployment for rural connectivity.
-
-The topic of my Ph.D. thesis was **noncoherent wireless communications**, where channel state information (CSI) is unavailable a priori. Conventional wireless communication methods involve pilot-based
-channel estimation and coherent detection. However, when channel estimation is challenging and overconsumes communication resources, adopting communication strategies that operate without relying on CSI,
-such as using Grassmannian constellations, proves to be more effective. In the first part of the thesis, I characterized the fundamental limits of noncoherent communications under generic fading conditions.
-Specifically, I derived the optimal/achievable degrees of freedom and data rates for:
-* the noncoherent point-to-point channel;
-* the multiple access channel;
-* the broadcast channel.
-  
-In the second part, I designed practical schemes, including:
-* a structured Grassmannian constellation with high packing efficiency and low mapping/demapping complexity;
-* meaningful metrics to design joint constellations for the multiple access channel;
-* a practical multiple access scheme;
-* a low-complexity and effective noncoherent multiuser detection scheme based on expectation propagation.
-Moreover, I presented a generalized Gaussian model to characterize the input-output relation in nonlinear channels.
-
-My master’s thesis focused on **coded caching**, which reduces the traffic load in content delivery networks
-by prefetching content near/at the users and by employing coded multicast. I analyzed the performance
-of coded caching in practical scenarios, considering random demands, random user arrivals, and wireless
-channels. In MIMO broadcast channels, coded multicast is limited by the channel condition of the worst
-user, hindering scalability, i.e., the ability to guarantee a constant per-user delivery rate as the user population
-grows. I proposed methods to achieve scalability based on multiple-antenna transmission or opportunistic
-user scheduling, uncovering a synergy between coded caching and massive MIMO.
-
-During my bachelor’s study, I actively engaged in research early by completing a summer internship
-at the National University of Singapore, focusing on solar panel charge controllers. Subsequently, I
-participated in a research project on **network coding**, aiming to increase the network throughput through
-transmitting message combinations. I implemented network coding and cognitive radio protocols using a
-real-time software-defined radio testbed with USRP and bladeRF devices. -->
-
 ## Preprints
 
 1. **Khac-Hoang Ngo**, D. Cuevas, R. de Miguel Gil, V. Monzon Baeza, A. Garcia Armada, and I. Santamaria, “Noncoherent MIMO communications: Theoretical foundation, design
@@ -116,18 +67,16 @@ approaches, and future challenges,” submitted to IEEE Open Journal of Vehicula
 
 1. **Khac-Hoang Ngo**, D. N. Nguyen, and T.-M. D. Thi, “Protocol design for irregular repetition slotted ALOHA with energy harvesting to maintain information freshness,” in _IEEE Wireless Communications and Networking Conference (WCNC)_, 2025. [[arXiv]](https://arxiv.org/pdf/2411.01446)
 
-1. **Khac-Hoang Ngo**, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” submitted to _IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)_, 2024. [[arXiv]](https://arxiv.org/pdf/2404.19552) [[Simulation code]](https://github.com/khachoang1412/TUMA)
+1. **Khac-Hoang Ngo**, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” _IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)_, 2024. [[arXiv]](https://arxiv.org/pdf/2404.19552) [[Simulation code]](https://github.com/khachoang1412/TUMA)
 
 1. D. P. Krishnan, K. Okumus, **Khac-Hoang Ngo**, and G. Durisi, “An achievability bound for type-based unsourced multiple access,” in _IEEE Symposium on Information Theory (ISIT)_, 2025. [[arXiv]](https://arxiv.org/pdf/2504.19916)
 
 1. K. Okumus, **Khac-Hoang Ngo**, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access over fading channels with cell-free massive MIMO,” in _IEEE Symposium on Information Theory (ISIT)_, 2025. [[arXiv]](https://arxiv.org/abs/2504.19954)
 
-1. **Khac-Hoang Ngo**, J. Östman, and A. Graell i Amat, “Local mutual-information differential privacy,” submitted to _IEEE Inf. Theory Workshop (ITW)_, Nov. 2024. [[arXiv]](https://arxiv.org/pdf/2405.07596)
+1. **Khac-Hoang Ngo**, J. Östman, and A. Graell i Amat, “On local mutual-information differential privacy,” _IEEE Inf. Theory Workshop (ITW)_, Nov. 2024. [[arXiv]](https://arxiv.org/pdf/2405.07596)
   
 1. **Khac-Hoang Ngo**, J. Östman, G. Durisi, and A. Graell i Amat, “Secure aggregation is not private against membership inference attacks,” in _European Conference on Machine Learning and Principles
 and Practice of Knowledge Discovery in Databases (ECML PKDD)_, Vilnius, Lithuania, Sep. 2024. [[arXiv]](https://arxiv.org/pdf/2403.17775)
-
-1. **Khac-Hoang Ngo**, D. P. Krishnan, K. Okumus, G. Durisi, and E. G. Ström, “Type-based unsourced multiple access,” in _IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)_, 2024, pp. 911–915. [[arXiv]](https://arxiv.org/pdf/2404.19552)
 
 1. **Khac-Hoang Ngo**, G. Durisi, A. Graell i Amat, A. Munari, and F. Lázaro, “Age of information in slotted ALOHA with energy harvesting,” in _IEEE Global Commun. Conf. (Globecom)_, Kuala Lumpur, Malaysia, Dec. 2023. [[arXiv]](https://arxiv.org/pdf/2310.00348.pdf) [[Simulation code]](https://github.com/khachoang1412/AoI_slottedALOHA_energyHarvesting)
 

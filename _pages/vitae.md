@@ -44,17 +44,10 @@ author_profile: true
 * *Best Paper Award*, [2021 International Conference On Advanced Technologies For Communications (ATC)](https://atc-conf.org/), HCM City, Vietnam, 2021
 * [*Signal, Image & Vision Ph.D. Thesis Prize*](http://gretsi.fr/prix-de-these2021/resultats.php) by EEA, GRETSI and GdR-ISIS, France, 2021
 * [*Marie Skłodowska-Curie Actions Individual Fellowship*](https://cordis.europa.eu/project/id/101022113), 2021
-<!--- * *Romberg Grant* for selected participants of the 7th Heidelberg Laureate Forum, Germany, Sept. 2019 -->
 * *10-out-of-200 list of participants* of the 7th Heidelberg Laureate Forum, Germany 2019
 * *Graduate with first-class honors (Master level)*, CentraleSupélec, 2016
-<!--- * *Université Paris-Saclay scholarship*, University of Paris-Saclay, 2015–2016 -->
 * *Graduate with first-class honors (Bachelor level)*, UET, VNU, 2014
-<!--- * *Excellent Undergraduate Thesis Award*, UET, VNU, 2014
-* *Third Prize*, Undergraduate Scientific Research Contest, UET, VNU, April 2014 -->
 * [*Honda Young Engineers and Scientists Award*](https://www.hondafoundation.jp/yes/index_en/119), Honda Foundation, Japan, Nov. 2013 (Awarded to 10 selected students from top 6 Vietnamese universities in natural science, engineering and technology)
-<!--- * *Undergraduate Research Attachment Programme Grant*, National University of Singapore, 2012
-* *Shinnyo scholarship*, Shinnyo-en Organization, Japan 2010–2014 (annually)
-* *Vallet scholarship*, Rencontres du Vietnam, 2011 -->
 
 
 

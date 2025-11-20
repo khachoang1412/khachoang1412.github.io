@@ -31,7 +31,7 @@ author_profile: true
 * "Point-Cloud Transmission for Remote Registration", *Wallenberg AI, Autonomous Systems and Software Program (WASP)*, 8M SEK, 2025–2029, role: **PI**, 
 * "Theory for the Privacy-Security Trade-off in Practical Federated Learning", *Swedish Research Council (VR)*, 2025-2029, 5 MSEK, role: **co-PI**
 * "Theory for the Privacy-Security Trade-off in Federated Learning", *Wallenberg AI, Autonomous Systems and Software Program (WASP)*, 4 MSEK, 2023-2027, role: **co-PI**
-* “LANTERN: Low-latency and private edge computing in random-access networks”, *Marie Skłodowska-Curie Individual Fellowship*, 192 000 Euros, 2021-2022, role: **Fellow** 
+* “LANTERN: Low-latency and private edge computing in random-access networks”, *Marie Skłodowska-Curie Individual Fellowship*, 192 000 Euros, 2021-2022, role: **Fellow**. [[Project website]](https://khachoang1412.github.io/lantern/)
 * "Agricultural IoT based on Edge Computing", *ICT Virtual Organization of ASEAN Institutes and Japan’s NICT (ASEAN IVO)*, 80 000 USD, 2022-2024, role: **co-PI**
 * “Connecting the Unconnected: A Tool for Digital Inclusion”, *AlumNode Funding*, 5000 Euros, 2021-2022, role: **co-PI**
 
@@ -55,5 +55,6 @@ author_profile: true
 <!--- * *Undergraduate Research Attachment Programme Grant*, National University of Singapore, 2012
 * *Shinnyo scholarship*, Shinnyo-en Organization, Japan 2010–2014 (annually)
 * *Vallet scholarship*, Rencontres du Vietnam, 2011 -->
+
 
 

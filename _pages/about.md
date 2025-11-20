@@ -17,8 +17,6 @@ Sweden
 
 I received the B.Eng. degree (Hons.) in electronics and telecommunications from [University of Engineering and Technology](https://uet.vnu.edu.vn/), Vietnam National University, Hanoi, Vietnam, in 2014; and the M.Sc. degree (Hons.) and Ph.D. degree in wireless communications from [CentraleSupélec](https://www.centralesupelec.fr/), Paris-Saclay University, France, in 2016 and 2020, respectively. My Ph.D. thesis was also realized at the Mathematical and Algorithmic Sciences Laboratory, Paris Research Center, Huawei Technologies France. Since September 2024, I have been an assistant professor at the [Division of Communication Systems](https://liu.se/en/organisation/liu/isy/ks), [Linköping University](https://liu.se/en). From September 2020 to August 2024, I was a postdoctoral researcher at [Communication Systems Group](https://www.chalmers.se/en/departments/e2/research/Communication-systems/Pages/Communication-Systems.aspx), Chalmers University of Technology, Sweden. My research interests include wireless communications, information theory, and machine learning, with an emphasis on massive random access, AI privacy and security, information freshness, MIMO, and noncoherent communications. 
 
-<!--- I received the [Honda Award for Young Engineers and Scientists (Honda Y-E-S Award)](https://www.hondafoundation.jp/yes/index_en/119) in Vietnam in 2013, the [Marie Skłodowska-Curie Actions (MSCA) Individual Fellowship](https://cordis.europa.eu/project/id/101022113) in 2021, and the "[Signal, Image & Vision Ph.D. Thesis Prize](http://gretsi.fr/prix-de-these2021/resultats.php)" by Club EEA, GRETSI and GdR-ISIS, France in 2021. -->
-
 Curriculum vitae [[PDF]](http://khachoang1412.github.io/files/CV_HoangNgo.pdf)
 
 ---
@@ -44,19 +42,3 @@ Campus Valla, Building B, entrance 27, room 3A:455 \
 Synchronization in Distributed Antenna Systems"](https://arxiv.org/pdf/2504.11411)
 * 11/2024: I received the 2024 **Golden Globe Science and Technology Award** in Vietnam. The Vietnam Ministry of Science and Technology and the Vietnam Youth Union present this annual award to ten selected under-35 Vietnamese scientists.
 * 09/2024: **I joined Linköping University as an assistant professor.**
-<!--- * 05/2024: Our paper [Secure Aggregation is Not Private Against Membership Inference Attacks](https://arxiv.org/pdf/2403.17775) is accepted to the European Conference on Machine Learning.
-* 04/2024: I visited Prof. Petar Popovski at Aalborg University, Denmark. Lots of fruitful discussion!
-* 09/2023: I participated in the final outreach event of the European H2020 project INCOMING (INnovation and excellence in massive-scale COMmunications and information processING) in Novi Sad and Belgrade, Serbia
-* 08/2023: Our paper [Age of Information in Slotted ALOHA With Energy Harvesting](https://research.chalmers.se/publication/537484/file/537484_Fulltext.pdf) is accepted to IEEE Globecom 2023
-* 05/2023: We are looking for a [PhD candidate in privacy-preserving federated learning.](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=11750&rmlang=UK)
-* 04/2023: Two papers accepted to the IEEE Statistical Signal Processing (SSP) Workshop 2023: *Joint Communications and Sensing Design for Multi-Carrier MIMO Systems* and *Sparse Bayesian Learning with Atom Refinement for mmWave MIMO Channel Estimation*
-* 03/2023: Our proposal *Theory for the Privacy-Security Trade-off in Federated Learning* for a PhD student project has been accepted by [Wallenberg AI, Autonomous Systems and Software Program (WASP).](https://wasp-sweden.org/)
-* 02/2023: Our paper *Unsourced Multiple Access With Common Alarm Messages: Network Slicing for Massive and Critical IoT* was submitted to IEEE Transactions on Communications. A preprint can be found [here.](https://arxiv.org/pdf/2302.11026.pdf)
-* 02/2023: Our paper *Unsourced Multiple Access With Random User Activity* is accepted to IEEE Transactions on Information Theory. A preprint can be found [here.](https://arxiv.org/pdf/2202.06365.pdf) -->
-<!--- * 01/2023: I attended the [Zugspite Workshop on Communications](http://zugspitzeworkshop.com/), Germany, and gave a talk on *Unsourced Multiple Access with Common Alarm Messages: Network Slicing for Massive and Critical IoT.*
-<!--- * 09/2022: I attended the 9th Heidelberg Laureate Forum (HLF). See an [interview in the spotlight of the HLF.](https://scilogs.spektrum.de/hlf/hlff-spotlight-9th-hlf-2/) -->
-<!--- * 02/2022: [Our new paper *Unsourced Multiple Access With Random User Activity*](https://khachoang1412.github.io/news-post/UMA-random-user-activity/) -->
-<!--- * 01/2022: [Matlab routines for our paper *Age of Information in Prioritized Random Access*](https://khachoang1412.github.io/news-post/matlab-AoI-Asilomar-paper/)-->
-<!--- * 02/2022: [Recorded videos of my presentations in 2021](https://khachoang1412.github.io/news-post/presentation-video-2021/)-->
-<!--- * 01/2021: [Thesis prize awarded by CentraleSupélec Foundation](https://khachoang1412.github.io/news-post/thesis-prize-impact-science/)-->
-<!--- * 10/2021: [My MSCA project LANTERN starts](https://khachoang1412.github.io/news-post/lantern-starts/)-->

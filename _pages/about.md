@@ -33,6 +33,7 @@ Campus Valla, Building B, entrance 27, room 3A:455 \
 
 ---
 # News
+* 01/2025: Paper accepted to IEEE ICASSP 2026. Preprint: [https://arxiv.org/pdf/2509.12924](https://arxiv.org/pdf/2509.12924)
 * 11/2025: **I am recruiting a PhD student to work on AI Security with a focus on memory poisoning in LLM Agents for the VR project below. Read full information and apply here: [https://liu.se/en/work-at-liu/vacancies/27883](https://liu.se/en/work-at-liu/vacancies/27883)**
 * 10/2025: I am granted funding (6 MSEK) from the Swedish Research Council (VR) for the project "Memory Poisoning in LLM Agents: Foundations, Attacks, and Defenses". My co-PIs are Alexandre Graell i Amat (Chalmers) and Johan Östman (Recorded Future). We will soon recruit a PhD student for this project.
 * 10/2025: I presented a tutorial on ``Unsourced Multiple Access: from Support Recovery to Type Estimation'' at the [Swedish Communication Technologies Workshop (Swe-CTW)](https://site.ieee.org/swe-ctw/tutorials/). Type-based unsourced multiple access (TUMA) (see [here](https://arxiv.org/pdf/2404.19552), [here](https://arxiv.org/pdf/2504.19954), and [here](https://arxiv.org/pdf/2504.19916)) is a framework in which multiple devices track the state of physical/digital processes, quantize this state, and communicate it to a common receiver through a shared channel in an uncoordinated manner. The reported type serves as an interface for downstream inference tasks.

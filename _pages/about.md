@@ -39,8 +39,9 @@ Campus Valla, Building B, entrance 27, room 3A:455 \
 
 ---
 # News
+* 03/2026: Check our new preprint "[Type-Based Unsourced Multiple Access Over Fading Channels in Distributed MIMO With Application to Multi-Target Localization](https://arxiv.org/pdf/2603.01749)".
 * 02/2026: I am appointed as the Chair of the [IEEE ITSoc Student & Outreach Subcommittee](https://www.itsoc.org/people/committees/student).
-* 01/2026: Paper "Type-Based Unsourced Federated Learning With Client Self-Selection" accepted to IEEE ICC 2026.
+* 01/2026: Paper "[Type-Based Unsourced Federated Learning With Client Self-Selection](https://arxiv.org/abs/2602.06601)" accepted to IEEE ICC 2026.
 * 01/2026: Paper "MATTER: Multiscale Attention for Registration Error Regression" accepted to IEEE ICASSP 2026. Preprint: [https://arxiv.org/pdf/2509.12924](https://arxiv.org/pdf/2509.12924)
 * 12/2025: Paper "Noncoherent MIMO Communications: Theoretical Foundation, Design Approaches, and Future Challenges" accepted by IEEE Open Journal of Vehicular Technology. Preprint: [https://arxiv.org/pdf/2505.23172](https://arxiv.org/pdf/2505.23172)
 * 10/2025: I am granted funding (6 MSEK) from the Swedish Research Council (VR) for the project "Memory Poisoning in LLM Agents: Foundations, Attacks, and Defenses". My co-PIs are Alexandre Graell i Amat (Chalmers) and Johan Östman (Recorded Future). We will soon recruit a PhD student for this project.

@@ -33,7 +33,7 @@ Campus Valla, Building B, entrance 27, room 3A:455 \
 
 ---
 # Vacancies
-* I am recruiting a PhD student to work on AI Security with a focus on memory poisoning in LLM Agents for the VR project below. Read full information and apply here: [[https://liu.se/en/work-at-liu/vacancies/27883](https://liu.se/en/work-at-liu/vacancies/27883)](https://liu.se/en/work-at-liu/vacancies/28735)
+* I am recruiting a PhD student to work on AI Security with a focus on memory poisoning in LLM Agents, fully funded by the Swedish Research Council (VR). Read full information and apply here: [[https://liu.se/en/work-at-liu/vacancies/27883](https://liu.se/en/work-at-liu/vacancies/27883)](https://liu.se/en/work-at-liu/vacancies/28735)
 * I support applications for MSCA Postdoctoral Fellowship (https://marie-sklodowska-curie-actions.ec.europa.eu/funding/msca-postdoctoral-fellowships-2026). Deadline: September. I received this fellowship in 2021. Please contact me if you are interested.
 * If you are mathematically inclined and interested in pursuing master/PhD/postdoctoral research in the general areas of information theory, communication theory, and machine learning, feel free to reach out. We will explore opportunities to work together.
 

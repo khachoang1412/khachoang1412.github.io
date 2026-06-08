@@ -25,11 +25,12 @@ author_profile: true
 ## Supervision
 
 ### Ph.D. thesis: Co-supervisor with a plan to become the main supervisor
-* (recruiting), "Memory poisoning in LLM agents: foundations, attacks, and defenses", Linköping University, Sweden, to start in Spring 2026
+* (recruiting), "Memory poisoning in LLM agents: foundations, attacks, and defenses", Linköping University, Sweden, to start in 2026
 * Garima, "Point cloud transmission for remote registration", Linköping University, Sweden, started in 10/2025
 * Shipeng Liu, "Point cloud transmission for remote registration", Linköping University, Sweden, started in 08/2025
 
 ### Ph.D. thesis: Co-supervisor
+* Siying Chen, "Decentralized learing over wireless networks", Linköping University, Sweden, started in 06/2026
 * Amandus Reimer, "The privacy-security trade-off in practical federated learning", Chalmers University of Technology, Sweden, started in 03/2025
 * Marcus Lassila, "Theory for the privacy-security trade-off in federated learning", Chalmers University of Technology, Sweden, started in 09/2023
 

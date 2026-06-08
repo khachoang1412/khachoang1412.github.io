@@ -33,12 +33,15 @@ Campus Valla, Building B, entrance 27, room 3A:455 \
 
 ---
 # Vacancies
-* I am recruiting a PhD student to work on AI Security with a focus on memory poisoning in LLM Agents, fully funded by the Swedish Research Council (VR). Read full information and apply here: [[https://liu.se/en/work-at-liu/vacancies/27883](https://liu.se/en/work-at-liu/vacancies/27883)](https://liu.se/en/work-at-liu/vacancies/28735)
+* I am recruiting a PhD student to work on information-theoretic foundations of memory poisoning in AI agents, fully funded by the Swedish Research Council (VR). Read full information and apply here: [https://liu.se/en/work-at-liu/vacancies/29341](https://liu.se/en/work-at-liu/vacancies/29341)
 * I support applications for [MSCA Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/funding/msca-postdoctoral-fellowships-2026). Deadline: **September**. I received this fellowship in 2021. Please contact me if you are interested.
 * If you are mathematically inclined and interested in pursuing master/PhD/postdoctoral research in the general areas of information theory, communication theory, and machine learning, feel free to reach out. We will explore opportunities to work together.
 
 ---
 # News
+* 06/2026: I gave my Docent Lecture "Unsourced Multiple Access for Massive Connectivity: from Support Recovery to Type Estimation" of June 05.
+* 05/2026: Our paper ["Distributed MIMO With Over-the-Air Phase Calibration Integrated Into the TDD Flow"](https://arxiv.org/pdf/2509.03722) is accepted to IEEE Transactions on Wireless Communications.
+* 05/2026: Dr. Alejandro Lancho (University Carlos III of Madrid) visited me at LiU.
 * 03/2026: Check our new preprint "[Type-Based Unsourced Multiple Access Over Fading Channels in Distributed MIMO With Application to Multi-Target Localization](https://arxiv.org/pdf/2603.01749)".
 * 02/2026: I am appointed as the Chair of the [IEEE ITSoc Student & Outreach Subcommittee](https://www.itsoc.org/people/committees/student).
 * 01/2026: Paper "[Type-Based Unsourced Federated Learning With Client Self-Selection](https://arxiv.org/abs/2602.06601)" accepted to IEEE ICC 2026.

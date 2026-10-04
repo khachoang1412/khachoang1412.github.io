@@ -1,0 +1,34 @@
+/* Shared reading sizes. Loaded last on every page; headings keep their scale. */
+:root{--reading-size:1.125rem;--small-size:1rem;--label-size:.875rem}
+body{font-size:var(--reading-size);line-height:1.75}
+.lead,.conversation-intro{font-size:1.25rem;line-height:1.8}
+.section-head>p,.theme p:not(.eyebrow),.paper p:not(.eyebrow),
+.current p:not(.eyebrow),.about>p:not(.eyebrow),.invitations p,
+.research-block p:not(.eyebrow),.research-block .lead-small,
+.closing p,.student-list p,.course p:not(.eyebrow),
+.community>div>p:not(.eyebrow),.personal-heading p:not(.eyebrow),
+.race-highlights p,.race-archive ul,.book p,.resource-note p,
+details ul,.archive-note,.publication-list>li{font-size:var(--reading-size)}
+.discussion>p:not(.eyebrow){font-size:1.5rem}
+.masthead{flex-wrap:wrap;gap:20px;padding-block:20px}
+.masthead nav{flex-wrap:wrap;gap:12px 20px}
+nav a,.masthead nav a,.topic-nav a,.pub-nav a,
+.button,.text-link,.paper-links,.pub-links a,summary,
+.student-list small,.subtle,.contact>p,.book small,
+.footer,.footer span,.footer .updated,figcaption,
+.race-highlights span,.resource-note>span{font-size:var(--small-size)}
+.eyebrow,.hero .eyebrow,.theme .eyebrow,.paper .eyebrow,
+.brand span,figcaption span,.profile-home>span,.pub-label,
+.pub-nav span,.publication-section h2 small{font-size:var(--label-size)}
+.eyebrow{letter-spacing:.065em}
+.theme .eyebrow{min-height:46px}
+.brand{font-size:1.4rem}
+.community-links p{font-size:var(--reading-size)!important}
+.footer{align-items:center}.footer .profile-links{flex-shrink:1}
+.pub-label{padding-top:4px}.publication-list>li{line-height:1.8}
+.section-head>.text-link{flex-shrink:1}
+.button{white-space:normal;text-align:center}
+.news-edit-note{font-size:var(--small-size)}
+@media(max-width:1000px){.section-head{flex-wrap:wrap}.section-head>p{max-width:440px}}
+@media(max-width:720px){.lead,.conversation-intro{font-size:1.125rem}.masthead nav{gap:10px 17px}.theme .eyebrow{min-height:0}.footer{align-items:flex-start}.contact>p{max-width:none}.publication-list>li{grid-template-columns:48px minmax(0,1fr)}.race-highlights{grid-template-columns:1fr}.topic-nav{align-items:flex-start}.brand{font-size:1.4rem}}
+@media print{body{font-size:11pt}.publication-list>li{font-size:11pt}}
